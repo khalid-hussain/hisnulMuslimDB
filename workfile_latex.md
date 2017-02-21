@@ -751,58 +751,46 @@ Ibn al-Sunnī ['Amal al-Yawm wa al-Laylah][54] and Ibn Mājah [925]. Shuʿayb an
 
     Al-Bukhārī [2311](4/487).
 
-101
+101. <div lang="ar">﴿ءامَنَ الرَّسُولُ بِمَا أُنزِلَ إِلَيْهِ مِن رَّبِّهِ وَالْمُؤْمِنُونَ...﴾</div>
 
-﴿ءامَنَ الرَّسُولُ بِمَا أُنزِلَ إِلَيْهِ مِن رَّبِّهِ وَالْمُؤْمِنُونَ...﴾
+    The Prophet \pbuh also said: 'Whoever recites the last two verses of Sūrah al-Baqarah at night; those two verses shall be sufficient for him.'
 
-The Prophet (salla Allaahu ʻalayhi wa salaam) also said: 'Whoever recites the last two verses of Surah Al-Baqarah at night; those two verses shall be sufficient for him.'
+    Al-Bukhārī [4008](9/94) and Muslim [808](1/554).
 
-Al-Bukhārī [4008](9/94) and Muslim [808](1/554).
---------------------------
-102
+102. <div lang="ar">بِاسْمِكَ رَبِّي وَضَعْتُ جَنْبِي، وَبِكَ أَرْفَعُهُ، فإِنْ أَمْسَكْتَ نَفْسِي فَارْحَمْهَا، وَإِنْ أَرْسَلْتَهَا فَاحْفَظْهَا، بِمَا تَحْفَظُ بِهِ عِبَادَكَ الصَّالِحِينَ</div>
 
-بِاسْمِكَ رَبِّي وَضَعْتُ جَنْبِي، وَبِكَ أَرْفَعُهُ، فإِنْ أَمْسَكْتَ نَفْسِي فَارْحَمْهَا، وَإِنْ أَرْسَلْتَهَا فَاحْفَظْهَا، بِمَا تَحْفَظُ بِهِ عِبَادَكَ الصَّالِحِينَ
+    If one of you rises from his bed and then returns to it he should dust it with the edge of his garment three times for he does not know what has occurred in his absence and when he lies down he should supplicate: 'In Your name my Lord, I lie down and in Your name I rise, so if You should take my soul then have mercy upon it, and if You should return my soul then protect it in the manner You do so with Your righteous servants.'
 
-If one of you rises from his bed and then returns to it he should dust it with the edge of his garment three times for he does not know what has occurred in his absence and when he lies down he should supplicate:'In Your name my Lord, I lie down and in Your name I rise, so if You should take my soul then have mercy upon it, and if You should return my soul then protect it in the manner You do so with Your righteous servants.'
+    Al-Bukhārī [6320](11/126) and Muslim [2714](4/2084).
 
-Al-Bukhārī [6320](11/126) and Muslim [2714](4/2084).
---------------------------
-103
+103. <div lang="ar">اللَّهُمَّ إِنَّكَ خَلَقْتَ نَفْسي وَأَنْتَ تَوَفَّاهـَا، لَكَ مَمَاتُهَا وَمَحْيَاهَا، إِنْ أَحْيَيْتَهَا فَاحْفَظْهَا، وَإِنْ أَمَتَّهَا فَاغْفِرْ لَهَا، اللَّهُمَّ إِنَّي أَسْألُكَ العَافِيَةَ</div>
 
-اللَّهُمَّ إِنَّكَ خَلَقْتَ نَفْسي وَأَنْتَ تَوَفَّاهـَا، لَكَ مَمَاتُهَا وَمَحْيَاهَا، إِنْ أَحْيَيْتَهَا فَاحْفَظْهَا، وَإِنْ أَمَتَّهَا فَاغْفِرْ لَهَا، اللَّهُمَّ إِنَّي أَسْألُكَ العَافِيَةَ
+    O Allāh, verily You have created my soul and You shall take its life, to You belongs its life and death. If You should keep my soul alive then protect it, and if You should take its life then forgive it. O Allāh, I ask You to grant my good health.
 
-O Allāh, verily You have created my soul and You shall take its life, to You belongs its life and death. If You should keep my soul alive then protect it, and if You should take its life then forgive it. O Allāh, I ask You to grant my good health.
+    Muslim [2712](4/2083) and Aḥmad (2/79).
 
-Muslim [2712](4/2083) and Aḥmad (2/79).
---------------------------
-104
+104. <div lang="ar">اللَّهُمَّ قِنِي عَذابَكَ، يَوْمَ تَبْعَثُ عِبَادَكَ</div>
 
-اللَّهُمَّ قِنِي عَذابَكَ، يَوْمَ تَبْعَثُ عِبَادَكَ
+    O Allāh, protect me from Your punishment on the day Your servants are resurrected.
 
-O Allāh, protect me from Your punishment on the day Your servants are resurrected.
+Abū Dāwud [5045](4/311). Also see _Ṣaḥīḥ al-Tirmidhī_ (3/143).
 
-Abū Dāwud [5045](4/311). Also see Ṣaḥīḥ Al-Tirmidhī (3/143).
---------------------------
-105
+105. <div lang="ar">بِاسْمِكَ اللَّهُمَّ أَموتُ وَأحْيَا</div>
 
-بِاسْمِكَ اللَّهُمَّ أَموتُ وَأحْيَا
+    In Your name O Allāh, I live and die.
 
-In Your name O Allāh, I live and die.
+    Abū Dāwud [5045](4/311). Also see _Ṣaḥīḥ al-Tirmidhī_ (3/143).
 
-Abū Dāwud [5045](4/311). Also see Ṣaḥīḥ Al-Tirmidhī (3/143).
---------------------------
-106
-
-سُبْحَانَ اللهِ (ثَلاثاً وثَلاثِينَ)
+106. <div lang="ar">سُبْحَانَ اللهِ (ثَلاثاً وثَلاثِينَ)
 وَالحَمْدُ لِلَّهِ (ثَلاثاً وثَلاثِينَ)
-وَاللهُ أكْبرُ (أربَعاً وثَلاثِينَ)
+وَاللهُ أكْبرُ (أربَعاً وثَلاثِينَ)</div>
 
-How Perfect is Allāh [Thirty-three times].
-All praise is for Allāh [Thirty-three times].
-Allāh is the Greatest [Thirty-four times].
+    How Perfect is Allāh [Thirty-three times].  
+    All praise is for Allāh [Thirty-three times].  
+    Allāh is the Greatest [Thirty-four times].
 
-Al-Bukhārī [3705](7/71) and Muslim [2727](4/2091).
---------------------------
+    Al-Bukhārī [3705](7/71) and Muslim [2727](4/2091).
+
 107
 
 اللَّهُمَّ رَبَّ السَّمَوَاتِ السَّبْعِ، وَرَبَّ الأرْضِ، وربَّ العَرْشِ العَظِيمِ، رَبَّنَا وَرَبَّ كُلِّ شَيءٍ، فَالِقَ الحَبِّ وَالنَّوَى، وَمُنْزِلَ التَّوْرَاةِ وَالإنْجِيْلِ و الفُرْقَانِ، أَعوذُ بِكَ مِن شَرِّ كُلِّ شَيءٍ أَنْتَ آخِذٌ بِنَاصِيتِهِ، اللَّهُمَّ أَنْتَ الأوَّلُ فَلَيْسَ قَبْلَكَ شَيءٌ، وَأَنْتَ الآخِرُ فَلَيْسَ بَعْدَكَ شَيْءٌ، وَأَنْتَ الظَّاهِرُ فَلَيْسَ فَوْقَكَ شَيءٌ، وَأَنْتَ الْبَاطِنُ فَلَيْسَ دُونَكَ شَيءٌ، اقْضِ عَنَّا الدَّيْنَ، وَأَغْنِنَا مِنَ الفَقْرِ
