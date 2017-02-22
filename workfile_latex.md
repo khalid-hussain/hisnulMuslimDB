@@ -1088,107 +1088,89 @@ Al-Tirmidhī [2083] and Abū Dāwud [3106]. Also see _Ṣaḥīḥ al-Tirmidhī_
 
     Al-Bukhārī [4440](7/10) and Muslim [2444](4/1893).
 
-151
+151. <div lang="ar">لَا إِلَهَ إِلَّا اللهُ، إِنَّ للمَوْتِ سَكَرَاتٍ</div>
 
-لَا إِلَهَ إِلَّا اللهُ، إِنَّ للمَوْتِ سَكَرَاتٍ
+    None has the right to be worshipped except Allāh, death does indeed contain agony.
 
-None has the right to be worshipped except Allāh, death does indeed contain agony.
+    Al-Bukhārī [4449](8/144).
 
-Al-Bukhārī [4449](8/144).
---------------------------
-152
+<!-- TODO double check the following (ANDROID) -->
 
-لَا إلَهَ إلَّا اللهُ وَاللهُ أَكْبَرُ، لَا إلَهَ إلَّا اللهُ وحْدَهُ، لَا إلَهَ إلَّا اللهُ وَحْدَهُ لَا شَرِيْكَ لهُ، لَا إلَهَ إلَّا اللهُ لَهُ المُلْكُ ولَهُ الحَمْدُ، لَا إلَهَ إلَّا اللهُ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ
+152. <div lang="ar">لَا إلَهَ إلَّا اللهُ وَاللهُ أَكْبَرُ، لَا إلَهَ إلَّا اللهُ وحْدَهُ، لَا إلَهَ إلَّا اللهُ وَحْدَهُ لَا شَرِيْكَ لهُ، لَا إلَهَ إلَّا اللهُ لَهُ المُلْكُ ولَهُ الحَمْدُ، لَا إلَهَ إلَّا اللهُ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ</div>
 
-None has the right to be worshipped except Allāh and Allāh is the greatest.None has the right to be worshipped except Allāh, alone.None has the right to be worshipped except Allāh, alone, without partner.None has the right to be worshipped except Allāh, to Him belongs all sovereignty and praise. None has the right to be worshipped except Allāh and there is no might and no power except with Allāh.
+    None has the right to be worshipped except Allāh and Allāh is the greatest. None has the right to be worshipped except Allāh, alone. None has the right to be worshipped except Allāh, alone, without partner. None has the right to be worshipped except Allāh, to Him belongs all sovereignty and praise. None has the right to be worshipped except Allāh and there is no might and no power except with Allāh.
 
-Al-Tirmidhī [3430] and Ibn Mājah [3794]. Al-Albānī authenticated it. Also see Ṣaḥīḥ Al-Tirmidhī (3/152) and Ṣaḥīḥ Ibn Mājah (2/317).
---------------------------
-153
+    Al-Tirmidhī [3430] and Ibn Mājah [3794]. Al-Albānī authenticated it. Also see _Ṣaḥīḥ al-Tirmidhī_ (3/152) and _Ṣaḥīḥ Ibn Mājah_ (2/317).
 
-لَا إلَهَ إلَّا اللهُ
+153. <div lang="ar">لَا إلَهَ إلَّا اللهُ</div>
 
-He, whose last words are 'None has the right to be worshipped except Allāh', will enter Jannah.
+    He, whose last words are 'None has the right to be worshipped except Allāh,' will enter Jannah.
 
-Abū Dāwud [3116](3/190). Also See Ṣaḥīḥ Al-Jāmi' [6479](5/432).
---------------------------
-154
+    Abū Dāwud [3116](3/190). Also See _Ṣaḥīḥ al-Jāmiʿ_ [6479](5/432).
 
-إِنَّا لِلّهَِ وَ إِنَّا إِلَيْهِ رَاجِعُونَ، اللَّهُمَّ أجُرْنِي فِي مُصِيْبَتِي، وَ أخْلِفْ لِي خَيْراً مِنْهَا
+<!-- TODO double check the following (ANDROID) -->
 
-To Allāh we belong and unto Him is our return.O Allāh, recompense me for my affliction and replace it for me with something better.
+154. <div lang="ar">إِنَّا لِلّهَِ وَ إِنَّا إِلَيْهِ رَاجِعُونَ، اللَّهُمَّ أجُرْنِي فِي مُصِيْبَتِي، وَ أخْلِفْ لِي خَيْراً مِنْهَا</div>
 
-Muslim [918](2/632).
---------------------------
-155
+    To Allāh we belong and unto Him is our return. O Allāh, recompense me for my affliction and replace it for me with something better.
 
-اللَّهُمَّ اغْفِرْ لِفُلانٍ (باسْمِهِ)، وَارْفَعْ دَرَجَتَهُ في المَهْدِيِّيْنَ، وَاخْلُفْهُ في عَقِبِهِ في الغَابِرِيْنَ، وَاغْفِرْ لَنَا وَلَهُ يَا رَبَّ العَالَمِيْنَ، وَافْسَحْ لَهُ في قَبْرِهِ وَنَوِّرْ لَهُ فِيْهِ
+    Muslim [918](2/632).
 
-O Allāh, forgive (name of deceased) and raise his rank among the rightly guided, and be a successor to whom he has left behind, and forgive us and him O Lord of the worlds. Make spacious his grave and illuminate it for him.
+155. <div lang="ar">اللَّهُمَّ اغْفِرْ لِفُلانٍ (باسْمِهِ)، وَارْفَعْ دَرَجَتَهُ في المَهْدِيِّيْنَ، وَاخْلُفْهُ في عَقِبِهِ في الغَابِرِيْنَ، وَاغْفِرْ لَنَا وَلَهُ يَا رَبَّ العَالَمِيْنَ، وَافْسَحْ لَهُ في قَبْرِهِ وَنَوِّرْ لَهُ فِيْهِ</div>
 
-Muslim [920](2/634).
---------------------------
-156
+    O Allāh, forgive (name of deceased) and raise his rank among the rightly guided, and be a successor to whom he has left behind, and forgive us and him O Lord of the worlds. Make spacious his grave and illuminate it for him.
 
-اللَّهُمَّ اغْفِرْ لَهُ وَارْحَمْهُ، وَعافِهِ، وَاعْفُ عَنْهُ، وَأَكْرِمْ نُزُلَهُ، وَوَسِّعْ مُدْخَلَهُ، وَاغْسِلْهُ بِالْمَاءِ وَالثَّـلْجِ وَالْبَرَدِ، وَنَقِّهِ مِنَ الْخَطَايَا كَمَا نَقَّيْتَ الثَّوْبَ الأَبْيَضَ مِنَ الدَّنَسِ، وَأَبْدِلْهُ داراً خَيْراً مِنْ دَارِهِ، وَأَهْلاً خَيْراً مِنْ أَهْلِهِ، وَزَوْجَاً خَيْراً مِنْ زَوْجِهِ، وَأَدْخِلْهُ الْجَنَّةَ، وَأَعِذْهُ مِنْ عَذَابِ القَبْرِ(وَ عَذَابِ النَّارِ)
+    Muslim [920](2/634).
 
-O Allāh, forgive and have mercy upon him, excuse him and pardon him, and make honourable his reception. Expand his entry, and cleanse him with water, snow, and ice, and purify him of sin as a white robe is purified of filth. Exchange his home for a better home, and his family for a better family, and his spouse for a better spouse. Admit him into the Garden, protect him from the punishment of the grave (and the torment of the Fire).
+156. <div lang="ar">اللَّهُمَّ اغْفِرْ لَهُ وَارْحَمْهُ، وَعافِهِ، وَاعْفُ عَنْهُ، وَأَكْرِمْ نُزُلَهُ، وَوَسِّعْ مُدْخَلَهُ، وَاغْسِلْهُ بِالْمَاءِ وَالثَّـلْجِ وَالْبَرَدِ، وَنَقِّهِ مِنَ الْخَطَايَا كَمَا نَقَّيْتَ الثَّوْبَ الأَبْيَضَ مِنَ الدَّنَسِ، وَأَبْدِلْهُ داراً خَيْراً مِنْ دَارِهِ، وَأَهْلاً خَيْراً مِنْ أَهْلِهِ، وَزَوْجَاً خَيْراً مِنْ زَوْجِهِ، وَأَدْخِلْهُ الْجَنَّةَ، وَأَعِذْهُ مِنْ عَذَابِ القَبْرِ(وَ عَذَابِ النَّارِ)</div>
 
-Muslim [963](2/663).
---------------------------
-157
+    O Allāh, forgive and have mercy upon him, excuse him and pardon him, and make honourable his reception. Expand his entry, and cleanse him with water, snow, and ice, and purify him of sin as a white robe is purified of filth. Exchange his home for a better home, and his family for a better family, and his spouse for a better spouse. Admit him into the Garden, protect him from the punishment of the grave (and the torment of the Fire).
 
-اللَّهُمَّ اغْفِرْ لِحَيِّنَا، وَمَيِّتِنَا، وَشَاهِدِنَا، وَغَائِبِنَا، وَصَغِيْرِنَا، وَكَبِيْرِنَا، وَذَكَرِنَا، وَأُنْثَانَا، اللَّهُمَّ مَنْ أَحْيَيْتَهُ مِنَّا فَأَحْيِهِ عَلَى الإِسْلامِ، وَمَنْ تَوَفَّيْتَهُ مِنَّا فَتَوَفَّهُ عَلَى الإِيْمَانِ، اللَّهُمَّ لَا تَحْرِمْنَا أَجْرَهُ، وَلَا تُضِلَّنَا بَعْدَهُ
+    Muslim [963](2/663).
 
-O Allāh, forgive our living and our dead, those present and those absent, our young and our old, our males and our females. O Allāh, whom amongst us You keep alive, then let such a life be upon Islam, and whom amongst us You take unto Yourself, then let such a death be upon faith. O Allāh, do not deprive us of his reward and do not let us stray after him.
+157. <div lang="ar>اللَّهُمَّ اغْفِرْ لِحَيِّنَا، وَمَيِّتِنَا، وَشَاهِدِنَا، وَغَائِبِنَا، وَصَغِيْرِنَا، وَكَبِيْرِنَا، وَذَكَرِنَا، وَأُنْثَانَا، اللَّهُمَّ مَنْ أَحْيَيْتَهُ مِنَّا فَأَحْيِهِ عَلَى الإِسْلامِ، وَمَنْ تَوَفَّيْتَهُ مِنَّا فَتَوَفَّهُ عَلَى الإِيْمَانِ، اللَّهُمَّ لَا تَحْرِمْنَا أَجْرَهُ، وَلَا تُضِلَّنَا بَعْدَهُ</div>
 
-Ibn Mājah [1498](1/480), Abū Dāwud [3201], Al-Tirmidhī [1024], An-Nisā'i [1988] and Aḥmad (2/368). Also see Ṣaḥīḥ Ibn Mājah (1/251).
---------------------------
-158
+    O Allāh, forgive our living and our dead, those present and those absent, our young and our old, our males and our females. O Allāh, whom amongst us You keep alive, then let such a life be upon Islam, and whom amongst us You take unto Yourself, then let such a death be upon faith. O Allāh, do not deprive us of his reward and do not let us stray after him.
 
-اللَّهُمَّ إِنَّ فُلانَ بْنَ فُلانٍ في ذِمَّتِكَ، وَحَبْلِ جِوارِكَ، فَقِهِ مِنْ فِتْنَةِ الْقَبْرِ وَعَذَابِ النَّارِ، وَأَنْتَ أَهْلُ الْوَفاءِ وَالْحَقِّ، فَاغْفِرْ لَهُ، وَارْحَمْهُ، إِنَّكَ أَنْتَ الغَفُورُ الرَّحِيْمُ
+    Ibn Mājah [1498](1/480), Abū Dāwud [3201], al-Tirmidhī [1024], al-Nasāʾī [1988] and Aḥmad (2/368). Also see _Ṣaḥīḥ Ibn Mājah_ (1/251).
 
-O Allāh, so-and-so is under Your care and protection so protect him from the trial of the grave and torment of the Fire. Indeed You are faithful and truthful. Forgive and have mercy upon him, surely You are The Oft-Forgiving, The Most-Merciful.
+158. <div lang="ar">اللَّهُمَّ إِنَّ فُلانَ بْنَ فُلانٍ في ذِمَّتِكَ، وَحَبْلِ جِوارِكَ، فَقِهِ مِنْ فِتْنَةِ الْقَبْرِ وَعَذَابِ النَّارِ، وَأَنْتَ أَهْلُ الْوَفاءِ وَالْحَقِّ، فَاغْفِرْ لَهُ، وَارْحَمْهُ، إِنَّكَ أَنْتَ الغَفُورُ الرَّحِيْمُ</div>
 
-Ibn Mājah [1499] and Abū Dāwud (3/211). Also see Ṣaḥīḥ Ibn Mājah (1/251).
---------------------------
-159
+    O Allāh, so-and-so is under Your care and protection so protect him from the trial of the grave and torment of the Fire. Indeed You are faithful and truthful. Forgive and have mercy upon him, surely You are The Oft-Forgiving, The Most-Merciful.
 
-اللَّهُمَّ عَبْدُكَ وَابْنُ أَمَتِكَ، احْتَاجَ إِلى رَحْمَتِكَ، وَأَنْتَ غَنِيٌّ عَنْ عَذَابِهِ، إِنْ كَانَ مُحْسِناً فَزِدْ في حَسَنَاتِهِ، وَإِنْ كَانَ مُسِيْئاً فَتَجَاوَزْ عَنْهُ
+    Ibn Mājah [1499] and Abū Dāwud (3/211). Also see _Ṣaḥīḥ Ibn Mājah_ (1/251).
 
-O Allāh, Your servant and the son of Your maidservant is in need of Your mercy and You are without need of his punishment. If he was righteous then increase his reward and if he was wicked then look over his sins.
+<!-- TODO double check the following (ANDROID) -->
 
-Al-Hākim (1/359 )and he authenticated it and Adh-Dhahabī agreed with him. Also see Aḥkām Al-Janā'iz by Al-Albānī (pg. 125).
---------------------------
-160
+159. <div lang="ar">اللَّهُمَّ عَبْدُكَ وَابْنُ أَمَتِكَ، احْتَاجَ إِلى رَحْمَتِكَ، وَأَنْتَ غَنِيٌّ عَنْ عَذَابِهِ، إِنْ كَانَ مُحْسِناً فَزِدْ في حَسَنَاتِهِ، وَإِنْ كَانَ مُسِيْئاً فَتَجَاوَزْ عَنْهُ</div>
 
-اللَّهُمَّ اجْعَلْهُ فَرَطاً وَذُخْراً لِوالِدَيْهِ، وَشَفِيْعاً مُجَاباً، اللَّهُمَّ ثَقِّلْ بِهِ مَوَازِيْنَهُمَا، وَأَعْظِمْ بِهِ أُجـُورَهُمَا، وَأَلْحِقْهُ بِصَالِحِ المُؤْمِنِيْنَ، وَاجْعَلْهُ في كَفَالَةِ إِبْرَاهـِيْمَ، وَقِهِ بِرَحْمَتِكَ عَذَابَ الْجَحِيْمِ، و أبْدِلْهُ دَاراً خَيْراً مِنْ دَارِهِ، و أهْلاً خَيْراً مِنْ أهْلِهِ، اللهم اغْفِرْ لأسْلاَفِنَا، وَ أفْرَاطِنَا، وَ مَنْ سَبَقَنَا باِلإيْمَانِ
+    O Allāh, Your servant and the son of Your maidservant is in need of Your mercy and You are without need of his punishment. If he was righteous then increase his reward and if he was wicked then look over his sins.
 
-O Lord, protect him from the punishment of the grave (* O Lord, make him a preceding reward and a stored treasure for his parents, and an answered intercessor. O Allāh, through him, make heavy their scales and magnify their reward. Unite him with the righteous believers, place him under the care of Ibraheem, and protect him by Your mercy from the torment of Hell. Give him in exchange a better residence and a better family than his. O Allāh, forgive our ancestors and our descendants and those who came before us with faith.
+    Al-Hākim (1/359) and he authenticated it and al-Dhahabī agreed with him. Also see _Aḥkām al-Janāʾiz_ by al-Albānī (pg.\ 125).
 
-See Al-Mughnī by Ibn Qudāmah (3/416) and Ad-Durūs  Al-Muhimmah Li'āmah Al-Ummah by Shaykh Ibn Bāz (pg. 15).
---------------------------
-161
+<!-- TODO double check the following (ANDROID) -->
 
-اللَّهُمَّ اجْعَلْهُ لَنَا فَرَطاً، وَسَلَفاً، وَأَجْراً
+160. <div lang="ar">اللَّهُمَّ اجْعَلْهُ فَرَطاً وَذُخْراً لِوالِدَيْهِ، وَشَفِيْعاً مُجَاباً، اللَّهُمَّ ثَقِّلْ بِهِ مَوَازِيْنَهُمَا، وَأَعْظِمْ بِهِ أُجـُورَهُمَا، وَأَلْحِقْهُ بِصَالِحِ المُؤْمِنِيْنَ، وَاجْعَلْهُ في كَفَالَةِ إِبْرَاهـِيْمَ، وَقِهِ بِرَحْمَتِكَ عَذَابَ الْجَحِيْمِ، و أبْدِلْهُ دَاراً خَيْراً مِنْ دَارِهِ، و أهْلاً خَيْراً مِنْ أهْلِهِ، اللهم اغْفِرْ لأسْلاَفِنَا، وَ أفْرَاطِنَا، وَ مَنْ سَبَقَنَا باِلإيْمَانِ</div>
 
-O Allāh, make him a preceding reward, a prepayment and a recompense for us.
+    O Lord, protect him from the punishment of the grave. O Lord, make him a preceding reward and a stored treasure for his parents, and an answered intercessor. O Allāh, through him, make heavy their scales and magnify their reward. Unite him with the righteous believers, place him under the care of Ibrāhīm, and protect him by Your mercy from the torment of Hell. Give him in exchange a better residence and a better family than his. O Allāh, forgive our ancestors and our descendants and those who came before us with faith.
 
-Al-Baghawī [Sharḥ As-Sunnah](5/357).
---------------------------
-162
+    See _al-Mughnī_ by Ibn Qudāmah (3/416) and _al-Durūs al-Muhimmah li'āmah al-Ummah_ by Shaykh Ibn Bāz (pg.\ 15).
 
-إِنَّ لِلَّهِ مَا أَخَذَ، وَلَهُ مَا أَعْطَى، وَكُلُّ شَيءٍ عِنْدَهُ بِأَجَلٍ مُسَمَّىً...فَلْتَصْبِرْ وَ لْتَحْتَسِبْ
+161. <div lang="ar">اللَّهُمَّ اجْعَلْهُ لَنَا فَرَطاً، وَسَلَفاً، وَأَجْراً</div>
 
-Verily to Allāh, belongs what He took and to Him belongs what He gave, and everything with Him has an appointed time.
+    O Allāh, make him a preceding reward, a prepayment and a recompense for us.
 
-Al-Bukhārī [1284](2/80) and Muslim [923](2/636).
---------------------------
-163
+    Al-Baghawī [Sharḥ As-Sunnah](5/357).
 
-بِسْمِ اللهِ، وَعَلَى سُنَّةِ رَسُولِ اللهِ
+162. <div lang="ar">إِنَّ لِلَّهِ مَا أَخَذَ، وَلَهُ مَا أَعْطَى، وَكُلُّ شَيءٍ عِنْدَهُ بِأَجَلٍ مُسَمَّىً...فَلْتَصْبِرْ وَ لْتَحْتَسِبْ</div>
 
-In the name of Allāh and upon the sunnah of the Messenger of Allāh.
+    Verily to Allāh, belongs what He took and to Him belongs what He gave, and everything with Him has an appointed time.
+
+    Al-Bukhārī [1284](2/80) and Muslim [923](2/636).
+
+163. <div lang="ar">بِسْمِ اللهِ، وَعَلَى سُنَّةِ رَسُولِ اللهِ</div>
+
+    In the name of Allāh and upon the sunnah of the Messenger of Allāh.
 
 Abū Dāwud [3213](3/314) with a Ṣaḥīḥ chain and Aḥmad (2/40) with the phrase: (بسم الله و على ملة رسول الله) and its chain is Ṣaḥīḥ.
 --------------------------
