@@ -1,0 +1,56 @@
+\documentclass[parskip=full, oneside, ebook]{memoir}
+
+\frenchspacing
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{1em}
+
+%\usepackage{libertine}
+%\usepackage[supstfm=libertinesups,%
+%supscaled=1.2,%
+%raised=-.13em]% match XHeight of libertine
+%{superiors}
+\usepackage[svgnames, dvipsnames]{xcolor}
+\usepackage{xspace}
+
+\usepackage[%
+hidelinks,
+pdftitle={The Prophet's Prayer},
+pdfauthor={Imām Muḥammad Nāṣir al--Dīn},
+pdfsubject={Religion},
+pdfkeywords={Islam, Religion, Worship, Fiqh, Jurisprudence},
+bookmarksnumbered=false,
+bookmarksopen=false,
+pdfstartview=FitH
+]{hyperref}
+\usepackage{bookmark}
+\usepackage{polyglossia}
+\setmainlanguage{english}
+\setotherlanguage[numerals=maghrib]{arabic}
+\setmainfont{Gentium Plus}
+
+\newfontfamily\sakkalfont[
+Script=Arabic,%
+Numbers=Proportional,%
+Scale=1.2,%
+]{Sakkal Majalla}
+
+\newfontfamily\arabicfont[
+Script=Arabic,%
+Numbers=Proportional,%
+Scale=1.5%
+]{Traditional Arabic}
+
+\newcommand{\pbuh}{{\color{Goldenrod}\sakkalfont{\symbol{"FDFA}}}\xspace}
+
+\begin{document}
+
+
+\frontmatter
+\tableofcontents*
+
+\mainmatter
+\input{content}
+
+\backmatter
+
+\end{document}
