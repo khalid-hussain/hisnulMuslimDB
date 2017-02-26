@@ -606,7 +606,7 @@ Al-Hākim (1/562) and Al-Albānī authenticated it in _Ṣaḥīḥ al-Targhīb 
 
     O Allāh, verily I have reached the morning and call on You, the bearers of Your throne, Your angels, and all of Your creation to witness that You are Allāh, none has the right to be worshiped except You, alone, without partner and that Muḥammad is Your Servant and Messenger.
 
-    Abū Dāwud (#5069, 4/317), al-Bukhārī in _al-Adab al-Mufrad_ [1201], al-Nasāʾī in _ʿAmal al-Yawm wa al-Laylah_ [9] and Ibn al-Sunnī [70]. Shaykh Ibn Bāz declared the chain of al-Nasāʾī and Abū Dāwud ḥasan in _Tuḥfah al-Akhyār_ (pg.\ 23). However al-Albānī declared it weak. See _al-Kalim al-Ṭayyib_ [25].
+    Abū Dāwud (#5069, 4/317), al-Bukhārī in _al-Adab al-Mufrad_ [1201], al-Nasāʾī in _ʿAmal al-Yawm wa al-Laylah_ [9] and Ibn al-Sunnī [70]. Shaykh Ibn Bāz declared the chain of al-Nasāʾī and Abū Dāwud ḥasan in _Tuḥfah al-Akhyār_ (p.\ 23). However al-Albānī declared it weak. See _al-Kalim al-Ṭayyib_ [25].
 
 <!-- TODO double check the folowing -->
 
@@ -617,13 +617,13 @@ Al-Hākim (1/562) and Al-Albānī authenticated it in _Ṣaḥīḥ al-Targhīb 
 
     O Allāh, what blessing I or any of Your creation have risen upon, is from You alone, without partner, so for You is all praise and unto You all thanks.
 
-    Abū Dāwud (#5073, 4/318), al-Nasāʾī in _ʿAmal al-Yawm wa al-Laylah_ [7], Ibn al-Sunnī [41], Ibn Ḥibbān [Muwārid][2361]. Shaykh Ibn Bāz declared its chain ḥasan in _Tuḥfah al-Akhyār_ (pg.\ 24). However al-Albānī declared it weak. See _al-Kalim al-Ṭayyib_ [26].
+    Abū Dāwud (#5073, 4/318), al-Nasāʾī in _ʿAmal al-Yawm wa al-Laylah_ [7], Ibn al-Sunnī [41], Ibn Ḥibbān [Muwārid][2361]. Shaykh Ibn Bāz declared its chain ḥasan in _Tuḥfah al-Akhyār_ (p.\ 24). However al-Albānī declared it weak. See _al-Kalim al-Ṭayyib_ [26].
 
 82. <div lang="ar">اللَّهُمَّ عَافِنِي فِي بَدَنِي، اللَّهُمَّ عَافِنِي فِي سَمْعِي، اللَّهُمَّ عَافِنِي فِي بَصْرِي، لَا إِلَهَ إِلَّا أَنْتَ، اللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الْكُفْرِ، وَالْفَقْرِ، وأَعُوْذُ بِكَ مِنْ عَذَابِ القَبْرِ، لَا إِلَهَ إِلَّا أَنْتَ.[ثَلاثَ مَرَّاتٍ]</div>
 
     O Allāh, grant my body health, O Allāh, grant my hearing health, O Allāh, grant my sight health. None has the right to be worshipped except You. O Allāh, I take refuge with You from disbelief and poverty, and I take refuge with You from the punishment of the grave; none has the right to be worshipped except You. [Three times]
 
-    Abū Dāwud (#5090, 4/324), Aḥmad (5/42), al-Nasāʾī in _ʿAmal al-Yawm wa al-Laylah_ [22], Ibn al-Sunnī [69], and al-Bukhārī in _al-Adab al-Mufrad_. Shaykh Ibn Bāz authenticated its chain in _Tuḥfah Al-Akhyār_ (pg.\ 26). Al-Albānī declared it weak. See _Ḍaʿīf al-Jāmiʿ_ [1210].
+    Abū Dāwud (#5090, 4/324), Aḥmad (5/42), al-Nasāʾī in _ʿAmal al-Yawm wa al-Laylah_ [22], Ibn al-Sunnī [69], and al-Bukhārī in _al-Adab al-Mufrad_. Shaykh Ibn Bāz authenticated its chain in _Tuḥfah Al-Akhyār_ (p.\ 26). Al-Albānī declared it weak. See _Ḍaʿīf al-Jāmiʿ_ [1210].
 
 <!-- TODO double check the following -->
 
@@ -649,7 +649,7 @@ Al-Hākim (1/562) and Al-Albānī authenticated it in _Ṣaḥīḥ al-Targhīb 
 
     In the name of Allāh with whose name nothing is harmed on earth nor in the heavens and He is The All-Seeing, The All-Knowing. [Three times]
 
-    Abū Dāwud (#5088, #5089, 4/323), al-Tirmidhī (#3388, 5/465), Ibn Mājah (#3869), Aḥmad (1/72). Also see _Ṣaḥīḥ Ibn Mājah_ (2/332). Shaykh Ibn Bāz authenticated its chain in _Tuḥfah al-Akhyār_ (pg.\ 39).
+    Abū Dāwud (#5088, #5089, 4/323), al-Tirmidhī (#3388, 5/465), Ibn Mājah (#3869), Aḥmad (1/72). Also see _Ṣaḥīḥ Ibn Mājah_ (2/332). Shaykh Ibn Bāz authenticated its chain in _Tuḥfah al-Akhyār_ (p.\ 39).
 
 87. <div lang="ar">رَضِيْتُ بِاللهِ رَبًّا، وَبِالإسْلامِ دِيْناً، وَبِمُحَمَّدٍ نَبِيًّا [ثَلاثَ مَرَّاتٍ]</div>
 
@@ -695,7 +695,7 @@ Al-Hākim (1/562) and Al-Albānī authenticated it in _Ṣaḥīḥ al-Targhīb 
 
     None has the right to be worshiped except Allāh, alone, without partner, to Him belongs all sovereignty and praise and He is over all things omnipotent. [Ten Times](١) or [Once](٢).
 
-    (1) Al-Nasāʾī in ʿAmal al-Yawm wa al-Laylah_ [24] from the ḥadīth of Abū Ayūb al-Anṣārī. Also see _Ṣaḥīḥ al-Targhīb wa al-Tarhīb_ (#650, 1/272) and _Tuḥfah al-Akhyār_ (pg.\ 55).
+    (1) Al-Nasāʾī in ʿAmal al-Yawm wa al-Laylah_ [24] from the ḥadīth of Abū Ayūb al-Anṣārī. Also see _Ṣaḥīḥ al-Targhīb wa al-Tarhīb_ (#650, 1/272) and _Tuḥfah al-Akhyār_ (p.\ 55).
     (2) Abū Dāwud (#5077, 4/319), Ibn Mājah (#3867) and Aḥmad (4/60). Also see _Ṣaḥīḥ al-Targhīb wa al-Tarhīb_ (1/270), _Ṣaḥīḥ Abī Dāwud_ (3/957), _Ṣaḥīḥ Ibn Mājah_ (2/331) and _Zād Al-Ma'ād_ (2/377).
 
 93. <div lang="ar">لَا إلَهَ إلَّا اللهُ وحْدَهُ لَا شَريْكَ لهُ، لهُ المُلْكُ ولَهُ الحَمْدُ، وهُوَ عَلَى كُلِّ شَيءٍ قَدِيْرٌ [مئةَ مَرَّةٍ إذا أصْبَحَ]</div>
@@ -930,43 +930,43 @@ Abū Dāwud [1425], al-Tirmidhī [464], al-Nasāʾī (1/252), Ibn Mājah [1178],
 
     O Allāh, we place You before them and we take refuge in You from their evil.
 
-    Abū Dāwud [1537](2/89) and al-Hākim (2/142) and he authenticated it and al-Dhahabī agreed with him.
+    Abū Dāwud (#1537, 2/89) and al-Hākim (2/142) and he authenticated it and al-Dhahabī agreed with him.
 
 127. <div lang="ar">اللَّهُمَّ أَنْتَ عَضُدِي، وَأَنْتَ نَصِيْرِي، بِكَ أَحُولُ، وَبِكَ أَصُولُ، وَبِكَ أُقَاتِلُ</div>
 
     O Allāh, You are my supporter and You are my helper, by You I move and by You I attack and by You I battle.
 
-    Abū Dāwud [2632](3/42) and al-Tirmidhī [3584](5/572). Also see _Ṣaḥīḥ al-Tirmidhī_ (3/183).
+    Abū Dāwud (#2632, 3/42) and al-Tirmidhī (#3584, 5/572). Also see _Ṣaḥīḥ al-Tirmidhī_ (3/183).
 
 128. <div lang="ar">حَسْبُنَا اللهُ، وَنِعْمَ الوَكِيْلُ</div>
 
     Allāh is sufficient for us, and how fine a trustee (He is).
 
-    Al-Bukhārī [4563](5/172).
+    Al-Bukhārī (#4563, 5/172).
 
 129. <div lang="ar">اللَّهُمَّ رَبَّ السَّمَوَاتِ السَّبْعِ، وَ رَبَّ العَرْشِ العَظِيْمِ، كُنْ لِي جَاراً مِنْ فُلَانِ بْنِ فُلَانٍ، وَ أَحْزَابِهِ مِنْ خَلائِقِكَ؛ أَنْ يَفْرُطَ عَلَيَّ أَحَدٌ مِنهُمْ أوْ يَطْغَى، عَزَّ جَارُكَ، وَ جَلَّ ثَنَائُكَ، وَ لَا إِلَهَ إِلَّا أَنْتَ</div>
 
     O Allāh, Lord of the seven heavens and the earth and the great throne, protect me from so-and-so [tell the name of the person] and from his allies among your creatures, and from being subjected by their abus or tyranny. Honoured is your protected, exalted is your praise, none has the right to be worshipped except You.
 
-    Al-Bukhārī [Al-Adab Al-Mufrad][707] and Al-Albānī authenticated it in _Ṣaḥīḥ al-Adab al-Mufrad_ [545].
+    Al-Bukhārī in _al-Adab al-Mufrad_ (#707) and Al-Albānī authenticated it in _Ṣaḥīḥ al-Adab al-Mufrad_ [545].
 
 130. <div lang="ar">اللهُ أَكْبَرُ، اللهُ أَعَزُّ مِنْ خَلْقِهِ جَمِيْعًا، اللهُ أَعَزُّ مِمَّا أَخَافُ وَ أَحْذَرُ، أَعُوذُ باللهِ الَّذِي لَا إِلَهَ إِلَّا هُوَ، الْمُمْسِكِ السَّمَوَاتِ السَّبْعِ أَنْ يَقَعْنَ عَلَى الأَرْضِ إِلَّا بِإِذْنِهِ، مِنْ شَرِّ عَبْدِكَ فُلاَنٍ، وُجُنُودِهِ وَ أَتْبَاعِهِ وَ أَشْيَاعِهِ، مِنَ الْجِنِّ وَ الإِنْسِ، اللَّهُمَّ كُنْ لِي جَارًا مِنْ شَرِّهِمْ، جَلَّ ثَنَاؤُك، وَ عَزَّ جَارُكَ، وَ تَبَارَكَ اسْمُكَ: وَ لَا إِلَهَ غَيْرُكَ. [ثَلاثَ مَرَّاتٍ]</div>
 
     Allāh is the greatest, Allāh is mightier than all things. Allāh is mightier than the one I am afraid of and I mistrust. I take refuge in Allāh, none has the right to be worshiped except Allāh, who hold back the seven heavens from falling on earth except when he'll allowed this, from the misdeeds of You slave so-and-so [tell the name of the person], from his soldiers, from his partisans among the djinns and the human beings. Ô Lord ! Be my protector from their misdeeds. Exalted is Your praise, honoured is Your protected, blessed is Your name and none has the right to be worshipped except You.
 
-    Al-Bukhārī [Al-Adab Al-Mufrad][708] and Al-Albānī authenticated it in _Ṣaḥīḥ al-Adab al-Mufrad_ (546).
+    Al-Bukhārī in _al-Adab al-Mufrad_ (#708) and al-Albānī authenticated it in _Ṣaḥīḥ al-Adab al-Mufrad_ (#546).
 
 131. <div lang="ar">اللَّهُمَّ مُنْزِلَ الْكِتَابِ، سَرِيْعَ الْحِسَابِ، اهْزِمِ الأحْزَابَ، اللَّهُمَّ اهْزِمْهُمْ وَ زَلْزِلْهُمْ</div>
 
     O Allāh, Revealer of the Book, Swift at reckoning, defeat the confederates. O Allāh, defeat them and convulse them.
 
-    Muslim [1742](3/1362).
+    Muslim (#1742, 3/1362).
 
 132. <div lang="ar">اللَّهُمَّ اكْفِنِيْهِمْ بِمَا شِئْتَ</div>
 
     O Allāh, protect me from them with what You choose.
 
-    Muslim [3005](4/2300).
+    Muslim (#3005, 4/2300).
 
 133. <div lang="ar"></div>
 
@@ -976,13 +976,13 @@ Abū Dāwud [1425], al-Tirmidhī [464], al-Nasāʾī (1/252), Ibn Mājah [1178],
     (1) Seek refuge with Allāh from Shayťān.
     (2) Renounce that which is causing such doubt.
 
-    Al-Bukhārī [6/336](6/336) and Muslim [134,214](1/120).
+    Al-Bukhārī (#6/336, 6/336) and Muslim (#134, #214, 1/120).
 
 134. <div lang="ar">آمَنْتُ بِاللهِ وَرُسُلِهِ</div>
 
     I have believed in Allāh and His Messenger.
 
-    Muslim [134, 212](1/119--120).
+    Muslim (#134, #212, 1/119--120).
 
 <!-- TODO double check the following (ANDROID) -->
 
@@ -990,20 +990,20 @@ Abū Dāwud [1425], al-Tirmidhī [464], al-Nasāʾī (1/252), Ibn Mājah [1178],
 
     He is The First and The Last, al-Ẓāhir and al-Batin and He knows well all things.
 
-    (1) Sūrah Al-Ḥadīd: 3.  
-    (2) Abū Dāwud [5110](4/329) and Al-Albānī declared it ḥasan in _Ṣaḥīḥ Abī Dāwud_ (3/962).
+    (1) Sūrah al-Ḥadīd: 3.  
+    (2) Abū Dāwud (#5110, 4/329) and al-Albānī declared it ḥasan in _Ṣaḥīḥ Abī Dāwud_ (3/962).
 
 136. <div lang="ar">اللَّهُمَّ اكْفِنِي بِحَلاَلِكَ عَنْ حَرَامِكَ، وَأَغْنِنِي بِفَضْلِكَ عَمَّنْ سِوَاكَ</div>
 
     O Allāh, make what is lawful enough for me, as opposed to what is unlawful, and spare me by Your grace, of need of others.
 
-    Al-Tirmidhī [3563](5/650). Also see _Ṣaḥīḥ Al-Tirmidhī_ (3/180).
+    Al-Tirmidhī (#3563, 5/650). Also see _Ṣaḥīḥ al-Tirmidhī_ (3/180).
 
 137. <div lang="ar">اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الهَمِّ وَ الْحَـزَنِ، والعَجْزِ والكَسَلِ، والبُخْلِ والجُبْنِ، وضَلَعِ الدَّيْنِ وغَلَبَةِ الرِّجَال</div>
 
     O Allāh, I take refuge in You from anxiety and sorrow, weakness and laziness, miserliness and cowardice, the burden of debts and from being over powered by men.
 
-    Al-Bukhārī [6363](7/158).
+    Al-Bukhārī (#6363, 7/158).
 
 <!-- TODO double check the following -->
 
@@ -1011,7 +1011,7 @@ Abū Dāwud [1425], al-Tirmidhī [464], al-Nasāʾī (1/252), Ibn Mājah [1178],
 
     I seek refuge in Allāh from Shayṭān The Accursed, and (dry) spit on your left side three times.
 
-    Muslim [2203](4/1729).
+    Muslim (#2203, 4/1729).
 
 <!-- TODO double check the following (ANDROID) -->
 
@@ -1019,7 +1019,7 @@ Abū Dāwud [1425], al-Tirmidhī [464], al-Nasāʾī (1/252), Ibn Mājah [1178],
 
     O Allāh, there is no ease except in that which You have made easy, and You make the difficulty, if You wish, easy.
 
-Ibn Ḥibbān in his _Ṣaḥīḥ_ [2427], Mawārid and Ibn al-Sunnī [351]. And Ibn Ḥajar said: "This ḥadīth is ṣaḥīḥ". ʿAbd al-Qādir al-Arnā'ūť also declared it ṣaḥīḥ in his takrīj of Imām al-Nawawī's _Athkār_ (pg.\ 106). 
+    Ibn Ḥibbān in his _Ṣaḥīḥ_ [2427], Mawārid and Ibn al-Sunnī [351]. And Ibn Ḥajar said: "This ḥadīth is ṣaḥīḥ". ʿAbd al-Qādir al-Arnā'ūť also declared it ṣaḥīḥ in his takrīj of Imām al-Nawawī's _Athkār_ (p.\ 106). 
 
 <!-- TODO double check the following (ANDROID) -->
 
@@ -1027,7 +1027,7 @@ Ibn Ḥibbān in his _Ṣaḥīḥ_ [2427], Mawārid and Ibn al-Sunnī [351]. An
 
     Any servant who commits a sin and as a result, performs ablution, prays two rakʿahs of Ṣalāh and then seeks Allāh's forgiveness, Allāh would forgive him.
 
-    Abū Dāwud [1521](2/86) and al-Tirmidhī [406,3006](2/257). Al-Albānī authenticated it in _Ṣaḥīḥ Abī Dāwud_ (1/283).
+    Abū Dāwud (#1521, 2/86) and al-Tirmidhī (#406, #3006, 2/257). Al-Albānī authenticated it in _Ṣaḥīḥ Abī Dāwud_ (1/283).
 
 141. <div lang="ar">الاسْتِعَاذَةُ بِاللهِ مِنْهُ</div>
 
@@ -1039,19 +1039,19 @@ Ibn Ḥibbān in his _Ṣaḥīḥ_ [2427], Mawārid and Ibn al-Sunnī [351]. An
 
     The Athān (The Call to Prayer).
 
-    Al-Bukhārī [608](1/151) and Muslim [389](1/291).
+    Al-Bukhārī (#608, 1/151) and Muslim (#389, 1/291).
 
 143. <div lang="ar">الأذْكَارُ وَ قِراءَةُ القُرْآنِ</div>
 
     Authentic texts of remembrance and the recitation of the Qurʾān.
 
-    Muslim [780](1/539).
+    Muslim (#780, 1/539).
 
 144. <div lang="ar">قَدَرُ اللهِ وَما شَاءَ فَعَلَ</div>
 
     Allāh has decreed and what He wills, He does.
 
-    Muslim [2664](4/2052).
+    Muslim (#2664, 4/2052).
 
 <!-- TODO double check the following (ANDROID). Also spelling of al-Athkār-->
 
@@ -1062,25 +1062,25 @@ Ibn Ḥibbān in his _Ṣaḥīḥ_ [2427], Mawārid and Ibn al-Sunnī [351]. An
 
     Reply: 'May Allāh bless every thing that He allots to you! May Allāh reward you by His forgiveness, allot a new-born like mine to you and give you an abundant retribution.'
 
-    Al-Nawawī [Al-Athkār](pg. 349). Also see _Ṣaḥīḥ al-Athkār_ of Imam al-Nawawī (2/713) by Shaykh Salīm Al-Hilālī.
+    Al-Nawawī in _al-Athkār_ (p.\ 349). Also see _Ṣaḥīḥ al-Athkār li al-Imām al-Nawawī_ (2/713) by Shaykh Salīm al-Hilālī.
 
 146. <div lang="ar">أُعِيْذُكُمَا بِكَلِمَاتِ اللهِ التَّامَّةِ، مِنْ كُلِّ شَيْطَانٍ وَهـَامَّةٍ، وَمِنْ كُلِّ عَيْنٍ لامَّةٍ</div>
 
     I commend you to the protection of Allāh’s perfect words from every devil, vermin, and every evil eye.
 
-    Al-Bukhārī [3371](4/119).
+    Al-Bukhārī (#3371, 4/119).
 
 147. <div lang="ar">لَا بأْسَ طَهُورٌ إِنْ شَاءَ اللهُ</div>
 
     Never mind, may it (the sickness) be a purification, if Allāh wills.
 
-    Al-Bukhārī [3616](10/118).
+    Al-Bukhārī (#3616, 10/118).
 
 148. <div lang="ar">أَسْأَلُ اللهَ العَظِيْمَ، رَبَّ العَرْشِ العَظِيْمِ، أَنْ يَشْفِيَكَ [سَبْعَ مَرَّاتٍ]</div>
 
     I ask Allāh The Supreme, Lord of the magnificent throne to cure you. (Seven times)
 
-Al-Tirmidhī [2083] and Abū Dāwud [3106]. Also see _Ṣaḥīḥ al-Tirmidhī_ (2/210) and _Ṣaḥīḥ al-Jāmiʿ_ [5766](5/180).
+    Al-Tirmidhī [2083] and Abū Dāwud [3106]. Also see _Ṣaḥīḥ al-Tirmidhī_ (2/210) and _Ṣaḥīḥ al-Jāmiʿ_ (#5766, 5/180).
 
 149. <div lang="ar">إذَا عَادَ الرَّجُلُ أخَاهُ المُسْلِمَ، مَشَى فِي خِرَافَةِ الجَنَّةِ حَتَّى يَجْلِسَ، فَإذَا جَلَسَ غَمَرَتْهُ الرَّحْمَةُ،  فَإنْ كَانَ غُدْوَةً صَلَّى عَلَيْهِ سَبْعُونَ ألْفَ مَلَكٍ حَتَّى يُمْسِيَ، و إنْ كَانَ مَسَاءً صَلَّى عَلَيْهِ سَبْعُونَ ألْفَ مَلَكٍ حَتَّى يُصْبِحَ</div>
 
@@ -1092,13 +1092,13 @@ Al-Tirmidhī [2083] and Abū Dāwud [3106]. Also see _Ṣaḥīḥ al-Tirmidhī_
 
     O Allāh, forgive me, have mercy upon me and unite me with the higher companions.
 
-    Al-Bukhārī [4440](7/10) and Muslim [2444](4/1893).
+    Al-Bukhārī (#4440, 7/10) and Muslim (#2444, 4/1893).
 
 151. <div lang="ar">لَا إِلَهَ إِلَّا اللهُ، إِنَّ للمَوْتِ سَكَرَاتٍ</div>
 
     None has the right to be worshipped except Allāh, death does indeed contain agony.
 
-    Al-Bukhārī [4449](8/144).
+    Al-Bukhārī (#4449, 8/144).
 
 <!-- TODO double check the following (ANDROID) -->
 
@@ -1112,7 +1112,7 @@ Al-Tirmidhī [2083] and Abū Dāwud [3106]. Also see _Ṣaḥīḥ al-Tirmidhī_
 
     He, whose last words are 'None has the right to be worshipped except Allāh,' will enter Jannah.
 
-    Abū Dāwud [3116](3/190). Also See _Ṣaḥīḥ al-Jāmiʿ_ [6479](5/432).
+    Abū Dāwud (#3116, 3/190). Also See _Ṣaḥīḥ al-Jāmiʿ_ (#6479, 5/432).
 
 <!-- TODO double check the following (ANDROID) -->
 
@@ -1120,31 +1120,31 @@ Al-Tirmidhī [2083] and Abū Dāwud [3106]. Also see _Ṣaḥīḥ al-Tirmidhī_
 
     To Allāh we belong and unto Him is our return. O Allāh, recompense me for my affliction and replace it for me with something better.
 
-    Muslim [918](2/632).
+    Muslim (#918, 2/632).
 
 155. <div lang="ar">اللَّهُمَّ اغْفِرْ لِفُلانٍ (باسْمِهِ)، وَارْفَعْ دَرَجَتَهُ في المَهْدِيِّيْنَ، وَاخْلُفْهُ في عَقِبِهِ في الغَابِرِيْنَ، وَاغْفِرْ لَنَا وَلَهُ يَا رَبَّ العَالَمِيْنَ، وَافْسَحْ لَهُ في قَبْرِهِ وَنَوِّرْ لَهُ فِيْهِ</div>
 
     O Allāh, forgive (name of deceased) and raise his rank among the rightly guided, and be a successor to whom he has left behind, and forgive us and him O Lord of the worlds. Make spacious his grave and illuminate it for him.
 
-    Muslim [920](2/634).
+    Muslim (#920, 2/634).
 
 156. <div lang="ar">اللَّهُمَّ اغْفِرْ لَهُ وَارْحَمْهُ، وَعافِهِ، وَاعْفُ عَنْهُ، وَأَكْرِمْ نُزُلَهُ، وَوَسِّعْ مُدْخَلَهُ، وَاغْسِلْهُ بِالْمَاءِ وَالثَّـلْجِ وَالْبَرَدِ، وَنَقِّهِ مِنَ الْخَطَايَا كَمَا نَقَّيْتَ الثَّوْبَ الأَبْيَضَ مِنَ الدَّنَسِ، وَأَبْدِلْهُ داراً خَيْراً مِنْ دَارِهِ، وَأَهْلاً خَيْراً مِنْ أَهْلِهِ، وَزَوْجَاً خَيْراً مِنْ زَوْجِهِ، وَأَدْخِلْهُ الْجَنَّةَ، وَأَعِذْهُ مِنْ عَذَابِ القَبْرِ(وَ عَذَابِ النَّارِ)</div>
 
     O Allāh, forgive and have mercy upon him, excuse him and pardon him, and make honourable his reception. Expand his entry, and cleanse him with water, snow, and ice, and purify him of sin as a white robe is purified of filth. Exchange his home for a better home, and his family for a better family, and his spouse for a better spouse. Admit him into the Garden, protect him from the punishment of the grave (and the torment of the Fire).
 
-    Muslim [963](2/663).
+    Muslim (#963, 2/663).
 
 157. <div lang="ar>اللَّهُمَّ اغْفِرْ لِحَيِّنَا، وَمَيِّتِنَا، وَشَاهِدِنَا، وَغَائِبِنَا، وَصَغِيْرِنَا، وَكَبِيْرِنَا، وَذَكَرِنَا، وَأُنْثَانَا، اللَّهُمَّ مَنْ أَحْيَيْتَهُ مِنَّا فَأَحْيِهِ عَلَى الإِسْلامِ، وَمَنْ تَوَفَّيْتَهُ مِنَّا فَتَوَفَّهُ عَلَى الإِيْمَانِ، اللَّهُمَّ لَا تَحْرِمْنَا أَجْرَهُ، وَلَا تُضِلَّنَا بَعْدَهُ</div>
 
     O Allāh, forgive our living and our dead, those present and those absent, our young and our old, our males and our females. O Allāh, whom amongst us You keep alive, then let such a life be upon Islam, and whom amongst us You take unto Yourself, then let such a death be upon faith. O Allāh, do not deprive us of his reward and do not let us stray after him.
 
-    Ibn Mājah [1498](1/480), Abū Dāwud [3201], al-Tirmidhī [1024], al-Nasāʾī [1988] and Aḥmad (2/368). Also see _Ṣaḥīḥ Ibn Mājah_ (1/251).
+    Ibn Mājah (#1498, 1/480), Abū Dāwud (#3201), al-Tirmidhī (#1024), al-Nasāʾī (#1988) and Aḥmad (2/368). Also see _Ṣaḥīḥ Ibn Mājah_ (1/251).
 
 158. <div lang="ar">اللَّهُمَّ إِنَّ فُلانَ بْنَ فُلانٍ في ذِمَّتِكَ، وَحَبْلِ جِوارِكَ، فَقِهِ مِنْ فِتْنَةِ الْقَبْرِ وَعَذَابِ النَّارِ، وَأَنْتَ أَهْلُ الْوَفاءِ وَالْحَقِّ، فَاغْفِرْ لَهُ، وَارْحَمْهُ، إِنَّكَ أَنْتَ الغَفُورُ الرَّحِيْمُ</div>
 
     O Allāh, so-and-so is under Your care and protection so protect him from the trial of the grave and torment of the Fire. Indeed You are faithful and truthful. Forgive and have mercy upon him, surely You are The Oft-Forgiving, The Most-Merciful.
 
-    Ibn Mājah [1499] and Abū Dāwud (3/211). Also see _Ṣaḥīḥ Ibn Mājah_ (1/251).
+    Ibn Mājah (#1499) and Abū Dāwud (3/211). Also see _Ṣaḥīḥ Ibn Mājah_ (1/251).
 
 <!-- TODO double check the following (ANDROID) -->
 
@@ -1152,7 +1152,7 @@ Al-Tirmidhī [2083] and Abū Dāwud [3106]. Also see _Ṣaḥīḥ al-Tirmidhī_
 
     O Allāh, Your servant and the son of Your maidservant is in need of Your mercy and You are without need of his punishment. If he was righteous then increase his reward and if he was wicked then look over his sins.
 
-    Al-Hākim (1/359) and he authenticated it and al-Dhahabī agreed with him. Also see _Aḥkām al-Janāʾiz_ by al-Albānī (pg.\ 125).
+    Al-Hākim (1/359) and he authenticated it and al-Dhahabī agreed with him. Also see _Aḥkām al-Janāʾiz_ by al-Albānī (p.\ 125).
 
 <!-- TODO double check the following (ANDROID) -->
 
@@ -1160,49 +1160,49 @@ Al-Tirmidhī [2083] and Abū Dāwud [3106]. Also see _Ṣaḥīḥ al-Tirmidhī_
 
     O Lord, protect him from the punishment of the grave. O Lord, make him a preceding reward and a stored treasure for his parents, and an answered intercessor. O Allāh, through him, make heavy their scales and magnify their reward. Unite him with the righteous believers, place him under the care of Ibrāhīm, and protect him by Your mercy from the torment of Hell. Give him in exchange a better residence and a better family than his. O Allāh, forgive our ancestors and our descendants and those who came before us with faith.
 
-    See _al-Mughnī_ by Ibn Qudāmah (3/416) and _al-Durūs al-Muhimmah li'āmah al-Ummah_ by Shaykh Ibn Bāz (pg.\ 15).
+    See _al-Mughnī_ by Ibn Qudāmah (3/416) and _al-Durūs al-Muhimmah li'āmah al-Ummah_ (p.\ 15) by Shaykh Ibn Bāz.
 
 161. <div lang="ar">اللَّهُمَّ اجْعَلْهُ لَنَا فَرَطاً، وَسَلَفاً، وَأَجْراً</div>
 
     O Allāh, make him a preceding reward, a prepayment and a recompense for us.
 
-    Al-Baghawī [Sharḥ As-Sunnah](5/357).
+    Al-Baghawī in _Sharḥ al-Sunnah_ (5/357).
 
 162. <div lang="ar">إِنَّ لِلَّهِ مَا أَخَذَ، وَلَهُ مَا أَعْطَى، وَكُلُّ شَيءٍ عِنْدَهُ بِأَجَلٍ مُسَمَّىً...فَلْتَصْبِرْ وَ لْتَحْتَسِبْ</div>
 
     Verily to Allāh, belongs what He took and to Him belongs what He gave, and everything with Him has an appointed time.
 
-    Al-Bukhārī [1284](2/80) and Muslim [923](2/636).
+    Al-Bukhārī (#1284, 2/80) and Muslim (#923, 2/636).
 
 163. <div lang="ar">بِسْمِ اللهِ، وَعَلَى سُنَّةِ رَسُولِ اللهِ</div>
 
     In the name of Allāh and upon the sunnah of the Messenger of Allāh.
 
-    Abū Dāwud [3213](3/314) with a ṣaḥīḥ chain and Aḥmad (2/40) with the phrase: (<div lang="ar">بسم الله و على ملة رسول الله</div>) and its chain is Ṣaḥīḥ.
+    Abū Dāwud (#3213, 3/314) with a ṣaḥīḥ chain and Aḥmad (2/40) with the phrase: (<div lang="ar">بسم الله و على ملة رسول الله</div>) and its chain is ṣaḥīḥ.
 
 164. <div lang="ar">اللَّهُمَّ اغْفِرْ لَهُ، اللَّهُمَّ ثَبِّتْهُ</div>
 
     O Allāh, forgive him, O Allāh, protect him.
 
-    Abū Dāwud [3221](3/315) and al-Hākim (1/370) and he authenticated it and al-Dhahabī agreed with him.
+    Abū Dāwud (#3221, 3/315) and al-Hākim (1/370) and he authenticated it and al-Dhahabī agreed with him.
 
 165. <div lang="ar">السَّلَامُ عَلَيْكُمْ أَهْلَ الدِّيَارِ، مِنَ المُؤْمِنِيْنَ، وَالْمُسْلِمِيْنَ، وَإِنَّا إِنْ شَاءَ اللهُ بِكُمْ لَاحِقُونَ، [وَ يَرْ حَمُ اللهُ المُسْتَقْدِمِيْنَ مِنَّا وَ المُسْتَأخِرِيْنَ] أسْألُ اللهَ لَنَا وَلَكُمْ العَافِيَةَ</div>
 
     Peace be upon you all, O inhabitants of the graves, amongst the believers and the Muslims. Verily we will, Allāh willing, be united with you, we ask Allāh for well-being for us and you.
 
-    Muslim [975](2/671) and Ibn Mājah [1547](1/494) and the wording is his. What is between the brackets is from the hadith of ʿĀʾishah collected by Muslim [974](2/671).
+    Muslim (#975, 2/671) and Ibn Mājah (#1547, 1/494) and the wording is his. What is between the brackets is from the hadith of ʿĀʾishah collected by Muslim (#974, 2/671).
 
 166. <div lang="ar">اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَهَا، وَأَعُوذُ بِكَ مِنْ شَرِّهَا</div>
 
     O Allāh, I ask You for its goodness and I take refuge with You from its evil.
 
-    Abū Dāwud [5097](4/326) and Ibn Mājah [3727](2/1228). Also see _Ṣaḥīḥ Ibn Mājah_ (2/305).
+    Abū Dāwud (#5097, 4/326) and Ibn Mājah (#3727, 2/1228). Also see _Ṣaḥīḥ Ibn Mājah_ (2/305).
 
 167. <div lang="ar">اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَهَا، وَخَيْرَ مَا فِيْهَا، وَخَيْرَ مَا اُرْسِلَتْ بِهِ، وَأَعُوذُ بِكَ مِنْ شَـرِّهَا، وَشَرِّ مَا فِيْهَا، وَشَرِّ مَا اُرْسِلَتْ بِهِ</div>
 
     O Allāh, I ask You for its goodness, the good within it, and the good it was sent with, and I take refuge with You from its evil, the evil within it, and from the evil it was sent with.
 
-    Muslim [899](2/616) and al-Bukhārī [3206](4/76).
+    Muslim (#899, 2/616) and al-Bukhārī (#3206, 4/76).
 
 168. <div lang="ar">سُبْحَانَ الَّذِي يُسَبِّحُ الرَّعْدُ بِحَمْدِهِ، وَالمَلائِكَةُ مِنْ خِيْفَتِهِ</div>
 
@@ -1214,63 +1214,61 @@ Al-Tirmidhī [2083] and Abū Dāwud [3106]. Also see _Ṣaḥīḥ al-Tirmidhī_
 
     O Allāh, send upon us helpful, wholesome and healthy rain, beneficial not harmful rain, now, not later.
 
-    Abū Dāwud [1169](1/303). Al-Albānī declared it authentic in _Ṣaḥīḥ Abū Dāwud_ (1/216).
+    Abū Dāwud (#1169, 1/303). Al-Albānī declared it authentic in _Ṣaḥīḥ Abū Dāwud_ (1/216).
 
 170. <div lang="ar">اللَّهُمَّ أَغِثْنَا، اللَّهُمَّ أَغِثْنَا، اللَّهُمَّ أَغِثْنَا</div>
 
     O Allāh, relieve us, O Allāh, relieve us, O Allāh, relieve us.
 
-    Al-Bukhārī [1013](1/224) and Muslim [897](2/613).
+    Al-Bukhārī (#1013, 1/224) and Muslim (#897, 2/613).
 
 171. <div lang="ar">اللَّهُمَّ اسْقِ عِبَادَكَ، وَبَهَائِمَكَ، وَانْشُرْ رَحْمَتَكَ، وَأَحْيِيْ بَلَدَكَ المَيِّتَ</div>
 
     O Allāh, provide water for Your servants and Your cattle, spread out Your mercy and resurrect Your dead land.
 
-    Abū Dāwud [1176](1/305) and al-Albānī declared it ḥasan in _Ṣaḥīḥ Abū Dāwud_ (1/218).
+    Abū Dāwud (#1176, 1/305) and al-Albānī declared it ḥasan in _Ṣaḥīḥ Abū Dāwud_ (1/218).
 
 172. <div lang="ar">اللَّهُمَّ صَيِّباً نَافِعاً</div>
 
     O Allāh, may it be a beneficial rain cloud.
 
-    Al-Bukhārī [1032](2/518).
+    Al-Bukhārī (#1032, 2/518).
 
 173. <div lang="ar">مُطِرْنَا بِفَضْلِ اللهِ وَرَحْمَتِهِ</div>
 
     We have been given rain by the grace and mercy of Allāh.
 
-    Al-Bukhārī [846](1/205) and Muslim [71](1/83).
+    Al-Bukhārī (#846, 1/205) and Muslim (#71, 1/83).
 
 174. <div lang="ar">اللَّهُمَّ حَوَالَيْنَا وَلَا عَلَيْنَا، اللَّهُمَّ عَلَى الآكَامِ وَالظِّرَابِ، وَبُطُونِ الأوْدِيَةِ، وَمَنَابِتِ الشَّجَرِ</div>
 
     O Allāh, let the rain fall around us and not upon us, O Allāh, (let it fall) on the pastures, hills, valleys and the roots of trees.
 
-    Al-Bukhārī [1013](1/224) and Muslim [897](2/614).
+    Al-Bukhārī (#1013, 1/224) and Muslim (#897, 2/614).
 
 175. <div lang="ar">اللهُ أَكْبَرُ، اللَّهُمَّ أَهِلَّهُ عَلَيْنَا بِالأمْنِ وَالإيْمَانِ، والسَّلامَةِ والإسْلامِ، وَالتَّوْفِيْقِ لِمَا تُحِبُّ رَبَّنَا وَتَرْضَى، رَبُّنَا وَرَبُّكَ اللهُ</div>
 
     Allāh is the greatest. O Allāh, let the crescent loom above us in safety, faith, peace, and Islam, and in agreement with all that You love and pleases You. Our Lord and your Lord is Allāh.
 
-Al-Tirmidhī [3451](5/405) and al-Dārimī (1/336) and the wording is his. Also see _Ṣaḥīḥ al-Tirmidhī_ (3/157).
+    Al-Tirmidhī (#3451, 5/405) and al-Dārimī (1/336) and the wording is his. Also see _Ṣaḥīḥ al-Tirmidhī_ (3/157).
 
 176. <div lang="ar">ذَهَبَ الظَّمَأُ، وَابْتَلَّتِ العُرُوقُ، وَثَبَتَ الأجْرُ إِنْ شَاءَ اللهُ</div>
 
     The thirst has gone and the veins are quenched, and reward is confirmed, if Allāh wills.
 
-    Abū Dāwud [2357](2/306). Also see _Ṣaḥīḥ al-Jāmiʿ_ [4678](4/209).
+    Abū Dāwud (#2357, 2/306). Also see _Ṣaḥīḥ al-Jāmiʿ_ (#4678, 4/209).
 
 177. <div lang="ar">اللَّهُمَّ إِنِّي أَسْأَلُكَ بِرَحْمَتِكَ الَّتِي وَسِعَتْ كُلَّ شَيْءٍ، أَنْ تَغْفِرَ لِي</div>
 
     O Allāh, I ask You by Your mercy which envelopes all things, that You forgive me.
 
-    Ibn Mājah [1753](1/557) and al-Hāfiẓ declared it ḥasan in this takhrīj of _al-Athkār_. Also see _Sharḥ al-Athkār_ (4/342).
+    Ibn Mājah (#1753, 1/557) and al-Hāfiẓ declared it ḥasan in this takhrīj of _al-Athkār_. Also see _Sharḥ al-Athkār_ (4/342).
 
 178. <div lang="ar">بِسْمِ اللهِ (في أَوَّلِهِ وَآخِرِهِ)</div>
 
-    In the name of Allāh (in its beginning and end).*
+    In the name of Allāh (in its beginning and end).^[The words in the bracket are to be said if one forgets to recite the duʿā before eating and remembers while eating.]
 
-    * The words in the bracket are to be said if one forgets to recite the duʿā before eating and remembers while eating.
-
-Abū Dāwud [3767](3/347) and al-Tirmidhī [1858](4/288). Also see _Ṣaḥīḥ al-Tirmidhī_ (2/167).
+    Abū Dāwud (#3767, 3/347) and al-Tirmidhī (#1858, 4/288). Also see _Ṣaḥīḥ al-Tirmidhī_ (2/167).
 
 179. <div lang="ar">(١) اللَّهُمَّ بَارِكْ لَنَا فِيْهِ، وَأَطْعِمْنَا خَيْراً مِنْهُ
 (٢) اللَّهُمَّ بَارِكْ لَنَا فِيْهِ، وَزِدْنَا مِنْهُ</div>
@@ -1280,73 +1278,73 @@ Abū Dāwud [3767](3/347) and al-Tirmidhī [1858](4/288). Also see _Ṣaḥīḥ
     If one is given milk, recite the following instead:
     (2) 'O Allāh, bless it fo it for usand give us more of it.'
 
-    Abū Dāwud [3767] and al-Nasāʾī ['Amal al-Yawm wa al-Laylah][282]. Al-Albānī declared it weak, see _al-Kalām al-Ṭayyib_ [184].
+    Abū Dāwud [3767] and al-Nasāʾī _ʿAmal al-Yawm wa al-Laylah_ (#282). Al-Albānī declared it weak, see _al-Kalām al-Ṭayyib_ [184].
 
 180. <div lang="ar">الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنِي هـَذَا، وَرَزَقَنِيْهِ، مِنْ غَيْرِ حَوْلٍ مِنِّي وَلَا قُوَّةٍ</div>
 
     All praise is for Allāh who fed me this and provided it for me without any might nor power from myself.
 
-    Abū Dāwud [4023], al-Tirmidhī [3458] and Ibn Mājah [3285]. Also see _Ṣaḥīḥ al-Tirmidhī_ (3/159).
+    Abū Dāwud (#4023), al-Tirmidhī (#3458) and Ibn Mājah (#3285). Also see _Ṣaḥīḥ al-Tirmidhī_ (3/159).
 
 181. <div lang="ar">الْحَمْدُ لِلَّهِ حَمْداً كَثِيْراً طَيِّباً مُبَارَكاً فِيْهِ، غَيْرَ [مَكْفِيٍّ وَلَا] مُوَدَّعٍ، وَلَا مُسْتَغْنىً عَنْهُ رَبُّنَا</div>
 
     Allāh be praised with an abundant beautiful blessed praise, a never-ending praise, a praise which we will never bid farewell to and an indispensable praise, He is our Lord.
 
-    Al-Bukhārī [5458](6/214) and al-Tirmidhī [3456](5/507) and the wording is his.
+    Al-Bukhārī (#5458, 6/214) and al-Tirmidhī (#3456, 5/507) and the wording is his.
 
 182. <div lang="ar">اللَّهُمَّ بَارِكْ لَهُمْ فِيْمَا رَزَقْتَهُمْ، وَاغْفِرْ لَهُمْ، وَارْحَمْهُمْ</div>
 
     O Allāh, bless for them, that which You have provided them, forgive them and have mercy upon them.
 
-    Muslim [2042](3/1615).
+    Muslim (#2042, 3/1615).
 
 183. <div lang="ar">اللَّهُمَّ أَطْعِمْ مَنْ أَطْعَمَنِي، وَاسْقِ مَنْ سَقَانِي</div>
 
     O Allāh, feed him who fed me, and provide with drink him who provided me with drink.
 
-    Muslim [2055](3/1626).
+    Muslim (#2055, 3/1626).
 
 184. <div lang="ar">أَفْطَرَ عِنْدَكُمُ الصَّائِمُونَ، وَأَكَلَ طَعَامَكُمُ الأبْرَارُ، وَصَلَّتْ عَلَيْكُمُ المَلائِكَةُ</div>
 
     May the fasting break their fast in your home, and may the dutiful and pious eat your food, and may the angels send prayers upon you.
 
-    Abū Dāwud [3854](3/367), Ibn Mājah [1747](1/556) and al-Nasāʾī ['Amal al-Yawm wa al-Laylah][296-298]. Al-Albānī authenticated it in _Ṣaḥīḥ Abī Dāwud_ (2/730).
+    Abū Dāwud (#3854, 3/367), Ibn Mājah (#1747, 1/556) and al-Nasāʾī in _ʿAmal al-Yawm wa al-Laylah_ [296-298]. Al-Albānī authenticated it in _Ṣaḥīḥ Abī Dāwud_ (2/730).
 
 185. <div lang="ar">إذَا دُعِيَ أحَدُكُمْ فَلْيُجِبْ، فَإنْ كَانَ صَائِمًا فَلْيُصَلِّ، وَ إنْ كَانَ مُفْطِراً فَلْيَطْعَمْ (وَ مَعنَى فَلْيُصَلِّ؛ أيْ: فَلْيَدْعُ)</div>
 
     If you are invited (to a meal) then accept. If you happen to be fasting, then pray (for those present) and if you are not fasting, then eat. (The meaning of 'pray' here means 'supplicate').
 
-    Muslim [1431](2/1054).
+    Muslim (#1431, 2/1054).
 
 186. <div lang="ar">إِنِّي صَائِمٌ، إِنِّي صَائِمٌ</div>
 
     I am fasting, I am fasting.
 
-    Al-Bukhārī [1894](4/103) and Muslim [1151](2/806).
+    Al-Bukhārī (#1894, 4/103) and Muslim (#1151, 2/806).
 
 187. <div lang="ar">اللَّهُمَّ بَارِكْ لَنَا فِي ثَمَرِنَا، وَبَارِكْ لَنَا فِي مَدِيْنَتِنَا، وَبَارِكْ لَنَا فِي صَاعِنَا، وَبَارِكْ لَنَا فِي مُدِّنَا</div>
 
     O Allāh, bless our fruit for us, bless our town for us, bless our saAA for us and bless our mudd for us.
 
-    Muslim [1373](2/1000).
+    Muslim (#1373, 2/1000).
 
 <!-- TODO double check the ollowing -->
 
 188. <div lang="ar"></div>
 
-(١) الْحَمْدُ للهِ 
-(٢) يَرْحَمُكَ اللهُ
-(٣) يَهْدِيْكُمُ اللهُ وَيُصْلِحُ بَالَكُمْ
+    (١) الْحَمْدُ للهِ 
+    (٢) يَرْحَمُكَ اللهُ
+    (٣) يَهْدِيْكُمُ اللهُ وَيُصْلِحُ بَالَكُمْ
 
     When one of you sneezes, say: (1) 'All praise if for Allāh,' then his brother or companion should reply: (2) 'May Allāh have mercy upon you.' and the one who sneezed replies back by saying (3) 'May Allāh guide you and rectify your condition.'
 
-    Al-Bukhārī [6224](7/125).
+    Al-Bukhārī (#6224, 7/125).
 
 189. <div lang="ar">يَهْدِيْكُمُ اللهُ، وَيُصْلِحُ بَالَكُمْ</div>
 
     May Allāh guide you and rectify your condition.
 
-Al-Tirmidhī [2739](5/82), Aḥmad (4/400) and Abū Dāwud [5038](4/308). Also see _Ṣaḥīḥ al-Tirmidhī_ (2/354).
+    Al-Tirmidhī (#2739, 5/82), Aḥmad (4/400) and Abū Dāwud (#5038, 4/308). Also see _Ṣaḥīḥ al-Tirmidhī_ (2/354).
 
 190. <div lang="ar">بَارَكَ اللّهُ لَكَ، وَبَارَكَ عَلَيْكَ، وَجَمَعَ بَيْنَكُمَا فِي خَيْرٍ</div>
 
@@ -1358,85 +1356,85 @@ Al-Tirmidhī [2739](5/82), Aḥmad (4/400) and Abū Dāwud [5038](4/308). Also s
 
     O Allāh, I ask You for the goodness within her and the goodness that you have made her inclined towards, and I take refuge with You from the evil within her and the evil that you have made her inclined towards.
 
-    Abū Dāwud [2160](2/248) and Ibn Mājah [1918](1/617). Also see _Ṣaḥīḥ Ibn Mājah_ (1/324).
+    Abū Dāwud (#2160, 2/248) and Ibn Mājah (#1918, 1/617). Also see _Ṣaḥīḥ Ibn Mājah_ (1/324).
 
 192. <div lang="ar">بِسْمِ اللهِ، اللَّهُمَّ جَنِّبْنَا الشَّيْطَانَ، وَجَنِّبِ الشَّيْطانَ مَا رَزَقْتَنَا</div>
 
     In the name of Allāh. O Allāh, keep the devil away from us and keep the devil away from what you have blessed us with.
 
-    Al-Bukhārī [3271](6/141) and Muslim [1434](2/1028).
+    Al-Bukhārī (#3271, 6/141) and Muslim (#1434, 2/1028).
 
 193. <div lang="ar">أَعُوذُ بِاللهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ</div>
 
     I take refuge with Allāh from the accursed devil.
 
-    Al-Bukhārī [6048](7/99) and Muslim [2610](5/2015).
+    Al-Bukhārī (#6048, 7/99) and Muslim (#2610, 5/2015).
 
 194. <div lang="ar">الْحَمْدُ لِلَّهِ الَّذِيْ عَافَانِي مِمَّا ابْتَلاكَ بِهِ، وَفَضَّلَنِي عَلَى كَثِيْرٍ مِمَّنْ خَلَقَ تَفْضِيْلاً</div>
 
     All praise is for Allāh Who saved me from that which He tested you with and Who most certainly favoured me over much of His creation.
 
-    Al-Tirmidhī [3432](5/493,494). Also see _Ṣaḥīḥ al-Tirmidhī_ (3/153).
+    Al-Tirmidhī (#3432, 5/493, 494). Also see _Ṣaḥīḥ al-Tirmidhī_ (3/153).
 
 195. <div lang="ar">رَبِّ اغْفِرْ لي، وَتُبْ عَلَـيَّ، إِنَّكَ أَنْتَ التَّوَّابُ الغَفُورُ</div>
 
     O my Lord, forgive me and turn towards me (to accept my repentance). Verily You are The Oft-Returning. The Oft-Forgiving.
 
-Al-Tirmidhī [3432]. Also see _Ṣaḥīḥ al-Tirmidhī_ (3/153) and _Ṣaḥīḥ Ibn Mājah_ (2/321) and the wording is al-Tirmidhī's.
+    Al-Tirmidhī [3432]. Also see _Ṣaḥīḥ al-Tirmidhī_ (3/153) and _Ṣaḥīḥ Ibn Mājah_ (2/321) and the wording is al-Tirmidhī's.
 
 196. <div lang="ar">سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا أَنْتَ، أَسْتَغْفِرُكَ وَأَتُوبُ إِلَيْكَ</div>
 
     How perfect You are O Allāh, and I praise You. I bear witness that None has the right to be worshipped except You. I seek Your forgiveness and turn to You in repentance.
 
-Abū Dāwud [4859], al-Tirmidhī [3433], al-Nasāʾī ['Amal al-Yawm wa al-Laylah][397]. Also see _Ṣaḥīḥ al-Tirmidhī_ (3/153).
+    Abū Dāwud [4859], al-Tirmidhī [3433], and al-Nasāʾī in _ʿAmal al-Yawm wa al-Laylah_ [397]. Also see _Ṣaḥīḥ al-Tirmidhī_ (3/153).
 
 197. <div lang="ar">وَلَكَ</div>
 
     And (may Allāh forgive) you.
 
-    Aḥmad (5/82) and al-Nasāʾī ['Amal al-Yawm wa al-Laylah](pg.\ 218).
+    Aḥmad (5/82) and al-Nasāʾī in _ʿAmal al-Yawm wa al-Laylah_ (p.\ 218).
 
 198. <div lang="ar">جَزَاكَ اللهُ خَيْراً</div>
 
     May Allāh reward you with good.
 
-Al-Tirmidhī [2035]. Also see _Ṣaḥīḥ al-Jāmiʿ_ [6244] and _Ṣaḥīḥ al-Tirmidhī_ (2/200).
+    Al-Tirmidhī [2035]. Also see _Ṣaḥīḥ al-Jāmiʿ_ [6244] and _Ṣaḥīḥ al-Tirmidhī_ (2/200).
 
 199. <div lang="ar">مَنْ حَفِظَ عَشَرَ آيَاتٍ مِنْ أوُّلِ سُورَةِ الكَهْفِ، عُصِمَ مِنَ الدَّجَّالِ</div>
 
     Whoever memorises the first ten verses of Sūrah al-Kahf will be protected from the Dajjāl.
 
-    Muslim [809](1/555).
+    Muslim (#809, 1/555).
 
 200. <div lang=ar">أَحَبَّكَ الَّذِيْ أَحْبَبْتَنِي لَهُ</div>
 
     May He, for whom you have loved me, love you.
 
-    Abū Dāwud [5125](4/333) and Al-Albānī authenticated it in _Ṣaḥīḥ Abī Dāwud_ (3/965).
+    Abū Dāwud (#5125, 4/333) and Al-Albānī authenticated it in _Ṣaḥīḥ Abī Dāwud_ (3/965).
 
 201. <div lang="ar">بَارَكَ اللهُ لَكَ في أَهْلِكَ وَمالِكَ</div>
 
     May Allāh bless for you, your family and wealth.
 
-Abū Dāwud [5125](4/333) and al-Albānī declared it ḥasan in _Ṣaḥīḥ Abī Dāwud_ (3/965).
+    Abū Dāwud (#5125, 4/333) and al-Albānī declared it ḥasan in _Ṣaḥīḥ Abī Dāwud_ (3/965).
 
 202. <div lang="ar">بَارَكَ اللهُ لَكَ في أَهْلِكَ وَمالِك، إِنَّمَا جَزَاءُ السَّلَفِ الْحَمْدُ والأَدَاءُ</div>
 
     May Allāh bless for you, your family and wealth. Surely commendation and payment are the reward for a loan.
 
-Al-Nasāʾī ['Amal al-Yawm wa al-Laylah][372](pg.\ 300) and Ibn Mājah [2424](2/809). Also see _Ṣaḥīḥ Ibn Mājah_ (2/55).
+    Al-Nasāʾī ind _ʿAmal al-Yawm wa al-Laylah_ (#372, p.\ 300) and Ibn Mājah (#2424, 2/809). Also see _Ṣaḥīḥ Ibn Mājah_ (2/55).
 
 203. <div lang="ar">اللَّهُمَّ إِنِّي أَعُوذُبِكَ أَنْ أُشْرِكَ بِكَ وَأَنَا أَعْلَمُ، وَأَسْتَغْفِرُكَ لِمَا لَا أَعْلَمُ</div>
 
     O Allāh, I take refuge in You lest I should commit shirk with You knowingly and I seek Your forgiveness for what I do unknowingly.
 
-Aḥmad (4/403). Also see _Ṣaḥīḥ al-Jāmiʿ_ [3731](3/233) and _Ṣaḥīḥ al-Targhīb wa al-Tarhīb_ [36](1/122) by al-Albānī.
+    Aḥmad (4/403). Also see _Ṣaḥīḥ al-Jāmiʿ_ (#3731, 3/233) and _Ṣaḥīḥ al-Targhīb wa al-Tarhīb_ (#36, 1/122) by al-Albānī.
 
 204. <div lang="ar">وَفِيْكَ بَارَكَ اللهُ</div>
 
     May Allāh bless you.
 
-    Ibn al-Sunnī [278](pg.\ 138). Also see Ibn Qayyim [al-Wabil al-Ṣayyib](pg.\ 304) with research by Bashīr Muḥammad 'Uyun.
+    Ibn al-Sunnī (#278, p.\ 138). Also see Ibn Qayyim's _al-Wabil al-Ṣayyib_ (p.\ 304) with research by Bashīr Muḥammad ʿUyun.
 
 <!-- TODO COMPLETE IT double check the following -->
 
@@ -1450,7 +1448,7 @@ Aḥmad (4/403). Also see _Ṣaḥīḥ al-Jāmiʿ_ [3731](3/233) and _Ṣaḥī
 
     In the name of Allāh and all praise is for Allāh. How perfect He is, the One Who has placed this (transport) at our service and we ourselves would not have been capable of that, and to our Lord is our final destiny. All praise is for Allāh, All praise is for Allāh, All praise is for Allāh, Allāh is the greatest, Allāh is the greatest, Allāh is the greatest. How perfect You are, O Allāh, verily I have wronged my soul, so forgive me, for surely none can forgive sins except You.
 
-Abū Dāwud [2602](3/34) and al-Tirmidhī [3446](5/510). Also see _Ṣaḥīḥ al-Tirmidhī_ (3/156).
+    Abū Dāwud (#2602, 3/34) and al-Tirmidhī (#3446, 5/510). Also see _Ṣaḥīḥ al-Tirmidhī_ (3/156).
 
 207. <div lang="ar"></div>
 
@@ -1462,72 +1460,72 @@ Abū Dāwud [2602](3/34) and al-Tirmidhī [3446](5/510). Also see _Ṣaḥīḥ 
     Upon returning the same supplication is recited with the following addition:  
     (2) 'We return, repent, worship and praise our Lord.'
 
-    Muslim [1342](2/998).
+    Muslim (#1342, 2/998).
 
 208. <div lag="ar">اللَّهُمَّ رَبَّ السَّمَوَاتِ السَّبْعِ وَمَا أَظْلَلْنَ، وَرَبَّ الأَرْاضِيْنَ السَّبْعِ وَمَا أقْلَلْنَ، وَرَبَّ الشَّيَاطِيْنِ وَمَا أَضْلَلْنَ، وَرَبَّ الرِّيَاحِ وَمَا ذَرَيْنَ، أَسْأَلُكَ خَيْرَ هَذِهِ الْقَرْيَةِ وَخَيْرَ أَهْلِهَا، وَخَيْرَ مَا فِيْهَا، وَأَعُوذُ بِكَ مِنْ شَـرِّهَا، وَشَرِّ أَهْلِهَا، وَشَرِّ مَا فِيْهَا</div>
 
     O Allāh, Lord of the seven heavens and all that they envelop, Lord of the seven earths and all that they carry, Lord of the devils and all whom they misguide, Lord of the winds and all whom they whisk away. I ask You for the goodness of this village, the goodness of its inhabitants and for all the goodness found within it and I take refuge with You from the evil of this village, the evil of its inhabitants and from all the evil found within it.
 
-    Al-Hākim (2/100) and he authenticated it and al-Dhahabī agreed with him, Ibn al-Sunnī [524], Al-Ḥāfiẓ declared it ḥasan in _Takrīj al-Athkār_ (5/154). Shaykh Ibn Bāz said that it has been narrated by al-Nasāʾī ['Amal al-Yawm wa al-Laylah][547-548] with a ḥasan chain. Also see _Tuḥfat al-Akhyār_ (pg.\ 37).
+    Al-Hākim (2/100) and he authenticated it and al-Dhahabī agreed with him, Ibn al-Sunnī [524], Al-Ḥāfiẓ declared it ḥasan in _Takrīj al-Athkār_ (5/154). Shaykh Ibn Bāz said that it has been narrated by al-Nasāʾī in _ʿAmal al-Yawm wa al-Laylah_ [547-548] with a ḥasan chain. Also see _Tuḥfah al-Akhyār_ (p.\ 37).
 
 209. <div lang="ar">لَا إلَهَ إلَّا اللهُ وَحْدَهُ لَا شَرِيْكَ لَهُ، لَهُ المُلْكُ وَلَهُ الحَمْدُ، يُحْيِي وَيُمِيْتُ، وَهُوَ حَيٌّ لَا يَمُوتُ، بِيَدِهِ الْخَيْرُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرٌ</div>
 
     None has the right to be worshipped except Allāh, alone, without partner, to Him belongs all sovereignty and praise. He gives life and causes death, and He is living and does not die. In His hand is all good and He is over all things, omnipotent.
 
-    Al-Tirmidhī [3429](5/291), al-Hākim (1/538) and Ibn Mājah [2235]. Al-Albānī classed it as ḥasan in _Ṣaḥīḥ Ibn Mājah_ (2/21) and _Ṣaḥīḥ al-Tirmidhī_ (3/152).
+    Al-Tirmidhī (#3429, 5/291), al-Hākim (1/538) and Ibn Mājah (#2235). Al-Albānī classed it as ḥasan in _Ṣaḥīḥ Ibn Mājah_ (2/21) and _Ṣaḥīḥ al-Tirmidhī_ (3/152).
 
 210. <div lang="ar">بِسْمِ اللهِ</div>
 
     In the name of Allāh.
 
-    Abū Dāwud [4982](4/296). Al-Albānī authenticated it in _Ṣaḥīḥ Abī Dāwud_ (3/941).
+    Abū Dāwud (#4982, 4/296). Al-Albānī authenticated it in _Ṣaḥīḥ Abī Dāwud_ (3/941).
 
 211. <div lang="ar">أَسْتَوْدِعُكُمُ اللَّهَ، الَّذِيْ لَا تَضِيْعُ وَدَائِعُهُ</div>
 
     I place you in the trust of Allāh, whose trust is never misplaced.
 
-    Aḥmad (2/403) and Ibn Mājah [2825](2/943). Also see _Ṣaḥīḥ Ibn Mājah_ (2/133).
+    Aḥmad (2/403) and Ibn Mājah (#2825, 2/943). Also see _Ṣaḥīḥ Ibn Mājah_ (2/133).
 
 212. <div lang="ar">أَسْتَوْدِعُ اللَّهَ دِيْنَكَ، وَأَمَانَتَكَ، وَخَوَاتِيْمَ عَمَلِكَ</div>
 
     I place your religion, your faithfulness and the ends of your deeds in the trust of Allāh.
 
-    Aḥmad (2/7) and al-Tirmidhī [3443](5/499). Also see _Ṣaḥīḥ al-Tirmidhī_ (2/155).
+    Aḥmad (2/7) and al-Tirmidhī (#3443, 5/499). Also see _Ṣaḥīḥ al-Tirmidhī_ (2/155).
 
 213. <div lang="ar">زَوَّدَكَ اللَّهُ التَّقْوَى، وَغَفَرَذَنْبَكَ، وَيَسَّرَ لَكَ الخَيْرَ حَيْثُمَا كُنْتَ</div>
 
     May Allāh endow you with taqwa, forgive your sins and facilitate all good for you, wherever you be.
 
-Al-Tirmidhī [3444]. Also see _Ṣaḥīḥ al-Tirmidhī_ (3/155).
+    Al-Tirmidhī (#3444). Also see _Ṣaḥīḥ al-Tirmidhī_ (3/155).
 
 <!-- TODO double check the following -->
 
 214. <div lang="ar"></div>
 
-(١) اللهُ أَكْبَرُ<br>
-(٢) سُبْحَانَ اللهُ
+    (١) اللهُ أَكْبَرُ<br>
+    (٢) سُبْحَانَ اللهُ
 
     When ascending, recite (1) 'Allāh is the greatest,' and when descending, recite (2) 'How perfect is Allāh.'
 
-    Al-Bukhārī [2993](6/135).
+    Al-Bukhārī (#2993, 6/135).
 
 215. <div lang="ar">سَمَّعَ سَامِعٌ بِحَمْدِ اللهِ، وَحُسْنِ بَلائِهِ عَلَيْنَا،.رَبَّنَا صَاحِبْنَا، وَأَفْضِلْ عَلَيْنَا عَائِذاً باللهِ مِنَ النَّارِ</div>
 
     May a witness, be witness to our praise of Allāh for His favours and bounties upon us. Our Lord, protect us, show favour on us and deliver us from every evil. I take refuge in Allāh from the fire.
 
-    Muslim [2718](4/2086).
+    Muslim (#2718, 4/2086).
 
 216. <div lang="ar">أَعُوذُ بِكَلِمَاتِ اللّهِِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ</div>
 
     I take refuge in Allāh’s perfect words from the evil that He has created.
 
-    Muslim [2708](4/2080).
+    Muslim (#2708, 4/2080).
 
 217. <div lang="ar">اللهُ أَكْبَرُ، اللهُ أَكْبَرُ، اللهُ أَكْبَرُ، لَا إلَهَ إلَّا اللهُ وَحْدَهُ لَا شَرِيْكَ لهُ، لهُ المُلْكُ وَ لَهُ الحَمْدُ، وهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرٌ، آيِبُونَ، تَائِبُونَ، عَابِدُونَ، لِرَبِّنَا حـَامِدُونَ، صَدَقَ اللهُ وَعْدَهُ، وَنَصَرَ عَبْدَهُ، وَهَزَمَ الأحْزَابَ وَحْدَهُ</div>
 
     Allāh is the greatest, Allāh is the greatest, Allāh is the greatest. None has the right to be worshiped except Allāh, alone, without partner. To Him belongs all sovereignty and praise, and He is over all things omnipotent. We return, repent, worship and praise our Lord. Allāh fulfilled His promise, aided His Servant, and single-handedly defeated the allies.
 
-    Al-Bukhārī [1797](7/163) and Muslim [1344](2/980).
+    Al-Bukhārī (#1797, 7/163) and Muslim (#1344, 2/980).
 
 <!-- TODO double check the following -->
 
@@ -1540,25 +1538,25 @@ Al-Tirmidhī [3444]. Also see _Ṣaḥīḥ al-Tirmidhī_ (3/155).
 
     Upon receiving bad news, say: (2) 'All Praise is for Allāh in all circumstances.'
 
-    Ibn al-Sunnī ['Amal al-Yawm wa al-Laylah][378] and al-Hākim (1/499) and he authenticated it. Al-Albānī authenticated it in _Ṣaḥīḥ al-Jāmiʿ_ [4640](4/201).
+    Ibn al-Sunnī in _ʿAmal al-Yawm wa al-Laylah_ [378] and al-Hākim (1/499) and he authenticated it. Al-Albānī authenticated it in _Ṣaḥīḥ al-Jāmiʿ_ (#4640, 4/201).
 
 219. <div lang="ar">قَالَ ﷺ: «مَنْ صَلَّ عَلَيَّ صَلاةً صَلَّ اللهُ عَلَيْهِ بِهَا عَشَراً»</div>
 
-The Prophet \pbuh said: 'Whoever sends a prayer upon me, Allāh sends ten upon him.'
+    The Prophet \pbuh said: 'Whoever sends a prayer upon me, Allāh sends ten upon him.'
 
-Muslim [408](1/288).
+    Muslim (#408, 1/288).
 
 220. <div lang="ar">قَالَ ﷺ: «لا تَجْعَلُوا قَبْرِيْ عِيْداً وَ صَلُّوا عَلَيَّ فَإِنَّ صَلاتَكُمْ تَبْلُغُنِي حَيْثُ كُنْتُمْ»</div>
 
     The Prophet \pbuh said: 'Do not take my grave as a place of habitual ceremony. Send prayers upon me, for verily your prayers reach me wherever you are.'
 
-    Abū Dāwud [2042](2/218) and Aḥmad (2/367). Al-Albānī authenticated it in _Ṣaḥīḥ Abī Dāwud_ (2/383).
+    Abū Dāwud (#2042, 2/218) and Aḥmad (2/367). Al-Albānī authenticated it in _Ṣaḥīḥ Abī Dāwud_ (2/383).
 
 221. <div lang="ar">قَالَ ﷺ: «البَخِيْلُ مَنْ ذُكِرْتُ عِنْدَهُ فَلَمْ يُصَلِّ عَلَيَّ»</div>
 
     The Prophet \pbuh said: 'A miser is one whom when I am mentioned to him, fails to send prayers upon me.'
 
-    Al-Tirmidhī [3546](5/551). Also see _Ṣaḥīḥ al-Jāmiʿ_ [2787](3/25) and _Ṣaḥīḥ al-Tirmidhī_ (3/177).
+    Al-Tirmidhī (#3546, 5/551). Also see _Ṣaḥīḥ al-Jāmiʿ_ (#2787, 3/25) and _Ṣaḥīḥ al-Tirmidhī_ (3/177).
 
 222. <div lang="ar">قَالَ ﷺ: «إنَّ لِلَّهِ مَلائِكَةً سَيَّا حِيْنَ فِي الأرْضِ، يُبَلِّغُونِي مِنْ أُمَّتِي السَّلامَ»</div>
 
@@ -1568,15 +1566,15 @@ Muslim [408](1/288).
 
 223. <div lang="ar">قَالَ ﷺ: «مَا مِنْ أحَدٍ يُسَلِّمُ عَلَيَّ، إلَّا رَدَّ اللهُ عَلَيَّ رُوْحي، حَتَّى أرُدَّ عَلَيْهِ السَّلامَ»</div>
 
-The Prophet \pbuh said: 'Every time somebody greets me, Allāh gives me back my soul for me to answer this greeting.'
+    The Prophet \pbuh said: 'Every time somebody greets me, Allāh gives me back my soul for me to answer this greeting.'
 
-Abū Dāwud (2041). Al-Albānī declared it ḥasan in _Ṣaḥīḥ Abī Dāwud_ (1/283).
+    Abū Dāwud (2041). Al-Albānī declared it ḥasan in _Ṣaḥīḥ Abī Dāwud_ (1/283).
 
 224. <div lang="ar">قَالَ ﷺ: «لا تَدْخُلُوا الجَنَّة حَتَّى تُؤمِنُوا، وَ لَا تُؤمِنُوا حَتَّى تَحَابُّوا، أَوَلَا أدُلُّكُمْ عَلَى شَيْءٍ إذَا فَعَلْتُمُوهُ تَحَابَبْتُمْ، أَفْشُوا السَّلامَ بَيْنَكُمْ»</div>
 
     The Prophet \pbuh said: 'You shall not enter paradise until you believe, and you shall not believe until you love one another. Shall I not inform you of something, if you were to act upon it, you will indeed achieve mutual love for one another? Spread the Salām amongst yourselves.'
 
-    Muslim [54](1/74).
+    Muslim (#54, 1/74).
 
 225. <div lang="ar">قَالَ عمار بن ياسر(رضي الله عنه): «ثَلاثٌ مَنْ جَمَعَهُنَّ فَقَدْ جَمَعَ الإيْمَانَ: الإنْصَافُ مِنْ نَفْسِكَ، و بَذْلُ السَّلامِ لِلْعَالَمِ، و الإنْفَاقُ مِنَ الإقْتَارِ»</div>
 
@@ -1588,98 +1586,100 @@ Abū Dāwud (2041). Al-Albānī declared it ḥasan in _Ṣaḥīḥ Abī Dāwud
 
     ʿAbd Allāh Ibn ʿAmr reported that a man asked the Prophet \pbuh: ‘Which Islam is the best?’. He \pbuh replied : 'Feed (the poor), and greet those whom you know as well as those whom you do not.’
 
-    Al-Bukhārī [12](1/55) and Muslim [39](1/65).
+    Al-Bukhārī (#12, 1/55) and Muslim (#39, 1/65).
 
 227. <div lang="ar">وَ عَلَيْكُمْ</div>
 
     And upon you.
 
-    Al-Bukhārī [6258](11/42) and Muslim [2163](4/1705).
+    Al-Bukhārī (#6258, 11/42) and Muslim (#2163, 4/1705).
 
 228. <div lang="ar">إذَا سَمِعْتُمْ صِيَاحَ الدِّيَكَةِ فَاسْألُوا اللهَ مِنْ فَضْلِهِ؛ فَإنَّهَا رَأَتْ مَلَكاً، وَ إذَا سَمِعْتُمْ نَهِيْقَ الحِمَارِ فَتَعوَّذُوا بِااللهِ مِنَ الشَّيْطَانِ؛ فَإنَّهُ رَأى شَيْطَانًا</div>
 
     If you hear the crow of a rooster, ask Allāh for his bounty for it has seen an angel and if you hear the braying of a donkey, seek refuge in Allāh for it has seen a devil.
 
-    Al-Bukhārī [3303](6/350) and Muslim [2729](4/2092).
+    Al-Bukhārī (#3303, 6/350) and Muslim (#2729, 4/2092).
 
 229. <div lang="ar">أَعُوذُ بِاللهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ</div>
 
     If you hear the barking of dogs or the braying of asses at night, seek refuge in Allāh for they see what you do not.
 
-    Abū Dāwud [5103](4/327) and Aḥmad (3/306). Al-Albānī authenticated it in _Ṣaḥīḥ Abī Dāwud_ (3/961).
+    Abū Dāwud (#5103, 4/327) and Aḥmad (3/306). Al-Albānī authenticated it in _Ṣaḥīḥ Abī Dāwud_ (3/961).
 
 230. <div lang="ar">اللَّهُمَّ فأَيُّمَا مُؤْمِنٍ سَبَبْتُهُ؛ فَاجْعَلْ ذَلِكَ لَهُ قُرْبَةً إلَيْكَ يَوْمَ القِيَامَةِ</div>
 
     O Allāh, to any believer whom I have insulted, let that be cause to draw him near to You on the Day of Resurrection.
 
-    Al-Bukhārī [6361](11/171) and Muslim [2601](4/2007).
+    Al-Bukhārī (#6361, 11/171) and Muslim (#2601, 4/2007).
 
 231. <div lang="ar">قَالَ ﷺ: «إذَا كَانَ أحَدُكُمْ مَادِحاً صَاحِبَهُ لَا مَحَالَةَ؛ فَلْيَقُل: أحْسِبُ فُلَانًا: وَ اللهُ حَسِيْبُهُ، وَ لَا أُزَكِّي عَلَى اللهِ أحَداً: أحْسِبُهُ – إنْ كَانَ يَعْلمُ ذَاكَ – كَذَا وَ كَذَا»</div>
 
     I deem so-and-so to be...and Allāh is his reckoner...and I don’t praise anyone, putting it (i.e. my praising) forward, in front of Allāh’s commendation, however I assume him so and so’(if he knows that of him).
 
-    Muslim [3000](4/2296) and Al-Bukhārī [2662].
+    Muslim (#3000, 4/2296) and al-Bukhārī (#2662).
 
 232. <div lang="ar">اللَّهُمَّ لَا تُؤَاخِذْنِي بِمَا يَقُولُونَ، وَ اغْفِرْ لِي مَا لاَ يَعْلَمُونَ [وَ اجْعَلْنِي خَيْراً مِمَّا يَظُنُّونَ]</div>
 
     O Allāh, do not punish me for what they say, forgive me for what they do not know (and make me better than what they think of me).
 
-    Al-Bukhārī [Adab Al-Mufrad][761] and Al-Albānī declared its chain ḥasan in _Ṣaḥīḥ Adab al-Mufrad_ [585]. What is between the brackets is an extension from al-Bayhaqī [Shuʿab al-Imān](4/228) through a different way.
+    Al-Bukhārī in _Adab al-Mufrad_ (#761) and al-Albānī declared its chain ḥasan in _Ṣaḥīḥ Adab al-Mufrad_ (#585). What is between the brackets is an extension from al-Bayhaqī in _Shuʿab al-Imān_ (4/228) through a different way.
 
 233. <div lang="ar">لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ، لَبَّيْكَ لاَ شَرِيْكَ لَكَ لَبَّيْكَ، إِنَّ الْحَمْدَ والنِّعْمَةَ، لَكَ وَالمُلْكَ، لَا شَرِيْكَ لَكَ</div>
 
     Here I am O Allāh, (in response to Your call), here I am. Here I am, You have no partner, here I am. Verily all praise, grace and sovereignty belong to You. You have no partner.
 
-    Al-Bukhārī [1549](3/408) and Muslim [1184](2/841).
+    Al-Bukhārī (#1549, 3/408) and Muslim (#1184, 2/841).
 
 234. <div lang="ar">اللهُ أَكْبَرُ</div>
 
     Allāh is the greatest.
 
-    Al-Bukhārī [1612](1/476).
+    Al-Bukhārī (#1612, 1/476).
 
 235. <div lang="ar">﴿رَبَّنَا آتِنَا في الدُّنْيَا حَسَنَةً وفي الآخِرَةِ حَسَنَةً وقِنَا عَذَابَ النَّارِ﴾</div>
 
     O our Lord, grant us the best in this life and the best in the next life, and protect us from the punishment of the Fire.
 
-    (1) Abū Dāwud [1892](2/179), Aḥmad (3/411) and al-Baghawī in _Sharḥ al-Sunnah_ (7/128). Al-Albānī declared it ḥasan in _Ṣaḥīḥ Abī Dāwud_ (1/354).
+    (1) Abū Dāwud (#1892, 2/179), Aḥmad (3/411) and al-Baghawī in _Sharḥ al-Sunnah_ (7/128). Al-Albānī declared it ḥasan in _Ṣaḥīḥ Abī Dāwud_ (1/354).
     (2) Sūrah al-Baqarah, 2:201.
 
 236. <div lang="ar">لَمَّا دَنَا النَّبِيُّ ﷺ مِنَ الصَّفَا قَرَأ: ﴿إنَّ الصَّفَا وَ المَرْوَةَ مِنْ شَعَائِرِ اللهِ﴾«أبْدَأ بِمَا بَدَأ اللهُ بِهِ» فَبَدأ بِالصَّفَا، فَرَقِيَ عَلَيْهِ، حَتَّى رَأَى البَيْتَ، فَاسْتَقْبَلَ القِبْلَةَ، فَوَحَّدَ اللهَ، وَ كَبَّرَهُ، وَ قَالَ: «لَا إلَهَ إلَّا اللهُ وَحْدَهُ لَا شَرِيْكَ لَهُ، لَهُ المُلْكُ وَ لَهُ الحَمْدُ، وَ هُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرٌ، لَا إلَهَ إلَّا اللهٌ وَ حْدَهُ، أنْجَزَ وَعْدَهُ، وَ نَصَرَ عَبْدَهُ، وَ هَزَمَ الأَحْزَابَ وَحْدَهُ، ثُمَّ دَعَا بَيْنَ ذَلِكَ، قَالَ مِثْلَ هَذَا ثَلَاثَ مَرَّاتٍ...، الحَدِيْثُ، وَ فِيْهِ: فَفَعَلَ عَلَى المَرْوَةِ كَمَا فَعَلَ عَلَى الصَّفَا»</div>
 
     Indeed Safa and Marwah are from the places of worship of Allāh...None has the right to be worshipped except Allāh, Allāh is the greatest. None has the right to be worshipped except Allāh, alone, without partner. To Him belongs all sovereignty and praise and He is over all things amnipotent. None has the right to be worshipped except Allāh alone. He fulfilled His promise, aided His Servant and single-handedly defeated the allies.
 
-    Muslim [1218](2/888).
+    Muslim (#1218, 2/888).
 
 237. <div lang="ar">لَا إلَهَ إلَّا اللهُ وَحْدَهُ لَا شَرِيْكَ لَهُ، لَهُ المُلْكُ، ولَهُ الحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرٌ</div>
 
     None has the right to be worshiped except Allāh, alone, without partner. To Him belongs all praise and sovereignty and He is over all things omnipotent.
 
-    Al-Tirmidhī [3585]. Al-Albānī authenticated it in _Ṣaḥīḥ al-Tirmidhī_ (3/184) and _al-Aḥādīth al-Ṣaḥīḥah_ (4/6).
+    Al-Tirmidhī (#3585). Al-Albānī authenticated it in _Ṣaḥīḥ al-Tirmidhī_ (3/184) and _al-Aḥādīth al-Ṣaḥīḥah_ (4/6).
 
 238. <div lang="ar">رَكِبَ ﷺ القَصْوَاءَ حَتَّى أتَى المَشْعَرَ الحَرَامَ، فَاسْتَقْبَلَ القِبْلَةَ (فَدَعَاهُ، وَ كَبَّرَهُ، وَ هَلَّلَهُ، وَ وَحَّدَهُ) فَلَمْ يَزَلْ وَاقِفًا حَتَّى أسْفَرَ جِدّاً، فَدَفَعَ قَبْلَ أنْ تَطْلُعَ الشَّمْسُ</div>
 
     The Prophet \pbuh rode al-Qaswa until he reached al-Mashʿar al-Ḥaram, he then faced the qiblah, supplicated to Allāh, and extoled His greatness and oneness. He stood until the sun shone but left before it rose.
 
-    Muslim [1218](2/891).
+    Muslim (#1218, 2/891).
 
 239. <div lang="ar">يُكَبِّرُ كُلَّمَا رَمَى بِحَصَاةٍ عِنْدَ الجِمَارِ الثَّلاثِ، ثُمَّ يَتَقَدَّمُ، وَ يَقِفُ يَدْعُوْ مُسْتَقْبِلَ القِبْلَةَ، رَافِعاً يَدَيْهِ بَعْدَ الجَمْرَةِ الأوْلَى وَ الثَّانِيَةِ، أمَّا جَمْرَةُ العَقَبَةِ فَيَرْمِيْهَا، وَ يُكَبِّرُ عِنْدَ كُلِّ حَصَاةٍ، وَ يَنْصَرِفُ، وَ لَا يَقِفُ عِنْدَهَا</div>
 
     [TO DO]
 
-    Al-Bukhārī [1752, 1753](3/583-584) and see his wording there, al-Bukhārī [1750](3/581) and Muslim [1296].
+    Al-Bukhārī (#1752, #1753, 3/583-584) and see his wording there, al-Bukhārī (#1750, 3/581) and Muslim (#1296).
+
+<!-- TODO fix the references. What in the world is going on there... -->
 
 240. <div lang="ar">سُبْحَانَ اللهِ!</div>
 
     How perfect is Allāh!
 
-    Al-Bukhārī [155](1/210), [283](1/390) and Muslim [371], [314](414), [332](4/1857).
+    Al-Bukhārī (#155, 1/210), (#283, 1/390) and Muslim [371], [314](414), [332](4/1857).
 
 241. <div lang="ar">اللهُ أَكْبَرُ</div>
 
     Allāh is the greatest.
 
-    Al-Bukhārī [4741](8/441). Also see _Ṣaḥīḥ Al-Tirmidhī_ (2/103),(2/235) and Aḥmad (5/218).
+    Al-Bukhārī (#4741, 8/441). Also see _Ṣaḥīḥ Al-Tirmidhī_ (2/103, 2/235) and Aḥmad (5/218).
 
 242. <div lang="ar">كَانَ النَّبِيُّ ﷺ إذَا أتَاهُ أَمْرٌ يَسُرُّهُ أَوْ يُسَرُّ بِهِ؛ خَرَّ سَاجِداً شُكْراً لله تَبَارَكَ وَ تَعَالَى</div>
 
@@ -1692,7 +1692,7 @@ Abū Dāwud (2041). Al-Albānī declared it ḥasan in _Ṣaḥīḥ Abī Dāwud
 
     Recite 'In the name of Allāh.' (three times) followed by 'I take refuge in Allāh and within His omnipotence from the evil that I feel and am wary of.' (seven times).
 
-    Muslim [2202](4/1728).
+    Muslim (#2202, 4/1728).
 
 <!-- TODO double check the following -->
 
@@ -1700,19 +1700,19 @@ Abū Dāwud (2041). Al-Albānī declared it ḥasan in _Ṣaḥīḥ Abī Dāwud
 
     If you see something from your brother, yourself or wealth which you find impressing, then invoke blessings for it, for the evil eye is indeed true.
 
-    Aḥmad (4/447), Ibn Mājah [3509] and Mālik [1697-1698]. Al-Albānī authenticated it in _Ṣaḥīḥ al-Jāmiʿ_ [556](1/212). Also see research of _Zād al-Maʿād_ by Al-Arnā'ūť.
+    Aḥmad (4/447), Ibn Mājah [3509] and Mālik (#1697--98). Al-Albānī authenticated it in _Ṣaḥīḥ al-Jāmiʿ_ (#556, 1/212). Also see research of _Zād al-Maʿād_ by Al-Arnā'ūť.
 
 245. <div lang="ar">لَا إلَهَ إلَّا اللهُ</div>
 
     None has the right to be worshiped except Allāh.
 
-    Al-Bukhārī [3346](6/381) and Muslim [2880](4/2208).
+    Al-Bukhārī (#3346, 6/381) and Muslim (#2880, 4/2208).
 
 246. <div lang="ar">بِسْمِ اللهِ واللهُ أَكْبَرُ [اللَّهُمَّ مِنْكَ ولَكَ] اللَّهُمَّ تَقَبَّلْ مِنِّي</div>
 
     In the name of Allāh, and Allāh is the greatest. O Allāh, (it is) from You and belongs to You, O Allāh, accept this from me.
 
-    Muslim [1966](3/1557) and Bayhaqī (9/287). What is between the brackets is from Bayhaqī and others.
+    Muslim (#1966, 3/1557) and al-Bayhaqī (9/287). What is between the brackets is from al-Bayhaqī and others.
 
 <!-- TODO double check the following -->
 
@@ -1720,19 +1720,19 @@ Abū Dāwud (2041). Al-Albānī declared it ḥasan in _Ṣaḥīḥ Abī Dāwud
 
     I take refuge within Allāh’s perfect words which no righteous or unrighteous person can transgress, from all the evil that He has created, made and originated. (I take refuge) from the evil that descends from the sky and the evil that rises up to it. (I take refuge) from the evil that is spread on Earth and the evil that springs from her, and I take refuge from the evil of the tribulations of night and day, and the evil of one who visits at night except the one who brings good, O Merciful One.
 
-    Aḥmad (3/419) with a ṣaḥīḥ chain, Ibn al-Sunnī [637]. Al-Arnā'ūť declared its chain ṣaḥīḥ in his research of Ať-Ťaḥawiyyah (pg. 133). Also see Majma' Az-Zawā'id (10/127).
+    Aḥmad (3/419) with a ṣaḥīḥ chain, Ibn al-Sunnī [637]. Al-Arnā'ūť declared its chain ṣaḥīḥ in his research of _al-Ṭaḥāwiyyah_ (p.\ 133). Also see _Majmaʿ al-Zawāʾid_ (10/127).
 
 248. <div lang="ar">قَالَ رَسُولُ اللهِ ﷺ: «وَ اللهِ إِنِّي لأسْتَغْفِرُ اللهَ وَ أ تُوبُ إلَيْهِ فِي اليَوْمِ أكثَرَ مِنْ سَبْعِيْنَ مَرَّةٍ»</div>
 
     The Messenger of Allāh \pbuh said : 'By Allāh, I seek forgiveness and repent to Allāh, more than seventy times a day.'
 
-    Al-Bukhārī [6307](11/101).
+    Al-Bukhārī (#6307, 11/101).
 
 249. <div lang="ar">قَالَ رَسُولُ اللهِ ﷺ: «يَا أَيُّهَا النَّاسُ تُوبُوا إلَى اللهِ، فَإِنِّي أتُوبُ إلَيْهِ مِئَةَ مَرَّةٍ»</div>
 
     The Messenger of Allāh \pbuh said : ‘O People, Repent! Verily I repent to Allāh, a hundred times a day.'
 
-    Muslim [2702](4/2076).
+    Muslim (#2702, 4/2076).
 
 <!-- TODO double check the following -->
 
@@ -1740,7 +1740,7 @@ Abū Dāwud (2041). Al-Albānī declared it ḥasan in _Ṣaḥīḥ Abī Dāwud
 
     I seek Allāh’s forgiveness, besides whom, none has the right to be worshipped except He, The Ever Living, The Self-Subsisting and Supporter of all, and I turn to Him in repentance.
 
-    Abū Dāwud [1517](2/85), al-Tirmidhī [3577](5/569), al-Hākim (1/511) and he authenticated it and al-Dhahabī agreed with him. Al-Albānī authenticated it, see _Ṣaḥīḥ al-Tirmidhī_ (3/182) and _al-Jāmiʿ al-Uṣūl li-Ahādīth al-Rasūl_ (4/389-390) with research by al-Arnā'ūť.
+    Abū Dāwud (#1517, 2/85), al-Tirmidhī (#3577, 5/569), al-Hākim (1/511) and he authenticated it and al-Dhahabī agreed with him. Al-Albānī authenticated it, see _Ṣaḥīḥ al-Tirmidhī_ (3/182) and _al-Jāmiʿ al-Uṣūl li-Ahādīth al-Rasūl_ (4/389--390) with research by al-Arnā'ūť.
 
 <!-- TODO double check the following (ANDROID) -->
 
@@ -1756,19 +1756,19 @@ Abū Dāwud (2041). Al-Albānī declared it ḥasan in _Ṣaḥīḥ Abī Dāwud
 
     The Messenger of Allāh \pbuh said : ‘The nearest a servant is to his Lord is when he is prostrating, so supplicate much therein.'
 
-    Muslim [482](1/350).
+    Muslim (#482, 1/350).
 
 253. <div lang="ar">قَالَ رَسُولُ اللهِ ﷺ: «إنَّهُ لَيُغَانُ عَلَى قَلْبِي، وَ إنِّي لأسْتَغْفِرُ اللهَ فِي اليَوْمِ مِئَةَ مَرَّةٍ»</div>
 
     The Messenger of Allāh \pbuh said: ‘Verily my heart becomes preoccupied, and verily I seek Allāh’s forgiveness a hundred times a day.'
 
-    Muslim [2702](4/2075). Also see _al-Jāmiʿ al-Uṣūl li-Ahādīth al-Rasūl_ (4/386).
+    Muslim (#2702, 4/2075). Also see _al-Jāmiʿ al-Uṣūl li-Ahādīth al-Rasūl_ (4/386).
 
 254. <div lang="ar">قَالَ رَسُولُ اللهِ ﷺ: «مَنْ قَالَ: سُبْحَانَ اللهِ وَ بِحَمْدِهِ فِي يَومٍ مِئَةَ مَرَّةٍ، حُطَّتْ خَطَايَاهُ، وَ لَو كَانَتْ مِثْلَ زَبَدِ البَحْرِ»</div>
 
     How perfect Allāh is and I praise Him. (One Hundred times daily)
 
-    Al-Bukhārī [6405](7/168) and Muslim [2691](4/2071).
+    Al-Bukhārī (#6405, 7/168) and Muslim (#2691, 4/2071).
 
 255. <div lang="ar">قَالَ رَسُولُ اللهِ ﷺ: «مَنْ قَالَ: لَا إلَهَ إلَّا اللهُ وَحْدَهُ لَا شَرِيْكَ لَهُ، لَهُ المُلْكُ، وَ لَهُ الحَمْدُ، وَ هُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ عَشْرَ مِرَارٍ، كَانَ كَمَنْ أعْتَقَ أرْبَعَةَ أنْفُسٍ مِنْ وَلَدِ إسْمَاعِيلَ»</div>
 
@@ -1780,55 +1780,55 @@ Abū Dāwud (2041). Al-Albānī declared it ḥasan in _Ṣaḥīḥ Abī Dāwud
 
     The Messenger of Allāh \pbuh said: "There are two words (phrases), (which are) light on the tongue, heavy on the scale and beloved to The Most Gracious: 'How perfect Allāh is and I praise Him.' (and) 'How perfect Allāh is, The Supreme.'
 
-    Al-Bukhārī [3462](7/168) and Muslim [2694](4/2072).
+    Al-Bukhārī (#3462, 7/168) and Muslim (#2694, 4/2072).
 
 257. <div lang="ar">قَالَ رَسُولُ اللهِ ﷺ: «لَأنْ أقُولَ: سُبْحَانَ اللهِ، وَ الحَمْدُ لِلَّهِ، وَ لَا إلَهَ إلَّا اللهُ، وَ اللهُ أكْبَرُ، أحَبُّ إلَيَّ مِمَّا طَلَعَتْ عَلَيْهِ الشَّمْسُ»</div>
 
     The Messenger of Allāh \pbuh said : "Saying 'How perfect Allāh is, and all praise is for Allāh. None has the right to be worshipped except Allāh, and Allāh is the greatest,' is more beloved to me than everything the Sun has risen over.
 
-    Muslim [2695](4/2072).
+    Muslim (#2695, 4/2072).
 
 258. <div lang="ar">قَالَ رَسُولُ اللهِ ﷺ: «أيَعْجِزُ أحَدُكُمْ أنْ يَكْسِبَ كُلَّ يَوْمٍ ألْفَ حَسَنَةٍ» فَسَألَهُ سَائِلٌ مِنْ جُلَسَائِهِ: كَيْفَ يَكْسِبُ أحَدُنَا ألْفَ حَسَنَةٍ؟ قَالَ: «يُسَبِّحُ مِئَةَ تَسْبِيْحَةٍ، فَيُكْتَبُ لَهُ ألْفُ حَسَنَةٍ، أوْ يُحَطُّ عَنْهُ ألْفُ خَطِيْئَةٍ»</div>
 
     How perfect Allāh is and I praise Him. (One Hundred times)
 
-    Muslim [2698](4/2073).
+    Muslim (#2698, 4/2073).
 
 259. <div lang="ar">قَالَ رَسُولُ اللهِ ﷺ: «مَنْ قَالَ: سُبْحَانَ اللهِ العَظِيمِ وَ بِحَمْدِهِ، غُرِسَتْ لَهُ نَخْلَةٌ فِي الجَنَّةِ»</div>
 
-    Whoever says: 'How perfect Allāh is, The Supreme, and I praise Him', a palm tree is planted for him in paradise.
+    Whoever says: 'How perfect Allāh is, The Supreme, and I praise Him,' a palm tree is planted for him in paradise.
 
-Al-Tirmidhī [3464-3465](5/511), al-Hākim (1/501) and he authenticated it and al-Dhahabī agreed with him. Also see _Ṣaḥīḥ al-Jāmiʿ_ [6429](5/531) and _Ṣaḥīḥ al-Tirmidhī_ (3/160).
+    Al-Tirmidhī (#3464--3465, 5/511), al-Hākim (1/501) and he authenticated it and al-Dhahabī agreed with him. Also see _Ṣaḥīḥ al-Jāmiʿ_ (#6429, 5/531) and _Ṣaḥīḥ al-Tirmidhī_ (3/160).
 
 260. <div lang="ar">قَالَ ﷺ: «يَا عَبْدَاللهِ بْنَ قَيْسٍ، ألَا أدُلُّكَ عَلَى كَنْزٍ مِنْ كُنُوزِ الجَنَّةِ؟» فَقُلْتُ: بَلَى يَا رَسُولَ اللهِ، قَالَ: «قُلْ لَا حَوْلَ وَ لَا قُوَّةَ إلَّا بِااللهِ»</div>
 
     There is no might nor power except with Allāh.
 
-    Al-Bukhārī [4205](11/213) and Muslim [2704](4/2076).
+    Al-Bukhārī (#4205, 11/213) and Muslim (#2704, 4/2076).
 
 261. <div lang="ar">قَالَ ﷺ: «أحَبُّ الكَلَامِ إلَى اللهِ أرْبَعٌ: سُبْحَانَ اللهِ، وَ الحَمْدُ للهِ، وَ لَا إلَهَ إلَّا اللهُ، وَ اللهُ أكْبَرُ، لَا يَضُرُّكَ بِأيِّهِنَّ بَدَأْتَ»</div>
 
     The Prophet \pbuh said: "Four phrases are beloved to Allāh: 'How perfect Allāh is', 'All praises are for Allāh', 'None has the right to be worshipped except Allāh', and 'Allāh is the greatest.'"
 
-    Muslim [2137](3/1685).
+    Muslim (#2137, 3/1685).
 
 262. <div lang="ar">جَاءَ أعْرَابِيٌّ إلَى رَسُولُ اللهِ ﷺ فَقَالَ: عَلِّمْنِي كَلَامًا أقُولُهُ؟ قَالَ: «قُلْ: لَا إلَهَ إلَّا اللهُ وَ حْدَهُ لَا شَرِيكَ لَهُ، اللهُ أكْبَرُ كَبِيْراً، وَ الحَمْدُ للهِ كَثِيْراً، سُبْحَانَ اللهِ رَبِّ العَالَمِيْنَ، لَا حَوْلَ وَ لَا قُوَّةَ إلَّا بِااللهِ العَزِيزِ الحَكِيمِ»، قَالَ: فَهَؤُلَاءِ لِرَبِّي فَمَا لِي؟ قَالَ: «قُلْ: اللهم اغْفِرلِي، وَارْحَمْنِي، واهْدِنِي، وَارْزُقْنِي»</div>
 
     None has the right to be worshipped except Allāh, alone without partener. Allāh is most great and much praise is for Allāh. How perfect Allāh is, Lord of the worlds. There is no might nor power except with Allāh, The Exalted in might, The Wise. O Allāh, forgive me, have mercy upon me, guide me and grant me sustenance.
 
-    Muslim [2696](4/2072).
+    Muslim (#2696, 4/2072).
 
 263. <div lang="ar">كَانَ الرَّجُلُ إذَا أَسْلَمَ عَلَّمَهُ النَّبِيُّ ﷺ الصَّلَاةَ، ثُمَّ أمَرَهُ أنْ يَدْعُوَ بِهَؤُلَاءِ الكَلِمَاتِ: «اللهم اغْفِرْلِي، وَارْحَمْنِي، وَاهْدِنِي، وِ عَافِنِي، وَارْزُقْنِي»</div>
 
     O Allāh, forgive me, have mercy upon me, guide me, give me health and grant me sustenance.
 
-    Muslim [2697](4/2073).
+    Muslim (#2697, 4/2073).
 
 264. <div lang="ar">إنَّ أفْضَلَ الدُّعَاءِ: الحَمْدُ لِلَّهِ، وَ أفْضَلُ الذِّكْرِ: لَا إلَهَ إلَّا اللهُ</div>
 
     Indeed the best du'ā (is): 'All praise is for Allāh.' and the best remembrance (is): 'None has the right to be worshipped except Allāh.'
 
-    Al-Tirmidhī [3383](5/462), Ibn Mājah [3800](2/1249), and al-Hākim (1/503) and he authenticated it and al-Dhahabī agreed with him. Also see _Ṣaḥīḥ al-Jāmiʿ_ [1104](1/362).
+    Al-Tirmidhī (#3383, 5/462), Ibn Mājah (#3800, 2/1249), and al-Hākim (1/503) and he authenticated it and al-Dhahabī agreed with him. Also see _Ṣaḥīḥ al-Jāmiʿ_ (#1104, 1/362).
 
 <!-- TODO double check the following -->
 
@@ -1836,16 +1836,17 @@ Al-Tirmidhī [3464-3465](5/511), al-Hākim (1/501) and he authenticated it and a
 
     How perfect Allāh is, and all praise is for Allāh. None has the right to be worshipped except Allāh, and Allāh is the greatest. There is no might nor power except with Allāh.
 
-    Aḥmad [513](3/75) according to the order of Aḥmad Shākir and its chain is authentic. Also see Majma' Az-Zawā'id (1/297)...[COMPLETE THIS]
+    Aḥmad (#513, 3/75) according to the order of Aḥmad Shākir and its chain is authentic. Also see _Majmaʿ al-Zawāʾid_ (1/297)...[COMPLETE THIS]
 
 266. <div lang="ar">عَنْ عَبْدِ اللهِ بْنِ عَمْروٍ قَالَ: رَأيْتُ النَّبِيَّ يَعْقِدُ التَّسْبِيْحَ بِيَمِيْنِهِ</div>
 
-    'Abdullah ibn 'Amr (RadiAllāh ʻanhu) said : I saw the Prophet \pbuh make tasbīh with his right hand.
+    ʿAbd Allāh ibn ʿAmr said : I saw the Prophet \pbuh make tasbīh with his right hand.
 
-    Abū Dāwud [1502](2/81) and al-Tirmidhī [3486](5/521). Also see _Ṣaḥīḥ al-Jāmiʿ_ [4865](4/271).
+    Abū Dāwud (#1502, 2/81) and al-Tirmidhī (#3486, 5/521). Also see _Ṣaḥīḥ al-Jāmiʿ_ (#4865, 4/271).
 
 267. <div lang="ar">إذَا كَانَ جُنْحُ اللَّيْل – أوْ أمْسَيْتُم – فَكُفُّوا صِبْيَانَكُمْ؛ فَإنَّ الشَّيَاطِيْنَ تَنْتَشِرُ حِيْنَئَذٍ، فَإذَا ذَهَبَ سَاعَةٌ مِنَ اللَّيْلِ فَخَلُّوهُمْ، وَأغْلقُوا الأبْوَابَ، وَاذْكُرُوا اسْمَ اللهِ؛ فَإنَّ الشَّيْطَانَ لَا يَفْتَحُ بَابًا مُغْلَقًا، وَ أوْكُوا قِرَبَكُمْ، وَاذْكُرُوا اسْمَ اللهِ، وَ خَمِّرُوا آنِيَتَكُمْ وَاذْكُرُوا اسْمَ اللهِ، وَ لَوْ أنْ تَعْرِضُوا عَلَيْهَا شَيْئًا، وَ أطْفِئُوا مَصَابِيْحَكُمْ</div>
 
     When night falls, restrain your children (from going out) because at such time the devils spread about. After a period of time has passed, let them be. Shut your doors and mention Allāh’s name, for verily the devil does not open a shut door, tie up your water-skins and mention Allāh’s name, cover your vessels with anything and mention Allāh’s name and put out your lamps.
 
-    Al-Bukhārī [5623](10/88) and Muslim [2012](3/1595).
+    Al-Bukhārī (#5623, 10/88) and Muslim (#2012, 3/1595).
+
