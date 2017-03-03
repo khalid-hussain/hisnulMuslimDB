@@ -5,7 +5,7 @@
 
     Praise is to Allāh Who gives us life after He has caused us to die and to Him is the return.
 
-    Al-Bukhārī (#6312), see _Fatḥ al-Bārī_ (11/113) and Muslim (#2711, 4/2083).
+    Al-Bukhārī (#6312), see _Fatḥ al-Bārī_ (11/113), and Muslim (#2711, 4/2083).
 
 <!-- TODO double check the Ibn Majah referred to -->
 
@@ -13,7 +13,7 @@
 
     There is none worthy of worship but Allāh alone, Who has no partner, His is the dominion and to Him belongs all praise, and He is able to do all things. Glory is to Allāh. Praise is to Allāh. There is none worthy of worship but Allāh. Allāh is the Most Great. There is no might and no power except by Allāh's leave, the Exalted, the Mighty. My Lord, forgive me. (Whoever says this will be forgiven, and if he supplicates to Allāh, his prayer will be answered; if he performs ablution and prays, his prayer will be accepted.)
 
-    Al-Bukhārī (#1154), see _Fatḥ al-Bārī_ (3/39) and the wording is of Ibn Mājah (2/335), also see Ibn Mājah (2/335).
+    Al-Bukhārī (#1154), see _Fatḥ al-Bārī_ (3/39). The wording is of Ibn Mājah (#3878), also see _Ṣaḥīḥ Ibn Mājah_ (2/335).
 
 3. <div lang="ar">الحَمدُ لِلهِ الَّذِي عَافَانِي فِي جَسَدِي، وَرَدَّ عَلَيَّ رُوحِي، وَأَذِنَ لِي بِذِكْرِهِ</div>
 
@@ -33,7 +33,7 @@
 
     Praise is to Allāh Who has clothed me with this (garment) and provided it for me, though I was powerless myself and incapable.
 
-    Abū Dāwud (#4023), al-Tirmidhī (#2458) and Ibn Mājah (#3285). Also see _Irwāʾ al-Ghalīl_ (7/47).
+    Abū Dāwud (#4023) and the wording is his, al-Tirmidhī (#2458) and Ibn Mājah (#3285). Also see _Irwāʾ al-Ghalīl_ (7/47).
 
 # Supplication when wearing new clothes
 
@@ -49,7 +49,7 @@
 
     May you wear it out and Allāh replace it (with another).
 
-    Abū Dāwud (#4020, 4/41). Also see _Ṣaḥīḥ Abū Dāwud_ (2/760).
+    Abū Dāwud (#4020, 4/41). Also see _Ṣaḥīḥ Abī Dāwud_ (2/760).
 
 8. <div lang="ar">إِلبَسْ جَدِيداً، وَعِشْ حَمِيداً، وَمُتْ شَهِيداً</div>
 
@@ -63,7 +63,7 @@
 
     In the name of Allāh.
 
-    Al-Tirmidhī (#606, 2/505) and _Sahīh Al-Jāmiʿ_ (#3210, 3/203). Also see _Irwāʾ al-Ghalīl_ (#50).
+    Al-Tirmidhī (#606, 2/505) and _Sahīh al-Jāmiʿ_ (#3210, 3/203). Also see _Irwāʾ al-Ghalīl_ (#50).
 
 # Before entering the toilet
 
@@ -79,7 +79,7 @@
 
     I ask You (Allāh) for forgiveness.
 
-    Al-Tirmidhī (#7), Abū Dāwud (#30), Ibn Mājah (#300) and al-Nasāʾī in _ʿAmal al-Yawm wa al-Laylah_ (#79).
+    Al-Tirmidhī (#7), Abū Dāwud (#30), Ibn Mājah (#300) and al-Nasāʾī in _ʿAmal al-Yawm wa al-Laylah_ (#79). Also see the takhrīj of _Zād al-Maʿād_ (2/386).
 
 # When starting ablution (Wuḍū)
 
@@ -107,7 +107,7 @@
 
     How perfect You are O Allāh, and I praise You, I bear witness that none has the right to be worshipped except You, I seek Your forgiveness and turn in repentance to You.
 
-    Al-Nasāʾī in _ʿAmal al-Yawm wa al-Laylah_ (#81, 173).
+    Al-Nasāʾī in _ʿAmal al-Yawm wa al-Laylah_ (#81, p.\ 173). Also see _Irwāʾ al-Ghalīl_ (3/94).
 
 # When leaving home
 
