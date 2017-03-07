@@ -1,4 +1,8 @@
 
+Dua 19
+Dua 20
+Dua 23
+
 # Upon Waking up
 
 1. <div lang="ar">اَلحَمدُ لِلهِ الَّذِي أحيَانَا بَعْدَ مَا أمَاتَنَا وَ إِلَيهِ النُّشُورُ</div>
@@ -6,8 +10,6 @@
     Praise is to Allāh Who gives us life after He has caused us to die and to Him is the return.
 
     Al-Bukhārī (#6312), see _Fatḥ al-Bārī_ (11/113), and Muslim (#2711, 4/2083).
-
-<!-- TODO double check the Ibn Majah referred to -->
 
 2. <div lang="ar">لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الحَمدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، سُبْحاَنَ اللهِ، وَالحَمدُ للهِ، وَلَا إِلَهَ إِلَّا اللهُ وَاللهُ أَكْبَرُ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ الْعَلِيِّ الْعَظِيمِ، رَبِّ اغْفِرْ لِي</div>
 
@@ -115,15 +117,13 @@
 
     In the name of Allāh, I place my trust in Allāh, and there is no might nor power except with Allāh.
 
-    Abū Dāwud (#5094, 4/325) and al-Tirmidhī (#3427, 5/490). Also see _Ṣaḥīḥ al-Tirmidhī_ (3/151).
+    Abū Dāwud (#5094, 4/325) and al-Tirmidhī (#3427, 5/490). See _Ṣaḥīḥ al-Tirmidhī_ (3/151).
 
 17. <div lang="ar">اللَّهُمَّ إِنَّي أَعْوْذُ بِكَ أَنْ أَضِلَّ، أَوْ أُضِلَّ، أَوْ أَزِلَّ، أُوْ أُزَلَّ أَوْ أَظْلِمَ، أَوْ أُظْلَمَ، أَوْ أَجْهَلَ، أَوْ يُجْهَلَ عَلَيَّ</div>
 
     O Allāh, I take refuge with You lest I should stray or be led astray, or slip or be tripped, or oppress or be oppressed, or behave foolishly or be treated foolishly.
 
-Abū Dāwud (#5094), al-Tirmidhī (#3427), al-Nasāʾī (8/268) and Ibn Mājah (#3884). Also see _Ṣaḥīḥ al-Tirmidhī_ (3/152) and _Ṣaḥīḥ Ibn Mājah_ (2/336).
-
-<!-- TODO check the book references -->
+    Abū Dāwud (#5094), al-Tirmidhī (#3427), al-Nasāʾī (8/268) and Ibn Mājah (#3884). Also see _Ṣaḥīḥ al-Tirmidhī_ (3/152) and _Ṣaḥīḥ Ibn Mājah_ (2/336).
 
 # Upon entering home
 
@@ -131,7 +131,7 @@ Abū Dāwud (#5094), al-Tirmidhī (#3427), al-Nasāʾī (8/268) and Ibn Mājah (
 
     In the name of Allāh we enter and in the name of Allāh we leave, and upon our Lord we place our trust.
 
-    Abū Dāwud (#5096, 4/325) and Shaykh ʿAbd al-ʿAzīz bin Bāz graded its chain ḥasan in _Tuḥfah al-Akhyār_(28).
+    Abū Dāwud (#5096, 4/325) and Muslim (#2018). Shaykh ʿAbd al-ʿAzīz bin Bāz graded the chain of the former ḥasan in _Tuḥfah al-Akhyār_(p.\ 28).
 
 # Supplication when going to the Masjid
 
@@ -139,27 +139,31 @@ Abū Dāwud (#5094), al-Tirmidhī (#3427), al-Nasāʾī (8/268) and Ibn Mājah (
 
 19. <div lang="ar"></div>
 
-اللَّهُمَّ اجْعَلْ فِي قَلْبِي نُوْراً، وَفِي لِسَانِي نُوْراً، وَ فِي سَمْعِي نُوْراً، وَ فِي بَصَري نُوْراً، وَ مِنْ فَوقِي نُوْراً، وَمِنْ تحْتِي نُوْراً، وَعَنْ يَمِيْنِي نُوْراً، وَ عَنْ شِمَالِي  نُوْراً، وَ مِنْ أَمَامِي نُوْراً، وَ مِنْ خَلْفِي نُوراً، واجْعَلْ فِي نَفْسِي نُوراً، وَ أعْظِمْ لي نُوراً، وَ عَظِّمْ لي نُوراً، وَاجْعَلْ لي نُوراً، وَاجْعَلْنِي نُوراً، اللهم أَعْطِنِي نُوراً، وَاجْعَلْ في عَصَبِي نُوراً، وَ في لَحْمِي نُوراً، وَ في دَمِي نُوراً، وَ في شَعْرِي نُوراً، وَ في بَشَرِي نُوراً<sup><small>(١)</small></sup>.
-[اللهم اجْعَلْ لي نُوراً في قَبْرِي...وَ نُوراً في عِظَامِي]<sup><small>(٢)</small></sup>
-[وَ زِدْنِي نُوراً، وَ زِدْنِي نُوراً، وَ زِدْنِي نُوراً]<sup><small>(١)</small></sup>
-[وَهَبْ لِي نُوراً عَلَى نُورٍ]<sup><small>(٢)</small></sup>.
+    اللَّهُمَّ اجْعَلْ فِي قَلْبِي نُوْراً، وَفِي لِسَانِي نُوْراً، وَ فِي سَمْعِي نُوْراً، وَ فِي بَصَري نُوْراً، وَ مِنْ فَوقِي نُوْراً، وَمِنْ تحْتِي نُوْراً، وَعَنْ يَمِيْنِي نُوْراً، وَ عَنْ شِمَالِي  نُوْراً، وَ مِنْ أَمَامِي نُوْراً، وَ مِنْ خَلْفِي نُوراً، واجْعَلْ فِي نَفْسِي نُوراً، وَ أعْظِمْ لي نُوراً، وَ عَظِّمْ لي نُوراً، وَاجْعَلْ لي نُوراً، وَاجْعَلْنِي نُوراً، اللهم أَعْطِنِي نُوراً، وَاجْعَلْ في عَصَبِي نُوراً، وَ في لَحْمِي نُوراً، وَ في دَمِي نُوراً، وَ في شَعْرِي نُوراً، وَ في بَشَرِي نُوراً<sup><small>(١)</small></sup>.
+    [اللهم اجْعَلْ لي نُوراً في قَبْرِي...وَ نُوراً في عِظَامِي]<sup><small>(٢)</small></sup>
+    [وَ زِدْنِي نُوراً، وَ زِدْنِي نُوراً، وَ زِدْنِي نُوراً]<sup><small>(١)</small></sup>
+    [وَهَبْ لِي نُوراً عَلَى نُورٍ]<sup><small>(٢)</small></sup>.
 
     O Allāh, place within my heart light, and upon my tongue light, and within my ears light, and within my eyes light, and place behind me light and in front of me light and above me light and beneath me light. O Allāh, bestow upon me light.
 
     (1) Al-Bukhārī (#6316, 11/116) and Muslim (#763, 1/526,529,530).  
     (2) Al-Tirmidhī (#3419, 5/483).
 
+<!-- TODO double check the following -->
+
 20. <div lang="ar"></ar>
 
-(يَبْدَأُ بِرِجْلِهِ اليُمْنَى)<sup><small>(١)</small></sup>، ويقول: (أَعُوْذُ بِاللَّهِ الْعَظِيمِ، وَبِوَجْهِهِ الْكَرِيمِ، وَسُلْطَانِهِ الْقَدِيمِ، مِنَ الشَّيْطَانِ الرَّجِيمِ)<sup><small>(٢)</small></sup>، (بِسْمِ اللَّهِ, وَالصَّلاةُ)<sup><small>(٣)</small></sup>. [وَالسَّلامُ عَلَى رَسُوْلِ اللَّهِ]<sup><small>(٤)</small></sup>، (اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ)<sup><small>(٥)</small></sup>.
+    (يَبْدَأُ بِرِجْلِهِ اليُمْنَى)<sup><small>(١)</small></sup>، ويقول: (أَعُوْذُ بِاللَّهِ الْعَظِيمِ، وَبِوَجْهِهِ الْكَرِيمِ، وَسُلْطَانِهِ الْقَدِيمِ، مِنَ الشَّيْطَانِ الرَّجِيمِ)<sup><small>(٢)</small></sup>، (بِسْمِ اللَّهِ, وَالصَّلاةُ)<sup><small>(٣)</small></sup>. [وَالسَّلامُ عَلَى رَسُوْلِ اللَّهِ]<sup><small>(٤)</small></sup>، (اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ)<sup><small>(٥)</small></sup>.
 
     I take refuge with Allāh, The Supreme and with His Noble Face, and His eternal authority from the accursed devil. In the name of Allāh, and prayers and peace be upon the Messenger of Allāh. O Allāh, open the gates of Your mercy for me.
 
     (1) Al-Ḥākim (1/218) and he authenticated it with the conditions of Muslim and al-Dhahabī agreed with him, al-Bayhaqī (2/442), and al-Albānī declared it ḥasan in _Silsilah al-Ahādīth al-Ṣaḥīḥah_ (#2478, 5/624).  
-    (2) Abū Dāwud [466]. Also see _Ṣaḥīḥ al-Jāmiʿ (4591).  
+    (2) Abū Dāwud [466]. Also see _Ṣaḥīḥ al-Jāmiʿ_ (4591).  
     (3) Al-Nisā'i [88] and Al-Albānī declared it ḥasan.  
     (4) Abū Dāwud (#465, 1/126). Also see _Ṣaḥīḥ al-Jāmiʿ_ (#514, 1/528).  
     (5) Muslim (#713, 1/494), Ibn Mājah [771] and al-Albānī declared it ṣaḥīḥ due to its shawāhid; see _Ṣaḥīḥ Ibn Mājah_ (1/128-129).
+
+<!-- TODO double check the following -->
 
 21. <div lang="ar"></div>
 
@@ -168,12 +172,12 @@ Abū Dāwud (#5094), al-Tirmidhī (#3427), al-Nasāʾī (8/268) and Ibn Mājah (
     Start with your left foot and then say:  
     ‘In the name of Allāh, and prayers and peace be upon the Messenger of Allāh. O Allāh, I ask You from Your favor. O Allāh, guard me from the accursed devil.’
 
-(1) Al-Ḥākim (1/218), al-Bayhaqī (2/442) and al-Albānī declared it ḥasan in _Silsilah al-Ahādīth al-Ṣaḥīḥah_ (#2478, 5/624)  
-(2) See takhrīj of the previous ḥadīth (duʿā #20) and the extension (<div lang="ar">اللهم اعصمني من الشيطان الرجيم</div>) is from Ibn Mājah [773], see _Ṣaḥīḥ Ibn Mājah_ (1/129).
+    (1) Al-Ḥākim (1/218), al-Bayhaqī (2/442) and al-Albānī declared it ḥasan in _Silsilah al-Ahādīth al-Ṣaḥīḥah_ (#2478, 5/624)  
+    (2) See takhrīj of the previous ḥadīth (duʿā #20) and the extension (<div lang="ar">اللهم اعصمني من الشيطان الرجيم</div>) is from Ibn Mājah [773], see _Ṣaḥīḥ Ibn Mājah_ (1/129).
 
 22. <div lang="ar">يَقُولُ مِثْلَ مَا يَقُولُ المُؤَذِّنُ إلَّا فِي «حَيَّ عَلَى الصَّلاةِ» وَ «حَيَّ عَلَى الفَلاحِ» فَيَقُولُ: «لَا حَولَ وَ لَا قُوَّةَ إلَّا بِاللهِ».</div>
 
-    One repeats just as the muadhdhin (One who calls to prayers) says, except when he says “come to prayer” or “come to success”, one should say “There is no might nor power except with Allāh”. 
+    One repeats just as the muadhdhin (one who calls to prayers) says, except when he says "come to prayer" or "come to success," one should say "There is no might nor power except with Allāh."
 
     Al-Bukhārī (#611, 1/152) and Muslim (#383, 1/288).
 
