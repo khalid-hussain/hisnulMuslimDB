@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hisnulMuslim>
+  <group no="1">
+    <title lang="en">English Group Title</title>
+    <title lang="ru">Russian Group Title</title>
+    <title lang="fr">French Group Title</title>
+    <duas>
+      <dua no="1">
+        <original>Original Arabic text</original>
+        <trans lang="en">English translation</trans>
+        <trans lang="ru">Russian translation</trans>
+        <trans lang="fr">French translation</trans>
+        <ref lang="en">English reference</ref>
+        <ref lang="ru">Russian reference</ref>
+        <ref lang="fr">French reference</ref>
+      </dua>
+      <dua no="2">
+        <original>Original Arabic text</original>
+        <trans lang="en">English translation</trans>
+        <trans lang="ru">Russian translation</trans>
+        <trans lang="fr">French translation</trans>
+        <ref lang="en">English reference</ref>
+        <ref lang="ru">Russian reference</ref>
+        <ref lang="fr">French reference</ref>
+      </dua>
+    </duas>
+  </group>
+</hisnulMuslim>

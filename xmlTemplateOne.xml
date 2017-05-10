@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hisnulMuslim>
+  <group no="1">
+    <english>
+      <title>The Title</title>
+      <duas>
+        <dua no="1">
+          <original>Arabic Text goes here</original>
+          <translation>The Translation goes here</translation>
+          <reference>The Reference goes here</reference>
+        </dua>
+        <dua no="2">
+          <original>Arabic Text goes here</original>
+          <translation>The Translation goes here</translation>
+          <reference>The Reference goes here</reference>
+        </dua>
+      </duas>
+    </english>
+  </group>
+  <group no="2">
+    <english>
+      <title>The Title</title>
+      <duas>
+        <dua no="1">
+          <original>Arabic Text goes here</original>
+          <translation>The Translation goes here</translation>
+          <reference>The Reference goes here</reference>
+        </dua>
+        <dua no="2">
+          <original>Arabic Text goes here</original>
+          <translation>The Translation goes here</translation>
+          <reference>The Reference goes here</reference>
+        </dua>
+      </duas>
+    </english>
+  </group>
+</hisnulMuslim>
