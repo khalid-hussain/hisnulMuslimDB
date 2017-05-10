@@ -10,6 +10,8 @@ Dua 62
 Dua 73
 Dua 74
 Dua 75
+Dua 76
+Dua 77
 
 <!-- END -->
 
@@ -562,7 +564,7 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
     Al-Hākim (1/562) and Al-Albānī authenticated it in _Ṣaḥīḥ al-Targhīb wa al-Tarhīb_ (#655, 1/273) and he attributed it to al-Nasāʾī in _ʿAmal al-Yawm wa al-Laylah_ (#960) and al-Ṭabarānī in _al-Kabīr_ (#541) and said that the latter's chain is good.
 
-<!-- TODO double check the following -->
+<!-- TODO double check the following. Also add detailed method. -->
 
 76. <div lang="ar"></div>
 
