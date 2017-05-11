@@ -12,6 +12,9 @@ Dua 74
 Dua 75
 Dua 76
 Dua 77
+Dua 78
+Dua 92
+Dua 96
 
 <!-- END -->
 
@@ -605,10 +608,10 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
     اللهم بِكَ أصْبَحْنَا، وَ بِكَ أمْسَيْنَا، وَ بِكَ نَحْيَا، وَ بِكَ نَمُوتُ، وَ إلَيْكَ النُّشُورُ.<sup><small>(١)</small></sup></small></sup>
     وَإذَا أمْسَى قَالَ: اللهم بِكَ أمْسَيْنَا، وَ بِكَ أصْبَحْنَا، وَ بِكَ نَحْيَا، وَ بِكَ نَمُوتُ، وَ إلَيْكَ المَصِيْرُ.
 
-    'O Allāh, by your leave we have reached the morning and by Your leave we have reached the evening, by Your leave we live and die and unto You is our resurrection.'
+    “O Allāh, by your leave we have reached the morning and by Your leave we have reached the evening, by Your leave we live and die and unto You is our resurrection.”
 
     At night, recite instead:
-    'O Allāh, by Your leave we have reached the evening and by Your leave we have reached the morning, by Your leave we live and die and unto You is our return.'
+    “O Allāh, by Your leave we have reached the evening and by Your leave we have reached the morning, by Your leave we live and die and unto You is our return.”
 
     Al-Tirmidhī (#3391, 5/466). Also see _Ṣaḥīḥ al-Tirmidhī_ (3/142).
 
@@ -618,13 +621,11 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
     Al-Bukhārī (#6306, 7/150).
 
-<!-- TODO double check the following -->
-
 80. <div lang="ar">اللهم إنِّي أصْبَحْتُ أُشْهِدُكَ، وَ أُشْهِدُ حَمَلَةَ عَرْشِكَ، وَ مَلَائِكَتِكَ، وَ جَمِيْعَ خَلْقِكَ، أنَّكَ أنْتَ اللهُ لَا إلَهَ إلَّا أنْتَ وَحْدَكَ لَا شَرِيْكَ لَكَ، وَ أنَّ مُحَمَّداً عَبْدُكَ وَ رَسُولُكَ. [أرْبَعَ مَرَّاتٍ]</div>
 
     O Allāh, verily I have reached the morning and call on You, the bearers of Your throne, Your angels, and all of Your creation to witness that You are Allāh, none has the right to be worshiped except You, alone, without partner and that Muḥammad is Your Servant and Messenger.
 
-    Abū Dāwud (#5069, 4/317), al-Bukhārī in _al-Adab al-Mufrad_ [1201], al-Nasāʾī in _ʿAmal al-Yawm wa al-Laylah_ [9] and Ibn al-Sunnī [70]. Shaykh Ibn Bāz declared the chain of al-Nasāʾī and Abū Dāwud ḥasan in _Tuḥfah al-Akhyār_ (p.\ 23). However al-Albānī declared it weak. See _al-Kalim al-Ṭayyib_ [25].
+    Abū Dāwud (#5069, 4/317), al-Bukhārī in _al-Adab al-Mufrad_ (#1201), al-Nasāʾī in _ʿAmal al-Yawm wa al-Laylah_ (#9) and Ibn al-Sunnī (#70). Shaykh Ibn Bāz declared the chain of al-Nasāʾī and Abū Dāwud ḥasan in _Tuḥfah al-Akhyār_ (p.\ 23). However al-Albānī declared it weak. See _al-Kalim al-Ṭayyib_ (#25).
 
 <!-- TODO double check the folowing -->
 
@@ -635,21 +636,19 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
     O Allāh, what blessing I or any of Your creation have risen upon, is from You alone, without partner, so for You is all praise and unto You all thanks.
 
-    Abū Dāwud (#5073, 4/318), al-Nasāʾī in _ʿAmal al-Yawm wa al-Laylah_ [7], Ibn al-Sunnī [41], Ibn Ḥibbān [Muwārid][2361]. Shaykh Ibn Bāz declared its chain ḥasan in _Tuḥfah al-Akhyār_ (p.\ 24). However al-Albānī declared it weak. See _al-Kalim al-Ṭayyib_ [26].
+    Abū Dāwud (#5073, 4/318), al-Nasāʾī in _ʿAmal al-Yawm wa al-Laylah_ (#7), Ibn al-Sunnī (#41), Ibn Ḥibbān in _Muwārid_ (#2361). Shaykh Ibn Bāz declared its chain ḥasan in _Tuḥfah al-Akhyār_ (p.\ 24). However al-Albānī declared it weak. See _al-Kalim al-Ṭayyib_ (#26).
 
 82. <div lang="ar">اللَّهُمَّ عَافِنِي فِي بَدَنِي، اللَّهُمَّ عَافِنِي فِي سَمْعِي، اللَّهُمَّ عَافِنِي فِي بَصْرِي، لَا إِلَهَ إِلَّا أَنْتَ، اللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الْكُفْرِ، وَالْفَقْرِ، وأَعُوْذُ بِكَ مِنْ عَذَابِ القَبْرِ، لَا إِلَهَ إِلَّا أَنْتَ.[ثَلاثَ مَرَّاتٍ]</div>
 
     O Allāh, grant my body health, O Allāh, grant my hearing health, O Allāh, grant my sight health. None has the right to be worshipped except You. O Allāh, I take refuge with You from disbelief and poverty, and I take refuge with You from the punishment of the grave; none has the right to be worshipped except You. [Three times]
 
-    Abū Dāwud (#5090, 4/324), Aḥmad (5/42), al-Nasāʾī in _ʿAmal al-Yawm wa al-Laylah_ [22], Ibn al-Sunnī [69], and al-Bukhārī in _al-Adab al-Mufrad_. Shaykh Ibn Bāz authenticated its chain in _Tuḥfah Al-Akhyār_ (p.\ 26). Al-Albānī declared it weak. See _Ḍaʿīf al-Jāmiʿ_ [1210].
-
-<!-- TODO double check the following -->
+    Abū Dāwud (#5090, 4/324), Aḥmad (5/42), al-Nasāʾī in _ʿAmal al-Yawm wa al-Laylah_ (#22), Ibn al-Sunnī (#69), and al-Bukhārī in _al-Adab al-Mufrad_. Shaykh Ibn Bāz authenticated its chain in _Tuḥfah Al-Akhyār_ (p.\ 26). Al-Albānī declared it weak. See _Ḍaʿīf al-Jāmiʿ_ (#1210).
 
 83. <div lang="ar">حَسْبِيَ اللهُ لَا إلَهَ إلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ العَرْشِ العَظِيمِ [سَبْعَ مَرَّاتٍ]</div>
 
     Allāh is sufficient for me, none has the right to be worshipped except Him, upon Him I rely and He is Lord of the exalted throne. [Seven times]
 
-    Ibn al-Sunnī [71][Marfū'] and Abū Dāwud (#5081, 4/321, Mawqūf). Shuʿayb and ʿAbd al-Qādir al-Arnā'ūť declared it authentic. Also see _Zād al-Maʿād_ (2/376). Al-Albānī declared it weak. See _Ḍaʿīf Abī Dāwud_.
+    Ibn al-Sunnī (#71) with a marfūʿ chain and Abū Dāwud (#5081, 4/321) with a mawqūf chain. Shuʿayb and ʿAbd al-Qādir al-Arnā'ūť declared it authentic. Also see _Zād al-Maʿād_ (2/376). Al-Albānī declared it weak. See _Ḍaʿīf Abī Dāwud_.
 
 84. <div lang="ar">اللَّهُمَّ إِنِّي أسْأَلُكَ العَفْوَ وَ العَافِيَةَ في الدُّنْيَا وَالآخِرَةِ، اللّهُمَّ إِنِّي أسْأَلُكَ العَفْوَ وَ العَافِيَةَ في دِيْنِي وَدُنْيَايَ وَأهْلي وَمالي، اللَّهُمَّ اسْتُرْ عَوْرَاتي، وَآمِنْ رَوْعَاتي، اللَّهُمَّ احْفَظْني مِنْ بَيْنِ يَدَيَّ، وَمِنْ خَلْفِي، وَعَنْ يَمِيْنِي وَعَنْ شِمَالي، وَمِنْ فَوْقي ، وَ أعُوذُ بِعَظَمَتِكَ أنْ أُغْتَالَ مِنْ تَحْتِي.</div>
 
@@ -667,13 +666,13 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
     In the name of Allāh with whose name nothing is harmed on earth nor in the heavens and He is The All-Seeing, The All-Knowing. [Three times]
 
-    Abū Dāwud (#5088, #5089, 4/323), al-Tirmidhī (#3388, 5/465), Ibn Mājah (#3869), Aḥmad (1/72). Also see _Ṣaḥīḥ Ibn Mājah_ (2/332). Shaykh Ibn Bāz authenticated its chain in _Tuḥfah al-Akhyār_ (p.\ 39).
+    Abū Dāwud (#5088, #5089, 4/323), al-Tirmidhī (#3388, 5/465), Ibn Mājah (#3869), and Aḥmad (1/72). Also see _Ṣaḥīḥ Ibn Mājah_ (2/332). Shaykh Ibn Bāz authenticated its chain in _Tuḥfah al-Akhyār_ (p.\ 39).
 
 87. <div lang="ar">رَضِيْتُ بِاللهِ رَبًّا، وَبِالإسْلامِ دِيْناً، وَبِمُحَمَّدٍ نَبِيًّا [ثَلاثَ مَرَّاتٍ]</div>
 
     I am pleased with Allāh as the Lord, and Islam as the religion and Muḥammad as the Prophet.
 
-    Aḥmad (4/337), al-Nasāʾī in _ʿAmal al-Yawm wa al-Laylah_ [4], Ibn al-Sunnī [68], Abū Dāwud (#5072, 4/318) and al-Tirmidhī (#3389, 5/465). Shaykh Ibn Bāz declared it ḥasan in _Tuḥfah al-Akhyār_ [39].
+    Aḥmad (4/337), al-Nasāʾī in _ʿAmal al-Yawm wa al-Laylah_ (#4), Ibn al-Sunnī (#68), Abū Dāwud (#5072, 4/318), and al-Tirmidhī (#3389, 5/465). Shaykh Ibn Bāz declared it ḥasan in _Tuḥfah al-Akhyār_ (#39).
 
 88. <div lang="ar">يَا حَيُّ يَا قَيُّومُ بِرَحْمَتِكَ أَسْتَغِيْثُ، أَصْلِحْ لي شَأْني كُلَّهُ، وَلَا تَكِلْنِي إِلَى نَفْسِي طَرْفَةَ عَيْنٍ</div>
 
@@ -686,18 +685,18 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 89. <div lang="ar">أَصْبَحْنَا وَ أَصْبَحَ المُلْكُ لِلَّهِ رَبِّ العَالَمِيْنَ، اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَ هـَذَا اليَوْمِ: فَتْحَهُ، وَنَصْرَهُ وَ نُورَهُ، وَ بَرَكَتَهُ،وَ هُدَاهُ، وَأَعُوذُ بِكَ مِنْ شَرِّ مَا فِيْهِ وَ شَرِّ مَا بَعْدَهُ.
 و إذا أمسى قال: أَمْسَيْنَا وَأَمْسَى المُلْكُ لِلّهَِ رَبِّ العَالَمِيْنَ، اللَّهُمَّ إِنِّي أسْأَلُكَ خَيْرَ هـَذِهِ اللَّيْلَةِ، فَتْحَهَا، وَنَصْرَهـَا، وَنورَهـَا وَبَرَكَتَهَا، وَ هُدَاهـَا، وَ أَعُوذُ بِكَ مِنْ شَرِّ مَا فِيْهَا وَشَرِّ مَا بَعْدَهـَا.</div>
 
-    'We have reached the morning and at this very time all sovereignty belongs to Allāh, Lord of the worlds. O Allāh, I ask You for the good of this day, its triumphs and its victories, its light and its blessings and its guidance, and I take refuge in You from the evil of this day and the evil that follows it.'
+    “We have reached the morning and at this very time all sovereignty belongs to Allāh, Lord of the worlds. O Allāh, I ask You for the good of this day, its triumphs and its victories, its light and its blessings and its guidance, and I take refuge in You from the evil of this day and the evil that follows it.”
 
-    At night, recite instead: 'We have reached the evening and at this very time all sovereignty belongs to Allāh, Lord of the worlds. O Allāh, I ask You for the good of tonight, its triumphs and its victories, its light and its blessings and its guidance, and I take refuge in You from the evil of tonight and the evil that follows it.'
+    At night, recite instead: “We have reached the evening and at this very time all sovereignty belongs to Allāh, Lord of the worlds. O Allāh, I ask You for the good of tonight, its triumphs and its victories, its light and its blessings and its guidance, and I take refuge in You from the evil of tonight and the evil that follows it.”
 
     Abū Dāwud (#5084, 4/322), Shuʿayb and ʿAbd al-Qādir al-Arnā'ūť declared its chain ḥasan in their research of _Zād al-Ma'ād_ (2/273).
 
 90. <div lang="ar">أَصْبَحْنَا عَلَى فِطْرَةِ الإسْلامِ، وَعَلَى كَلِمَةِ الإخْلاصِ، وَعَلَى دِيْنِ نَبِيِّنَا مُحَمَّدٍ ﷺ، وَعَلَى مِلَّةِ أبِيْنَا إِبْرَاهِيمَ، حَنِيْفاً مُسْلِماً وَمَا كَانَ مِنَ المُشْرِكِيْنَ.
 وَ إذَا أمسَى قَالَ: أمْسَيْنَا عَلَى فِطْرَةِ الإسْلامِ.</div>
 
-    We rise upon the fitrah of Islam, and the word of pure faith, and upon the religion of our Prophet Muḥammad and the religion of our forefather Ibrahim, who was a Muslim and of true faith and was not of those who associate others with Allāh.
+    We rise upon the fitrah of Islam, and the word of pure faith, and upon the religion of our Prophet Muḥammad and the religion of our forefather Ibrāhīm, who was a Muslim and of true faith and was not of those who associated others with Allāh.
 
-    Aḥmad (3/406,407) and Ibn al-Sunnī as found in _ʿAmal al-Yawm wa al-Laylah_ [34]. Also see _Ṣaḥīḥ al-Jāmiʿ_ (#4674, 4/209).
+    Aḥmad (3/406,407) and Ibn al-Sunnī as found in _ʿAmal al-Yawm wa al-Laylah_ (#34). Also see _Ṣaḥīḥ al-Jāmiʿ_ (#4674, 4/209).
 
 91. <div lang="ar">سُبْحَانَ اللهِ وَبِحَمْدِهِ [مِئَةَ مَرَّةٍ]</div>
 
@@ -705,7 +704,7 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
     Muslim (#2723, 4/2071).
 
-<!-- TODO doublecheck the following -->
+<!-- TODO double check the following -->
 
 92. <div lang="ar"></div>
 
@@ -713,7 +712,7 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
     None has the right to be worshiped except Allāh, alone, without partner, to Him belongs all sovereignty and praise and He is over all things omnipotent. [Ten Times](١) or [Once](٢).
 
-    (1) Al-Nasāʾī in ʿAmal al-Yawm wa al-Laylah_ [24] from the ḥadīth of Abū Ayūb al-Anṣārī. Also see _Ṣaḥīḥ al-Targhīb wa al-Tarhīb_ (#650, 1/272) and _Tuḥfah al-Akhyār_ (p.\ 55).
+    (1) Al-Nasāʾī in ʿAmal al-Yawm wa al-Laylah_ (#24) from the ḥadīth of Abū Ayūb al-Anṣārī. Also see _Ṣaḥīḥ al-Targhīb wa al-Tarhīb_ (#650, 1/272) and _Tuḥfah al-Akhyār_ (p.\ 55).
     (2) Abū Dāwud (#5077, 4/319), Ibn Mājah (#3867) and Aḥmad (4/60). Also see _Ṣaḥīḥ al-Targhīb wa al-Tarhīb_ (1/270), _Ṣaḥīḥ Abī Dāwud_ (3/957), _Ṣaḥīḥ Ibn Mājah_ (2/331) and _Zād Al-Ma'ād_ (2/377).
 
 93. <div lang="ar">لَا إلَهَ إلَّا اللهُ وحْدَهُ لَا شَريْكَ لهُ، لهُ المُلْكُ ولَهُ الحَمْدُ، وهُوَ عَلَى كُلِّ شَيءٍ قَدِيْرٌ [مئةَ مَرَّةٍ إذا أصْبَحَ]</div>
@@ -732,7 +731,7 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
     O Allāh, I ask You for knowledge which is beneficial and sustenance which is good, and deeds which are acceptable.
 
-    Ibn al-Sunnī as reported in _ʿAmal al-Yawm wa al-Laylah_ [54] and Ibn Mājah [925]. Shuʿayb and ʿAbd al-Qādir al-Arnā'ūť declared it authentic in their research of _Zād al-Maʿād_ (2/375).
+    Ibn al-Sunnī as reported in _ʿAmal al-Yawm wa al-Laylah_ (#54) and Ibn Mājah (#925). Shuʿayb and ʿAbd al-Qādir al-Arnā'ūť declared it authentic in their research of _Zād al-Maʿād_ (2/375).
 
 96. <div lang="ar">أَسْتَغْفِرُ اللَّهَ وَأَتُوبُ إِلَيْهِ [مِئَةَ مَرَّةٍ اليَوْمِ]</div>
 
@@ -746,7 +745,7 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
     I take refuge in Allāh's perfect words from the evil He has created. [Three times in the evening]
 
-    Aḥmad (2/290), al-Nasāʾī in _ʿAmal al-Yawm wa al-Laylah_ [590], Ibn al-Sunnī (68). Also see _Ṣaḥīḥ al-Tirmidhī_ (3/187), _Ṣaḥīḥ Ibn Mājah_ (2/266) and _Tuḥfah al-Akhyār_ (p.\ 45)
+    Aḥmad (2/290), al-Nasāʾī in _ʿAmal al-Yawm wa al-Laylah_ (#590), Ibn al-Sunnī (#68). Also see _Ṣaḥīḥ al-Tirmidhī_ (3/187), _Ṣaḥīḥ Ibn Mājah_ (2/266) and _Tuḥfah al-Akhyār_ (p.\ 45)
 
 <!-- TODO double check the following (ANDROID)-->
 
@@ -771,19 +770,19 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
 100. <div lang="ar">﴿اللهُ لَا إلَهَ إلَّا هُوَ الحَيُّ القَيُّومُ... ﴾</div>
 
-    The Prophet \pbuh also said: 'When you are about to sleep, recit āyah al-Kursī, for there will remain over you a protection from Allāh and no devil will draw near you until morning.'
+    The Prophet \pbuh also said: “When you are about to sleep, recit āyah al-Kursī, for there will remain over you a protection from Allāh and no devil will draw near you until morning.”
 
     Al-Bukhārī (#2311, 4/487).
 
 101. <div lang="ar">﴿ءامَنَ الرَّسُولُ بِمَا أُنزِلَ إِلَيْهِ مِن رَّبِّهِ وَالْمُؤْمِنُونَ...﴾</div>
 
-    The Prophet \pbuh also said: 'Whoever recites the last two verses of Sūrah al-Baqarah at night; those two verses shall be sufficient for him.'
+    The Prophet \pbuh also said: “Whoever recites the last two verses of Sūrah al-Baqarah at night; those two verses shall be sufficient for him.”
 
     Al-Bukhārī (#4008, 9/94) and Muslim (#808, 1/554).
 
 102. <div lang="ar">بِاسْمِكَ رَبِّي وَضَعْتُ جَنْبِي، وَبِكَ أَرْفَعُهُ، فإِنْ أَمْسَكْتَ نَفْسِي فَارْحَمْهَا، وَإِنْ أَرْسَلْتَهَا فَاحْفَظْهَا، بِمَا تَحْفَظُ بِهِ عِبَادَكَ الصَّالِحِينَ</div>
 
-    If one of you rises from his bed and then returns to it he should dust it with the edge of his garment three times for he does not know what has occurred in his absence and when he lies down he should supplicate: 'In Your name my Lord, I lie down and in Your name I rise, so if You should take my soul then have mercy upon it, and if You should return my soul then protect it in the manner You do so with Your righteous servants.'
+    If one of you rises from his bed and then returns to it he should dust it with the edge of his garment three times for he does not know what has occurred in his absence and when he lies down he should supplicate: “In Your name my Lord, I lie down and in Your name I rise, so if You should take my soul then have mercy upon it, and if You should return my soul then protect it in the manner You do so with Your righteous servants.”
 
     Al-Bukhārī (#6320, 11/126) and Muslim (#2714, 4/2084).
 
