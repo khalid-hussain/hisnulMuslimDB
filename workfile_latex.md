@@ -15,7 +15,8 @@ Dua 77
 Dua 78
 Dua 92
 Dua 96
-
+Dua 106
+Dua 114
 <!-- END -->
 
 # Upon Waking up
@@ -818,7 +819,7 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
 107. <div lang="ar">اللَّهُمَّ رَبَّ السَّمَوَاتِ السَّبْعِ، وَرَبَّ الأرْضِ، وربَّ العَرْشِ العَظِيمِ، رَبَّنَا وَرَبَّ كُلِّ شَيءٍ، فَالِقَ الحَبِّ وَالنَّوَى، وَمُنْزِلَ التَّوْرَاةِ وَالإنْجِيْلِ و الفُرْقَانِ، أَعوذُ بِكَ مِن شَرِّ كُلِّ شَيءٍ أَنْتَ آخِذٌ بِنَاصِيتِهِ، اللَّهُمَّ أَنْتَ الأوَّلُ فَلَيْسَ قَبْلَكَ شَيءٌ، وَأَنْتَ الآخِرُ فَلَيْسَ بَعْدَكَ شَيْءٌ، وَأَنْتَ الظَّاهِرُ فَلَيْسَ فَوْقَكَ شَيءٌ، وَأَنْتَ الْبَاطِنُ فَلَيْسَ دُونَكَ شَيءٌ، اقْضِ عَنَّا الدَّيْنَ، وَأَغْنِنَا مِنَ الفَقْرِ</div>
 
-    O Allāh, Lord of the seven heavens and the exalted throne, our Lord and Lord of all things, Splitter of the seed and the date stone, Revealer of the Tawrāh, the Injīl  and the Furqān, I take refuge in You from the evil of all things You shall seize by the forelock. O Allāh, You are The First so there is nothing before You and You are The Last so there is nothing after You. You are al-Ẓāhir so there is nothing above You and You are al-Bāṭin so there is nothing closer than You. Settle our debt for us and spare us from poverty.
+    O Allāh, Lord of the seven heavens and the exalted throne, our Lord and Lord of all things, Splitter of the seed and the date stone, Revealer of the Tawrāh, the Injīl and the Furqān, I take refuge in You from the evil of all things You shall seize by the forelock. O Allāh, You are The First so there is nothing before You and You are The Last so there is nothing after You. You are al-Ẓāhir so there is nothing above You and You are al-Bāṭin so there is nothing closer than You. Settle our debt for us and spare us from poverty.
 
     Muslim (#2713, 4/2084).
 
@@ -830,15 +831,15 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
 109. <div lang="ar">اللَّهُمَّ عالِمَ الغَيْبِ وَالشّهَادَةِ فَاطِرَ السَّمَوَاتِ وَالأرْضِ، رَبَّ كُلِّ شَيْءٍ وَمَلَيْكَهُ، أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا أَنْتَ، أَعُوذُ بِكَ مِن شَرِّ نَفْسِي، وَمِنْ شَرِّ الشَّيْطَانِ وَشِرْكِهِ، وَأَنْ أَقْتَرِفَ عَلَى نَفْسِي سُوءاً، أَوْ أَجُـرَّهُ إِلَى مُسْلِمٍ</div>
 
-    O Allāh, Knower of the seen and the unseen, Creator of the heavens and the earth, Lord and Sovereign of all things I bear witness that none has the right to be worshipped except You. I take refuge in You from the evil of my soul and from the evil and shirk of the devil, and from committing wrong against my soul or bringing such upon another Muslim.
+    O Allāh, Knower of the seen and the unseen, Creator of the heavens and the earth, Lord and Sovereign of all things, I bear witness that none has the right to be worshipped except You. I take refuge in You from the evil of my soul and from the evil and shirk of the devil, and from committing wrong against my soul or bringing such upon another Muslim.
 
     Abū Dāwud (#5083, 4/317). Also see Ṣaḥīḥ al-Tirmidhī (3/142).
 
 110. <div lang="ar">يَقْرَاُ ﴿ألم﴾ تَنْزِيْلَ السَّجْدَةِ، وَ تَبَارَكَ الَّذِي بِيَدِهِ المُلْكَ</div>
 
-    Recite Sūrah al-Sajdah and Surah al-Mulk.
+    Recite Sūrah al-Sajdah and Sūrah al-Mulk.
 
-    Al-Tirmidhī (#3404) and al-Nasāʾī in _ʿAmal al-Yawm wa al-Laylah [707]. Also see _Ṣaḥīḥ al-Jāmiʿ_ (#4873, 4/255).
+    Al-Tirmidhī (#3404) and al-Nasāʾī in _ʿAmal al-Yawm wa al-Laylah_ (#707). Also see _Ṣaḥīḥ al-Jāmiʿ_ (#4873, 4/255).
 
 111. <div lang="ar">اللَّهُمَّ أَسْلَمْتُ نَفْسِي إِلَيْكَ، وَفَوَّضْتُ أَمْرِي إِلَيْكَ، وَوَجَّهْتُ وَجْهِي إِلَيْكَ، وَأَلْجَأتُ ظَهْرِي إِلَيْكَ، رَغْبَةً وَرَهْبَةً إِلَيْكَ، لَا مَلْجَأَ وَلا مَنْجَا مِنْكَ إِلَّا إِلَيْكَ، آمَنْتُ بِكِتَابِكَ الَّذِي أَنْزَلْتَ، وَبِنَبِيِّكَ الَّذِي أَرْسَلْتَ</div>
 
@@ -850,9 +851,9 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
 112. <div lang="ar">لَا إِلَهَ إِلَّا اللهُ الوَاحِدُ القَهَّارُ، رَبُّ السَّمَوَاتِ وَالأرْضِ وَمَا بَيْنَهُمَا العَزِيْزُ الغَـفَّارُ</div>
 
-    None has the right to be worshipped except Allāh, The One, al-Qahhār. Lord of the heavens and the Earth and all between them, The Exalted in Might, The Oft-Forgiving.
+    None has the right to be worshiped except Allāh, the One, al-Qahhār. Lord of the heavens and the earth and all between them, the Exalted in Might, the Oft-Forgiving.
 
-    Al-Hākim (1/540) and he authenticated it and al-Dhahabī agreed with him, al-Nasāʾī in _ʿAmal al-Yawm wa al-Laylah_ [864] and Ibn al-Sunnī in his _ʿAmal al-Yawm wa al-Laylah_ (757). Also see _Ṣaḥīḥ al-Jāmiʿ_ (#4693, 4/213).
+    Al-Hākim (1/540) and he authenticated it and al-Dhahabī agreed with him, al-Nasāʾī in _ʿAmal al-Yawm wa al-Laylah_ (#864) and Ibn al-Sunnī in his _ʿAmal al-Yawm wa al-Laylah_ (#757). Also see _Ṣaḥīḥ al-Jāmiʿ_ (#4693, 4/213).
 
 113. <div lang="ar">أَعُوذُبِكَلِمَاتِ اللهِ التَّامَّاتِ، مِنْ غَضَبِهِ وَعِقَابِهِ، وَشَرِّ عِبَادِهِ، وَمِنْ هَمَزَاتِ الشَّيَاطِينِ، وَأنْ يَحْضُرُونِ</div>
 
