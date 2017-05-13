@@ -1,4 +1,7 @@
 
+<!-- Overall TODO -->
+- Determing a more clear reference for different pages in a volume.
+
 <!-- Please check the following dua -->
 Dua 19
 Dua 20
@@ -17,6 +20,7 @@ Dua 92
 Dua 96
 Dua 106
 Dua 114
+Dua 116 (Bayhaqī)
 <!-- END -->
 
 # Upon Waking up
@@ -882,15 +886,15 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
 116. <div lang="ar">اللَّهُمَّ اهْدِنِي فِيْمَنْ هَدَيْتَ، وَعَافِنِي فِيْمَنْ عَافَيْتَ، وَتَوَلَّنِي فِيْمَنْ تَوَلَّيْتَ، وَبَارِكْ لِي فِيْمَا أَعْطَيْتَ، وَقِنِي شَرَّ مَا قَضَيْتَ، فَإِنَّكَ تَقْضِي وَلَا يُقْضَى عَلَيْكَ، إِنَّهُ لَا يَذِلُّ مَنْ والَيْتَ، [وَ لَا يَعِزُّ مَنْ عَادَيْتَ]، تَبارَكْتَ رَبَّنَا وَتَعَالَيْتَ</div>
 
-    O Allāh, guide me along with those whom You have guided, pardon me along with those whom You have pardoned, be an ally to me along with those whom You are an ally to and bless for me that which You have bestowed. Protect me from the evil You have decreed for verily You decree and none can decree over You. For surety, he whom you show allegiance to is never abased and he whom You take as an enemy is never honoured and mighty. O our Lord, Blessed and Exalted are You.
+    O Allāh, guide me along with those whom You have guided, pardon me along with those whom You have pardoned, be an ally to me along with those whom You are an ally to, and bless for me that which You have bestowed. Protect me from the evil You have decreed for verily You decree and none can decree over You. For surety, he whom you show allegiance to is never abased and he whom You take as an enemy is never honored and mighty. O our Lord, Blessed and Exalted are You.
 
-Abū Dāwud [1425], al-Tirmidhī [464], al-Nasāʾī (1/252), Ibn Mājah [1178], Aḥmad (1/200), al-Dārimī (1/373), al-Hākim (3/172), and al-Bayhaqī (2/209, 497, 498). What is between the brackets is from al-Bayhaqī. Also see _Ṣaḥīḥ al-Tirmidhī_ (1/144), _Ṣaḥīḥ Ibn Mājah_ (1/194), and _Irwāʾ al-Ghalīl_ (2/172).
+  Abū Dāwud (#1425), al-Tirmidhī (#464), al-Nasāʾī (1/252), Ibn Mājah (#1178), Aḥmad (1/200), al-Dārimī (1/373), al-Hākim (3/172), and al-Bayhaqī (2/209, 497, 498). What is between the brackets is from al-Bayhaqī. Also see _Ṣaḥīḥ al-Tirmidhī_ (1/144), _Ṣaḥīḥ Ibn Mājah_ (1/194), and _Irwāʾ al-Ghalīl_ (2/172).
 
 117. <div lang="ar">اللَّهُمَّ إِنِّي أَعُوذُ بِرِضَاكَ مِنْ سَخَطِكَ، وَبِمُعَافَاتِكَ مِنْ عُقُوبَتِكَ، وَأَعُوذُ بِكَ مِنْكَ، لَا أُحْصِي ثَنَاءً عَلَيْكَ، أَنْتَ كَمَا أَثْنَيْتَ عَلَى نَفْسِكَ</div>
 
     O Allāh, I take refuge within Your pleasure from Your displeasure and within Your pardon from Your punishment, and I take refuge in You from You. I cannot enumerate Your praise. You are as You have praised Yourself.
 
-    Abū Dāwud [1427], al-Tirmidhī [3561], al-Nasāʾī (1/252), Ibn Mājah [1179], and Aḥmad (1/96,118,150). Also see _Ṣaḥīḥ al-Tirmidhī_ (3/180), _Ṣaḥīḥ Ibn Mājah_ (1/194) and _Irwāʾ al-Ghalīl_ (2/175).
+    Abū Dāwud (#1427), al-Tirmidhī (#3561), al-Nasāʾī (1/252), Ibn Mājah (#1179), and Aḥmad (1/96, 118, 150). Also see _Ṣaḥīḥ al-Tirmidhī_ (3/180), _Ṣaḥīḥ Ibn Mājah_ (1/194) and _Irwāʾ al-Ghalīl_ (2/175).
 
 118. <div lang="ar">اللَّهُمَّ إِيَّاكَ نَعْبُدُ، وَلَكَ نُصَلِّي وَنَسْجُدُ، وَإِلَيْكَ نَسْعَى وَنَحْفِدُ، نَرْجُو رَحْمَتَكَ، وَنَخْشَى عَذَابَكَ، إِنَّ عَذَابَكَ بِالكَافِرِيْنَ ملْحَقٌ، اللَّهُمَّ إِنَّا نَسْتَعِيْنُكَ، وَنَسْتَغْفِرُكَ، وَنُثْنِي عَلَيْكَ الخَيْرَ، وَلَا نَكْفُرُكَ، وَنُؤْمِنُ بِكَ، وَنَخْضَعُ لَكَ، وَنَخْلَعُ مَنْ يَكْفُرُكَ</div>
 
@@ -902,9 +906,9 @@ Abū Dāwud [1425], al-Tirmidhī [464], al-Nasāʾī (1/252), Ibn Mājah [1178],
 
 119. <div lang="ar">سُبْحَانَ المَلِكِ القُدُّوسِ (ثَلاثَ مَرَّاتٍ، وَ الثَّالِثَةُ يَجْهَرُ بِهَا وَيَمُدُّ صَوْتَهُ يَقُولُ:[ ربِّ المَلائِكَةِ وَالرُّوحِ])</div>
 
-    How perfect The King, The Holy One is (Three times, and on the third time the Prophet would raise his voice, elongate it and add: [Lord of the angels and the Rūḥ]).
+    How perfect the King, the Holy One is (Three times, and on the third time the Prophet would raise his voice, elongate it and add: [Lord of the angels and the Rūḥ]).
 
-    Al-Nasāʾī (3/244), al-Dāraquṭnī (2/31) and the extension in brackets is from him and its chain is ṣaḥīḥ. Also see the research of Shuʿayb and ʿAbd al-Qādir Al-Arnā'ūť on _Zād al-Maʿād_ (1/337).
+    Al-Nasāʾī (3/244), al-Dāraquṭnī (2/31) and the extension in brackets is from him and its chain is ṣaḥīḥ. Also see the research of Shuʿayb and ʿAbd al-Qādir Al-Arnāʾūṭ on _Zād al-Maʿād_ (1/337).
 
 <!-- TODO double check the following (ANDROID Qurʾān spelling) -->
 
