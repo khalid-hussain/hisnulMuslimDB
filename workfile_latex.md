@@ -21,6 +21,7 @@ Dua 96
 Dua 106
 Dua 114
 Dua 116 (Bayhaqī)
+Dua 130
 <!-- END -->
 
 # Upon Waking up
@@ -910,35 +911,35 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
     Al-Nasāʾī (3/244), al-Dāraquṭnī (2/31) and the extension in brackets is from him and its chain is ṣaḥīḥ. Also see the research of Shuʿayb and ʿAbd al-Qādir Al-Arnāʾūṭ on _Zād al-Maʿād_ (1/337).
 
-<!-- TODO double check the following (ANDROID Qurʾān spelling) -->
+<!-- TODO double check the following (ANDROID) -->
 
 120. <div lang="ar">اللَّهُمَّ إِنِّي عَبْدُكَ، ابْنُ عَبْدِكَ، ابْنُ أَمَتِكَ، نَاصِيَتِي بِيَدِكَ، مَاضٍ فِيَّ حُكْمُكَ، عَدْلٌ فِيَّ قَضَاؤُكَ، أَسْأَلُكَ بِكُلِّ اسْمٍ هُوَ لَكَ، سَمَّيْتَ بِهِ نَفْسَكَ، أوْ أَنْزَلْتَهُ فِي كِتَابِكَ، أَوْ عَلَّمْتَهُ أَحَداً مِنْ خَلْقِكَ، أَوِ اسْتَأْثَرْتَ بِهِ فِي عِلْمِ الغَيْبِ عِنْدَكَ، أَنْ تَجْعَلَ القُرْآنَ رَبِيْعَ قَلْبِي، وَنُورَ صَدْرِي، وجَلَاءَ حُزْنِي، وَذَهَابَ هَمِّي</div>
 
     O Allāh, I am Your servant, son of Your servant, son of Your maidservant, my forelock is in Your hand, Your command over me is forever executed and Your decree over me is just. I ask You by every name belonging to You which You named Yourself with, or revealed in Your Book, or You taught to any of Your creation, or You have preserved in the knowledge of the unseen with You, that You make the Qurʾān the life of my heart and the light of my breast, and a departure for my sorrow and a release for my anxiety.
 
-    Aḥmad (1/391). Al-Albānī authenticated it in _al-Kalām al-Ṭayyib_ [124].
+    Aḥmad (1/391). Al-Albānī authenticated it in _al-Kalim al-Ṭayyib_ (#124).
 
 121. <div lang="ar">اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الهَمِّ وَ الْحَـزَنِ، والعَجْـزِ والكَسَلِ، والبُخْلِ والجُبْنِ، وضَلَعِ الدَّيْنِ وغَلَبَةِ الرِّجَالِ</div>
 
-    O Allāh, I take refuge in You from anxiety and sorrow, weakness and laziness, miserliness and cowardice, the burden of debts and from being over powered by men.
+    O Allāh, I take refuge in You from anxiety and sorrow, weakness and laziness, miserliness and cowardice, the burden of debts and from being overpowered by men.
 
     Al-Bukhārī (#6363, 7/158), see _Fatḥ al-Bārī_ (11/173).
 
 122. <div lang="ar">لَا إلَهَ إِلَّا اللَّهُ الْعَظِيْمُ الْحَلِيْمُ، لَا إِلَهَ إِلَّا اللَّهُ رَبُّ العَرْشِ العَظِيْمُ، لَا إِلَهَ إِلَّا اللَّهُ رَبُّ السَّمَوَاتِ، وَرَبُّ الأَرْضِ وَرَبُّ العَرْشِ الكَرِيْمِ</div>
 
-    None has the right to be worshipped except Allāh Forbearing. None has the right to be worshiped except Allāh, Lord of the magnificent throne. None has the right to be worshiped except Allāh, Lord of the heavens, Lord of the Earth and Lord of the noble throne.
+    None has the right to be worshiped except Allāh, the Magnificent, Forbearing. None has the right to be worshiped except Allāh, Lord of the magnificent throne. None has the right to be worshiped except Allāh, Lord of the heavens, Lord of the earth and Lord of the noble throne.
 
     Al-Bukhārī (#6346, 7/154) and Muslim (#2730, 4/2092).
 
 123. <div lang="ar">اللَّهُمَّ رَحْمَتَكَ أَرْجـُو، فَلا تَكِلْنِي إِلَى نَفْسِي طَرْفَةَ عَيْنٍ، وَأَصْلِحْ لِي شَأْنِي كُلَّهُ، لَا إِلَهَ إِلَّا أنْتَ</div>
 
-    O Allāh, it is Your mercy that I hope for, so do not leave me in charge of my affairs even for a blink of an eye and rectify for me all of my affairs. None has the right to be worshipped except You.
+    O Allāh, it is Your mercy that I hope for, so do not leave me in charge of my affairs even for a blink of an eye and rectify for me all of my affairs. None has the right to be worshiped except You.
 
     Abū Dāwud (#5090, 4/324) and Aḥmad (5/42). Al-Albānī authenticated it in _Ṣaḥīḥ Abī Dāwud_ (3/959).
 
 124. <div lang="ar">لَا إِلَهَ إِلَّا أنْتَ سُبْحَانَكَ، إِنِّي كُنْتُ مِنَ الظَّالِمِيْنَ</div>
 
-    None has the right to be worshiped except You. How perfect You are, verily I was among the wrong-doers.
+    None has the right to be worshiped except You. How perfect You are, verily I was among the wrongdoers.
 
     Al-Tirmidhī (#3505, 5/529) and al-Hākim (1/505) and he authenticated it and al-Dhahabī agreed with him. Also see _Ṣaḥīḥ al-Tirmidhī_ (3/168).
 
@@ -966,15 +967,19 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
     Al-Bukhārī (#4563, 5/172).
 
+<!-- TODO check capitalization of Throne -->
+
 129. <div lang="ar">اللَّهُمَّ رَبَّ السَّمَوَاتِ السَّبْعِ، وَ رَبَّ العَرْشِ العَظِيْمِ، كُنْ لِي جَاراً مِنْ فُلَانِ بْنِ فُلَانٍ، وَ أَحْزَابِهِ مِنْ خَلائِقِكَ؛ أَنْ يَفْرُطَ عَلَيَّ أَحَدٌ مِنهُمْ أوْ يَطْغَى، عَزَّ جَارُكَ، وَ جَلَّ ثَنَائُكَ، وَ لَا إِلَهَ إِلَّا أَنْتَ</div>
 
-    O Allāh, Lord of the seven heavens and the earth and the great throne, protect me from so-and-so [tell the name of the person] and from his allies among your creatures, and from being subjected by their abus or tyranny. Honoured is your protected, exalted is your praise, none has the right to be worshipped except You.
+    O Allāh, Lord of the seven heavens and the earth and the great throne, protect me from so-and-so [mention the name of the person] and from his allies among your creatures, and from being subjected by their abuse or tyranny. Honored is your protected, exalted is your praise, none has the right to be worshiped except You.
 
-    Al-Bukhārī in _al-Adab al-Mufrad_ (#707) and Al-Albānī authenticated it in _Ṣaḥīḥ al-Adab al-Mufrad_ [545].
+    Al-Bukhārī in _al-Adab al-Mufrad_ (#707) and Al-Albānī authenticated it in _Ṣaḥīḥ al-Adab al-Mufrad_ (#545).
+
+<!-- TODO double check the grammar of the translation -->
 
 130. <div lang="ar">اللهُ أَكْبَرُ، اللهُ أَعَزُّ مِنْ خَلْقِهِ جَمِيْعًا، اللهُ أَعَزُّ مِمَّا أَخَافُ وَ أَحْذَرُ، أَعُوذُ باللهِ الَّذِي لَا إِلَهَ إِلَّا هُوَ، الْمُمْسِكِ السَّمَوَاتِ السَّبْعِ أَنْ يَقَعْنَ عَلَى الأَرْضِ إِلَّا بِإِذْنِهِ، مِنْ شَرِّ عَبْدِكَ فُلاَنٍ، وُجُنُودِهِ وَ أَتْبَاعِهِ وَ أَشْيَاعِهِ، مِنَ الْجِنِّ وَ الإِنْسِ، اللَّهُمَّ كُنْ لِي جَارًا مِنْ شَرِّهِمْ، جَلَّ ثَنَاؤُك، وَ عَزَّ جَارُكَ، وَ تَبَارَكَ اسْمُكَ: وَ لَا إِلَهَ غَيْرُكَ. [ثَلاثَ مَرَّاتٍ]</div>
 
-    Allāh is the greatest, Allāh is mightier than all things. Allāh is mightier than the one I am afraid of and I mistrust. I take refuge in Allāh, none has the right to be worshiped except Allāh, who hold back the seven heavens from falling on earth except when he'll allowed this, from the misdeeds of You slave so-and-so [tell the name of the person], from his soldiers, from his partisans among the djinns and the human beings. Ô Lord ! Be my protector from their misdeeds. Exalted is Your praise, honoured is Your protected, blessed is Your name and none has the right to be worshipped except You.
+    Allāh is the greatest, Allāh is mightier than all things. Allāh is mightier than the one I am afraid of and I mistrust. I take refuge in Allāh, none has the right to be worshiped except Allāh, who hold back the seven heavens from falling on earth except when he will allow this, from the misdeeds of Your slave so-and-so [mention the name of the person], from his soldiers, and from his partisans among the jinns and the human beings. O Lord! Be my protector from their misdeeds. Exalted is Your praise, honored is Your protected, blessed is Your name and none has the right to be worshiped except You.
 
     Al-Bukhārī in _al-Adab al-Mufrad_ (#708) and al-Albānī authenticated it in _Ṣaḥīḥ al-Adab al-Mufrad_ (#546).
 
