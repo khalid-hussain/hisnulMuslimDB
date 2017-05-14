@@ -24,6 +24,8 @@ Dua 116 (Bayhaqī)
 Dua 130
 Dua 131
 Dua 139
+Dua 179
+Dua 184 (Reference)
 <!-- END -->
 
 # Upon Waking up
@@ -1246,6 +1248,8 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
     Muslim (#899, 2/616) and al-Bukhārī (#3206, 4/76).
 
+<!-- TODO decide whether the last hamzah should be transliterated -->
+
 168. <div lang="ar">سُبْحَانَ الَّذِي يُسَبِّحُ الرَّعْدُ بِحَمْدِهِ، وَالمَلائِكَةُ مِنْ خِيْفَتِهِ</div>
 
     How perfect He is, (The One) Whom the thunder declares His perfection with His praise, as do the angels out of fear of Him.
@@ -1260,7 +1264,7 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
 170. <div lang="ar">اللَّهُمَّ أَغِثْنَا، اللَّهُمَّ أَغِثْنَا، اللَّهُمَّ أَغِثْنَا</div>
 
-    O Allāh, relieve us, O Allāh, relieve us, O Allāh, relieve us.
+    O Allāh, relieve us. O Allāh, relieve us. O Allāh, relieve us.
 
     Al-Bukhārī (#1013, 1/224) and Muslim (#897, 2/613).
 
@@ -1284,15 +1288,17 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
 174. <div lang="ar">اللَّهُمَّ حَوَالَيْنَا وَلَا عَلَيْنَا، اللَّهُمَّ عَلَى الآكَامِ وَالظِّرَابِ، وَبُطُونِ الأوْدِيَةِ، وَمَنَابِتِ الشَّجَرِ</div>
 
-    O Allāh, let the rain fall around us and not upon us, O Allāh, (let it fall) on the pastures, hills, valleys and the roots of trees.
+    O Allāh, let the rain fall around us and not upon us. O Allāh, (let it fall) on the pastures, hills, valleys and the roots of trees.
 
     Al-Bukhārī (#1013, 1/224) and Muslim (#897, 2/614).
+
+<!-- TODO check how many "and"s are appropriate -->
 
 175. <div lang="ar">اللهُ أَكْبَرُ، اللَّهُمَّ أَهِلَّهُ عَلَيْنَا بِالأمْنِ وَالإيْمَانِ، والسَّلامَةِ والإسْلامِ، وَالتَّوْفِيْقِ لِمَا تُحِبُّ رَبَّنَا وَتَرْضَى، رَبُّنَا وَرَبُّكَ اللهُ</div>
 
     Allāh is the greatest. O Allāh, let the crescent loom above us in safety, faith, peace, and Islam, and in agreement with all that You love and pleases You. Our Lord and your Lord is Allāh.
 
-    Al-Tirmidhī (#3451, 5/405) and al-Dārimī (1/336) and the wording is his. Also see _Ṣaḥīḥ al-Tirmidhī_ (3/157).
+    Al-Tirmidhī (#3451, 5/405) and al-Dārimī (1/336), and the wording is the latter's. Also see _Ṣaḥīḥ al-Tirmidhī_ (3/157).
 
 176. <div lang="ar">ذَهَبَ الظَّمَأُ، وَابْتَلَّتِ العُرُوقُ، وَثَبَتَ الأجْرُ إِنْ شَاءَ اللهُ</div>
 
@@ -1315,12 +1321,12 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 179. <div lang="ar">(١) اللَّهُمَّ بَارِكْ لَنَا فِيْهِ، وَأَطْعِمْنَا خَيْراً مِنْهُ
 (٢) اللَّهُمَّ بَارِكْ لَنَا فِيْهِ، وَزِدْنَا مِنْهُ</div>
 
-    (1) 'O Allāh, bless it for us and feed us better than it.'
+    (1) “O Allāh, bless it for us and feed us better than it.”
 
     If one is given milk, recite the following instead:
-    (2) 'O Allāh, bless it fo it for usand give us more of it.'
+    (2) “O Allāh, bless it fo it for usand give us more of it.”
 
-    Abū Dāwud [3767] and al-Nasāʾī _ʿAmal al-Yawm wa al-Laylah_ (#282). Al-Albānī declared it weak, see _al-Kalām al-Ṭayyib_ [184].
+    Abū Dāwud (#3767) and al-Nasāʾī in _ʿAmal al-Yawm wa al-Laylah_ (#282). Al-Albānī declared it weak, see _al-Kalim al-Ṭayyib_ (#184).
 
 180. <div lang="ar">الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنِي هـَذَا، وَرَزَقَنِيْهِ، مِنْ غَيْرِ حَوْلٍ مِنِّي وَلَا قُوَّةٍ</div>
 
@@ -1332,7 +1338,7 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
     Allāh be praised with an abundant beautiful blessed praise, a never-ending praise, a praise which we will never bid farewell to and an indispensable praise, He is our Lord.
 
-    Al-Bukhārī (#5458, 6/214) and al-Tirmidhī (#3456, 5/507) and the wording is his.
+    Al-Bukhārī (#5458, 6/214) and al-Tirmidhī (#3456, 5/507), and the wording is the latter's.
 
 182. <div lang="ar">اللَّهُمَّ بَارِكْ لَهُمْ فِيْمَا رَزَقْتَهُمْ، وَاغْفِرْ لَهُمْ، وَارْحَمْهُمْ</div>
 
@@ -1346,6 +1352,8 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
     Muslim (#2055, 3/1626).
 
+<!-- TODO double check the reference -->
+
 184. <div lang="ar">أَفْطَرَ عِنْدَكُمُ الصَّائِمُونَ، وَأَكَلَ طَعَامَكُمُ الأبْرَارُ، وَصَلَّتْ عَلَيْكُمُ المَلائِكَةُ</div>
 
     May the fasting break their fast in your home, and may the dutiful and pious eat your food, and may the angels send prayers upon you.
@@ -1354,7 +1362,7 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
 185. <div lang="ar">إذَا دُعِيَ أحَدُكُمْ فَلْيُجِبْ، فَإنْ كَانَ صَائِمًا فَلْيُصَلِّ، وَ إنْ كَانَ مُفْطِراً فَلْيَطْعَمْ (وَ مَعنَى فَلْيُصَلِّ؛ أيْ: فَلْيَدْعُ)</div>
 
-    If you are invited (to a meal) then accept. If you happen to be fasting, then pray (for those present) and if you are not fasting, then eat. (The meaning of 'pray' here means 'supplicate').
+    If you are invited (to a meal) then accept. If you happen to be fasting, then pray (for those present) and if you are not fasting, then eat. (The meaning of ‘pray’ here means ‘supplicate’).
 
     Muslim (#1431, 2/1054).
 
