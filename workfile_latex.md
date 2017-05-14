@@ -22,6 +22,8 @@ Dua 106
 Dua 114
 Dua 116 (Bayhaqī)
 Dua 130
+Dua 131
+Dua 139
 <!-- END -->
 
 # Upon Waking up
@@ -983,9 +985,11 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
     Al-Bukhārī in _al-Adab al-Mufrad_ (#708) and al-Albānī authenticated it in _Ṣaḥīḥ al-Adab al-Mufrad_ (#546).
 
+<!-- TODO Check the terms used in this dua -->
+
 131. <div lang="ar">اللَّهُمَّ مُنْزِلَ الْكِتَابِ، سَرِيْعَ الْحِسَابِ، اهْزِمِ الأحْزَابَ، اللَّهُمَّ اهْزِمْهُمْ وَ زَلْزِلْهُمْ</div>
 
-    O Allāh, Revealer of the Book, Swift at reckoning, defeat the confederates. O Allāh, defeat them and convulse them.
+    O Allāh, Revealer of the Book, swift at reckoning, defeat the confederates. O Allāh, defeat them and convulse them.
 
     Muslim (#1742, 3/1362).
 
@@ -1003,7 +1007,9 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
     (1) Seek refuge with Allāh from Shayťān.
     (2) Renounce that which is causing such doubt.
 
-    Al-Bukhārī (#6/336, 6/336) and Muslim (#134, #214, 1/120).
+    These paragraphs are from _Fatḥ al-Bārī_ (#3276, 6/336). Also see Muslim (#134, #214, 1/120).
+
+<!-- TODO check the dash between page numbers -->
 
 134. <div lang="ar">آمَنْتُ بِاللهِ وَرُسُلِهِ</div>
 
@@ -1015,10 +1021,11 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
 135. <div lang="ar">﴿هُوَ الأوَّلُ وَالآخِـرُ وَالظَّاهِرُ وَالْبَاطِنُ وَهُوَ بِكُلِّ شَيْءٍ عَلِيمٌ﴾</div>
 
-    He is The First and The Last, al-Ẓāhir and al-Batin and He knows well all things.
+    He is the First and the Last, al-Ẓāhir and al-Bātin, and He knows well all things.
 
-    (1) Sūrah al-Ḥadīd: 3.  
-    (2) Abū Dāwud (#5110, 4/329) and al-Albānī declared it ḥasan in _Ṣaḥīḥ Abī Dāwud_ (3/962).
+    Abū Dāwud (#5110, 4/329) and al-Albānī declared it ḥasan in _Ṣaḥīḥ Abī Dāwud_ (3/962). The exact wording is also found in Sūrah al-Ḥadīd: 3.
+
+<!-- TODO See if you can improve the translation of the second part -->
 
 136. <div lang="ar">اللَّهُمَّ اكْفِنِي بِحَلاَلِكَ عَنْ حَرَامِكَ، وَأَغْنِنِي بِفَضْلِكَ عَمَّنْ سِوَاكَ</div>
 
@@ -1028,7 +1035,7 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
 137. <div lang="ar">اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الهَمِّ وَ الْحَـزَنِ، والعَجْزِ والكَسَلِ، والبُخْلِ والجُبْنِ، وضَلَعِ الدَّيْنِ وغَلَبَةِ الرِّجَال</div>
 
-    O Allāh, I take refuge in You from anxiety and sorrow, weakness and laziness, miserliness and cowardice, the burden of debts and from being over powered by men.
+    O Allāh, I take refuge in You from anxiety and sorrow, weakness and laziness, miserliness and cowardice, the burden of debts and from being overpowered by men.
 
     Al-Bukhārī (#6363, 7/158).
 
@@ -1036,17 +1043,18 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
 138. <div lang="ar">أَعُوذُ بِاللهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ، واتْفُلْ عَلَى يَساَرِكَ [ثَلاثاً]</div>
 
-    I seek refuge in Allāh from Shayṭān The Accursed, and (dry) spit on your left side three times.
+    I seek refuge in Allāh from Shayṭān the Accursed, and (dry) spit on your left side three times.
 
     Muslim (#2203, 4/1729).
 
 <!-- TODO double check the following (ANDROID) -->
+<!-- Who are what is Mawārid? -->
 
 139. <div lang="ar">اللَّهُمَّ لَا سَهْلَ إِلَّا مَا جَعَلْتَهُ سَهْلاً، وَأَنْتَ تَجْعَلُ الْحَزْنَ إِذا شِئْتَ سَهْلاً</div>
 
     O Allāh, there is no ease except in that which You have made easy, and You make the difficulty, if You wish, easy.
 
-    Ibn Ḥibbān in his _Ṣaḥīḥ_ [2427], Mawārid and Ibn al-Sunnī [351]. And Ibn Ḥajar said: "This ḥadīth is ṣaḥīḥ". ʿAbd al-Qādir al-Arnā'ūť also declared it ṣaḥīḥ in his takrīj of Imām al-Nawawī's _Athkār_ (p.\ 106). 
+    Ibn Ḥibbān in his _Ṣaḥīḥ_ (#2427), Mawārid and Ibn al-Sunnī (#351). Ibn Ḥajar said: “This ḥadīth is ṣaḥīḥ.” ʿAbd al-Qādir al-Arnaʾūṭ also declared it ṣaḥīḥ in his takrīj of Imām al-Nawawī's _al-Athkār_ (p.\ 106). 
 
 <!-- TODO double check the following (ANDROID) -->
 
@@ -1064,9 +1072,11 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
 142. <div lang="ar">الأذَانُ</div>
 
-    The Athān (The Call to Prayer).
+    The Athān (call to prayer).
 
     Al-Bukhārī (#608, 1/151) and Muslim (#389, 1/291).
+
+<!-- TODO check the whole organization of this dua -->
 
 143. <div lang="ar">الأذْكَارُ وَ قِراءَةُ القُرْآنِ</div>
 
@@ -1080,20 +1090,20 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
     Muslim (#2664, 4/2052).
 
-<!-- TODO double check the following (ANDROID). Also spelling of al-Athkār-->
+<!-- TODO double check the following (ANDROID). -->
 
 145. <div lang="ar">بَارَكَ اللهُ لَكَ فِي الْمَوْهُوبِ لَكَ، وَ شَكَرْتَ الْوَاهِبَ، وَ بَلَغَ أَشُدَّهُ، وَ رُزِقْتَ بِرَّهُ
 وَيَرُدُّ عَلَيْهِ المُهَنَّأ فَيَقُولُ: بَارَكَ اللهُ لَكَ، وَ بَارَكَ عَلَيْكَ، وجَزَاكَ اللهُ خَيْراً، وَرَزَقَكَ اللهُ مِثْلَهُ، وأَجْزَلَ ثَوَابَكَ</div>
 
-    'May Allāh bless what He allots to you (this child) and may you be grateful to the One who allots him to you. May he (this child) come to maturity and may Allāh allot him the good behaviour towards you.'
+    “May Allāh bless what He allots to you (this child) and may you be grateful to the One who allots him to you. May he (this child) come to maturity and may Allāh allot him the good behaviour towards you.”
 
-    Reply: 'May Allāh bless every thing that He allots to you! May Allāh reward you by His forgiveness, allot a new-born like mine to you and give you an abundant retribution.'
+    Reply: “May Allāh bless every thing that He allots to you! May Allāh reward you by His forgiveness, allot a new-born like mine to you and give you an abundant retribution.”
 
     Al-Nawawī in _al-Athkār_ (p.\ 349). Also see _Ṣaḥīḥ al-Athkār li al-Imām al-Nawawī_ (2/713) by Shaykh Salīm al-Hilālī.
 
 146. <div lang="ar">أُعِيْذُكُمَا بِكَلِمَاتِ اللهِ التَّامَّةِ، مِنْ كُلِّ شَيْطَانٍ وَهـَامَّةٍ، وَمِنْ كُلِّ عَيْنٍ لامَّةٍ</div>
 
-    I commend you to the protection of Allāh’s perfect words from every devil, vermin, and every evil eye.
+    I commend you to the protection of Allāh's perfect words from every devil, vermin, and every evil eye.
 
     Al-Bukhārī (#3371, 4/119).
 
@@ -1103,17 +1113,19 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
     Al-Bukhārī (#3616, 10/118).
 
+<!-- TODO check capitalization of 'magnificent' and 'throne' -->
+
 148. <div lang="ar">أَسْأَلُ اللهَ العَظِيْمَ، رَبَّ العَرْشِ العَظِيْمِ، أَنْ يَشْفِيَكَ [سَبْعَ مَرَّاتٍ]</div>
 
-    I ask Allāh The Supreme, Lord of the magnificent throne to cure you. (Seven times)
+    I ask Allāh the Supreme, Lord of the magnificent throne to cure you. (Seven times)
 
-    Al-Tirmidhī [2083] and Abū Dāwud [3106]. Also see _Ṣaḥīḥ al-Tirmidhī_ (2/210) and _Ṣaḥīḥ al-Jāmiʿ_ (#5766, 5/180).
+    Al-Tirmidhī (#2083) and Abū Dāwud (#3106). Also see _Ṣaḥīḥ al-Tirmidhī_ (2/210) and _Ṣaḥīḥ al-Jāmiʿ_ (#5766, 5/180).
 
 149. <div lang="ar">إذَا عَادَ الرَّجُلُ أخَاهُ المُسْلِمَ، مَشَى فِي خِرَافَةِ الجَنَّةِ حَتَّى يَجْلِسَ، فَإذَا جَلَسَ غَمَرَتْهُ الرَّحْمَةُ،  فَإنْ كَانَ غُدْوَةً صَلَّى عَلَيْهِ سَبْعُونَ ألْفَ مَلَكٍ حَتَّى يُمْسِيَ، و إنْ كَانَ مَسَاءً صَلَّى عَلَيْهِ سَبْعُونَ ألْفَ مَلَكٍ حَتَّى يُصْبِحَ</div>
 
-    If a man calls on his sick Muslim brother, it is as if he walks reaping the fruits of Paradise until he sits, and when he sits he is showered in mercy, and if this was in the morning, seventy thousand angles send prayers upon him until the evening, and if this was in the evening, seventy thousand angles send prayers upon him until the morning.
+    If a man calls on his sick Muslim brother, it is as if he walks reaping the fruits of Paradise until he sits, and when he sits he is showered in mercy, and if this was in the morning, seventy thousand angels send prayers upon him until the evening, and if this was in the evening, seventy thousand angels send prayers upon him until the morning.
 
-    Al-Tirmidhī [969], Ibn Mājah [1442] and Aḥmad (1/97). Also see _Ṣaḥīḥ Ibn Mājah_ (1/244) and _Ṣaḥīḥ al-Tirmidhī_ (1/286). Shaykh Aḥmad Shākir also authenticated it.
+    Al-Tirmidhī (#969), Ibn Mājah (#1442) and Aḥmad (1/97). Also see _Ṣaḥīḥ Ibn Mājah_ (1/244) and _Ṣaḥīḥ al-Tirmidhī_ (1/286). Shaykh Aḥmad Shākir also authenticated it.
 
 150. <div lang="ar">اللَّهُمَّ اغْفِرْ لي، وَارْحَمْنِي، وَأَلْحِقْنِي بِالرَّفِيْقِ الأعْلَى</div>
 
@@ -1123,7 +1135,7 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
 151. <div lang="ar">لَا إِلَهَ إِلَّا اللهُ، إِنَّ للمَوْتِ سَكَرَاتٍ</div>
 
-    None has the right to be worshipped except Allāh, death does indeed contain agony.
+    None has the right to be worshiped except Allāh, death does indeed contain agony.
 
     Al-Bukhārī (#4449, 8/144).
 
@@ -1131,13 +1143,13 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
 152. <div lang="ar">لَا إلَهَ إلَّا اللهُ وَاللهُ أَكْبَرُ، لَا إلَهَ إلَّا اللهُ وحْدَهُ، لَا إلَهَ إلَّا اللهُ وَحْدَهُ لَا شَرِيْكَ لهُ، لَا إلَهَ إلَّا اللهُ لَهُ المُلْكُ ولَهُ الحَمْدُ، لَا إلَهَ إلَّا اللهُ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ</div>
 
-    None has the right to be worshipped except Allāh and Allāh is the greatest. None has the right to be worshipped except Allāh, alone. None has the right to be worshipped except Allāh, alone, without partner. None has the right to be worshipped except Allāh, to Him belongs all sovereignty and praise. None has the right to be worshipped except Allāh and there is no might and no power except with Allāh.
+    None has the right to be worshiped except Allāh and Allāh is the greatest. None has the right to be worshiped except Allāh, alone. None has the right to be worshiped except Allāh, alone, without partner. None has the right to be worshiped except Allāh, to Him belongs all sovereignty and praise. None has the right to be worshiped except Allāh and there is no might and no power except with Allāh.
 
-    Al-Tirmidhī [3430] and Ibn Mājah [3794]. Al-Albānī authenticated it. Also see _Ṣaḥīḥ al-Tirmidhī_ (3/152) and _Ṣaḥīḥ Ibn Mājah_ (2/317).
+    Al-Tirmidhī (#3430) and Ibn Mājah (#3794). Al-Albānī authenticated it. Also see _Ṣaḥīḥ al-Tirmidhī_ (3/152) and _Ṣaḥīḥ Ibn Mājah_ (2/317).
 
 153. <div lang="ar">لَا إلَهَ إلَّا اللهُ</div>
 
-    He, whose last words are 'None has the right to be worshipped except Allāh,' will enter Jannah.
+    He, whose last words are “None has the right to be worshiped except Allāh,” will enter Jannah.
 
     Abū Dāwud (#3116, 3/190). Also See _Ṣaḥīḥ al-Jāmiʿ_ (#6479, 5/432).
 
@@ -1151,9 +1163,11 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
 155. <div lang="ar">اللَّهُمَّ اغْفِرْ لِفُلانٍ (باسْمِهِ)، وَارْفَعْ دَرَجَتَهُ في المَهْدِيِّيْنَ، وَاخْلُفْهُ في عَقِبِهِ في الغَابِرِيْنَ، وَاغْفِرْ لَنَا وَلَهُ يَا رَبَّ العَالَمِيْنَ، وَافْسَحْ لَهُ في قَبْرِهِ وَنَوِّرْ لَهُ فِيْهِ</div>
 
-    O Allāh, forgive (name of deceased) and raise his rank among the rightly guided, and be a successor to whom he has left behind, and forgive us and him O Lord of the worlds. Make spacious his grave and illuminate it for him.
+    O Allāh, forgive (mention the name of the deceased) and raise his rank among the rightly guided, and be a successor to whom he has left behind, and forgive us and him, O Lord of the worlds. Make spacious his grave and illuminate it for him.
 
     Muslim (#920, 2/634).
+
+<!-- TODO Check if we should use "Garden" or "Paradise" -->
 
 156. <div lang="ar">اللَّهُمَّ اغْفِرْ لَهُ وَارْحَمْهُ، وَعافِهِ، وَاعْفُ عَنْهُ، وَأَكْرِمْ نُزُلَهُ، وَوَسِّعْ مُدْخَلَهُ، وَاغْسِلْهُ بِالْمَاءِ وَالثَّـلْجِ وَالْبَرَدِ، وَنَقِّهِ مِنَ الْخَطَايَا كَمَا نَقَّيْتَ الثَّوْبَ الأَبْيَضَ مِنَ الدَّنَسِ، وَأَبْدِلْهُ داراً خَيْراً مِنْ دَارِهِ، وَأَهْلاً خَيْراً مِنْ أَهْلِهِ، وَزَوْجَاً خَيْراً مِنْ زَوْجِهِ، وَأَدْخِلْهُ الْجَنَّةَ، وَأَعِذْهُ مِنْ عَذَابِ القَبْرِ(وَ عَذَابِ النَّارِ)</div>
 
@@ -1169,15 +1183,16 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
 158. <div lang="ar">اللَّهُمَّ إِنَّ فُلانَ بْنَ فُلانٍ في ذِمَّتِكَ، وَحَبْلِ جِوارِكَ، فَقِهِ مِنْ فِتْنَةِ الْقَبْرِ وَعَذَابِ النَّارِ، وَأَنْتَ أَهْلُ الْوَفاءِ وَالْحَقِّ، فَاغْفِرْ لَهُ، وَارْحَمْهُ، إِنَّكَ أَنْتَ الغَفُورُ الرَّحِيْمُ</div>
 
-    O Allāh, so-and-so is under Your care and protection so protect him from the trial of the grave and torment of the Fire. Indeed You are faithful and truthful. Forgive and have mercy upon him, surely You are The Oft-Forgiving, The Most-Merciful.
+    O Allāh, so-and-so is under Your care and protection so protect him from the trial of the grave and torment of the Fire. Indeed You are faithful and truthful. Forgive and have mercy upon him, surely You are the Oft-Forgiving, the Most Merciful.
 
     Ibn Mājah (#1499) and Abū Dāwud (3/211). Also see _Ṣaḥīḥ Ibn Mājah_ (1/251).
 
 <!-- TODO double check the following (ANDROID) -->
+<!-- Check if "overlook" is an apt word to use here -->
 
 159. <div lang="ar">اللَّهُمَّ عَبْدُكَ وَابْنُ أَمَتِكَ، احْتَاجَ إِلى رَحْمَتِكَ، وَأَنْتَ غَنِيٌّ عَنْ عَذَابِهِ، إِنْ كَانَ مُحْسِناً فَزِدْ في حَسَنَاتِهِ، وَإِنْ كَانَ مُسِيْئاً فَتَجَاوَزْ عَنْهُ</div>
 
-    O Allāh, Your servant and the son of Your maidservant is in need of Your mercy and You are without need of his punishment. If he was righteous then increase his reward and if he was wicked then look over his sins.
+    O Allāh, Your servant and the son of Your maidservant is in need of Your mercy and You are without need of his punishment. If he was righteous then increase his reward and if he was wicked then overlook his sins.
 
     Al-Hākim (1/359) and he authenticated it and al-Dhahabī agreed with him. Also see _Aḥkām al-Janāʾiz_ by al-Albānī (p.\ 125).
 
@@ -1187,7 +1202,7 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
     O Lord, protect him from the punishment of the grave. O Lord, make him a preceding reward and a stored treasure for his parents, and an answered intercessor. O Allāh, through him, make heavy their scales and magnify their reward. Unite him with the righteous believers, place him under the care of Ibrāhīm, and protect him by Your mercy from the torment of Hell. Give him in exchange a better residence and a better family than his. O Allāh, forgive our ancestors and our descendants and those who came before us with faith.
 
-    See _al-Mughnī_ by Ibn Qudāmah (3/416) and _al-Durūs al-Muhimmah li'āmah al-Ummah_ (p.\ 15) by Shaykh Ibn Bāz.
+    See _al-Mughnī_ by Ibn Qudāmah (3/416) and _al-Durūs al-Muhimmah li ʿāmah al-Ummah_ (p.\ 15) by Shaykh Ibn Bāz.
 
 161. <div lang="ar">اللَّهُمَّ اجْعَلْهُ لَنَا فَرَطاً، وَسَلَفاً، وَأَجْراً</div>
 
@@ -1197,13 +1212,13 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
 162. <div lang="ar">إِنَّ لِلَّهِ مَا أَخَذَ، وَلَهُ مَا أَعْطَى، وَكُلُّ شَيءٍ عِنْدَهُ بِأَجَلٍ مُسَمَّىً...فَلْتَصْبِرْ وَ لْتَحْتَسِبْ</div>
 
-    Verily to Allāh, belongs what He took and to Him belongs what He gave, and everything with Him has an appointed time.
+    Verily to Allāh belongs what He took and to Him belongs what He gave, and everything with Him has an appointed time.
 
     Al-Bukhārī (#1284, 2/80) and Muslim (#923, 2/636).
 
 163. <div lang="ar">بِسْمِ اللهِ، وَعَلَى سُنَّةِ رَسُولِ اللهِ</div>
 
-    In the name of Allāh and upon the sunnah of the Messenger of Allāh.
+    In the name of Allāh and upon the Sunnah of the Messenger of Allāh.
 
     Abū Dāwud (#3213, 3/314) with a ṣaḥīḥ chain and Aḥmad (2/40) with the phrase: (<div lang="ar">بسم الله و على ملة رسول الله</div>) and its chain is ṣaḥīḥ.
 
