@@ -35,6 +35,9 @@ Dua 214
 Dua 218
 Dua 220 (translation)
 Dua 230 (translation)
+Dua 231
+Dua 232 (reference) //different way
+Dua 235 (check uniformity with previous dua)
 <!-- END -->
 
 # Upon Waking up
@@ -1677,11 +1680,15 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
     Al-Bukhārī (#6361, 11/171) and Muslim (#2601, 4/2007).
 
+<!-- TODO translation -->
+
 231. <div lang="ar">قَالَ ﷺ: «إذَا كَانَ أحَدُكُمْ مَادِحاً صَاحِبَهُ لَا مَحَالَةَ؛ فَلْيَقُل: أحْسِبُ فُلَانًا: وَ اللهُ حَسِيْبُهُ، وَ لَا أُزَكِّي عَلَى اللهِ أحَداً: أحْسِبُهُ – إنْ كَانَ يَعْلمُ ذَاكَ – كَذَا وَ كَذَا»</div>
 
-    I deem so-and-so to be...and Allāh is his reckoner...and I don’t praise anyone, putting it (i.e. my praising) forward, in front of Allāh’s commendation, however I assume him so and so’(if he knows that of him).
+    I deem so-and-so to be...and Allāh is his reckoner...and I don't praise anyone, putting it (i.e. my praising) forward, in front of Allāh's commendation, however I assume him so and so(if he knows that of him).
 
     Muslim (#3000, 4/2296) and al-Bukhārī (#2662).
+
+<!-- TODO reference -->
 
 232. <div lang="ar">اللَّهُمَّ لَا تُؤَاخِذْنِي بِمَا يَقُولُونَ، وَ اغْفِرْ لِي مَا لاَ يَعْلَمُونَ [وَ اجْعَلْنِي خَيْراً مِمَّا يَظُنُّونَ]</div>
 
