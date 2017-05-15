@@ -28,6 +28,13 @@ Dua 179
 Dua 184 (Reference)
 Dua 188
 Dua 204
+Dua 205 (Reference translation)
+Dua 207
+Dua 212 (translation)
+Dua 214
+Dua 218
+Dua 220 (translation)
+Dua 230 (translation)
 <!-- END -->
 
 # Upon Waking up
@@ -1492,7 +1499,7 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
 205. <div lang="ar">اللَّهُمَّ لَا طَيْرَ إِلَّا طَيْرُكَ، وَلَا خَيْرَ إِلَّا خَيْرُكَ، وَلَا إِلَهَ غَيْرُكَ</div>
 
-    O Allāh, there is no omen but there is reliance on You, there is no good except Your good and none has the right to be worshipped except You.
+    O Allāh, there is no omen but there is reliance on You, there is no good except Your good and none has the right to be worshiped except You.
 
     [TO DO]
 
@@ -1507,10 +1514,10 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
     (١) اللَّهُ أَكْبَرُ، اللَّهُ أَكْبَرُ، اللَّهُ أَكْبَرُ ﴿سُبْحَانَ الَّذِيْ سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِيْنَ، وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ﴾ اللَّهُمَّ إِنَّا نَسْأَلُكَ فِي سَفَرِنَا هَذَا الْبِرَّ وَالتَّقْوَى، وَمِنَ الْعَمَلِ مَا تَرْضَى، اللَّهُمَّ هَوِّنْ عَلَيْنَا سَفَرَنَا هَذَا وَاطْوِعَنَّا بُعْدَهُ، اللَّهُمَّ أَنْتَ الصَّاحِبُ فِي السَّفَرِ، وَالْخَلِيْفَةُ فِي الأَهْلِ، اللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنْ وَعْثَاءِ السَّفَرِ، وَكآبَةِ الْمَنْظَرِ وَسُوءِ المُنْقَلَبِ فِي الْمَالِ وَالأَهْلِ
     (٢) آيِبُونَ، تَائِبُونَ، عَابِدُونَ، لِرَبِّنَا حَامِدُونَ
 
-    (1) Allāh is the greatest, Allāh is the greatest, Allāh is the greatest, How perfect He is, The One Who has placed this (transport) at our service, and we ourselves would not have been capable of that, and to our Lord is our final destiny. O Allāh, we ask You for birr and taqwa in this journey of ours, and we ask You for deeds which please You. O Allāh, facilitate our journey and let us cover it’s distance quickly. O Allāh, You are The Companion on the journey and The Successor over the family, O Allāh, I take refuge with You from the difficulties of travel, from having a change of hearts and being in a bad predicament, and I take refuge in You from an ill fated outcome with wealth and family.
+    (1) Allāh is the greatest, Allāh is the greatest, Allāh is the greatest, How perfect He is, The One Who has placed this (transport) at our service, and we ourselves would not have been capable of that, and to our Lord is our final destiny. O Allāh, we ask You for birr and taqwā in this journey of ours, and we ask You for deeds which please You. O Allāh, facilitate our journey and let us cover its distance quickly. O Allāh, You are the Companion on the journey and the Successor over the family, O Allāh, I take refuge with You from the difficulties of travel, from having a change of hearts and being in a bad predicament, and I take refuge in You from an ill fated outcome with wealth and family.
 
     Upon returning the same supplication is recited with the following addition:  
-    (2) 'We return, repent, worship and praise our Lord.'
+    (2) “We return, repent, worship and praise our Lord.”
 
     Muslim (#1342, 2/998).
 
@@ -1518,11 +1525,11 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
     O Allāh, Lord of the seven heavens and all that they envelop, Lord of the seven earths and all that they carry, Lord of the devils and all whom they misguide, Lord of the winds and all whom they whisk away. I ask You for the goodness of this village, the goodness of its inhabitants and for all the goodness found within it and I take refuge with You from the evil of this village, the evil of its inhabitants and from all the evil found within it.
 
-    Al-Hākim (2/100) and he authenticated it and al-Dhahabī agreed with him, Ibn al-Sunnī [524], Al-Ḥāfiẓ declared it ḥasan in _Takrīj al-Athkār_ (5/154). Shaykh Ibn Bāz said that it has been narrated by al-Nasāʾī in _ʿAmal al-Yawm wa al-Laylah_ [547-548] with a ḥasan chain. Also see _Tuḥfah al-Akhyār_ (p.\ 37).
+    Al-Hākim (2/100) and he authenticated it and al-Dhahabī agreed with him, Ibn al-Sunnī (#524), Al-Ḥāfiẓ declared it ḥasan in _Takrīj al-Athkār_ (5/154). Shaykh Ibn Bāz said that it has been narrated by al-Nasāʾī in _ʿAmal al-Yawm wa al-Laylah_ (#547--548) with a ḥasan chain. Also see _Tuḥfah al-Akhyār_ (p.\ 37).
 
 209. <div lang="ar">لَا إلَهَ إلَّا اللهُ وَحْدَهُ لَا شَرِيْكَ لَهُ، لَهُ المُلْكُ وَلَهُ الحَمْدُ، يُحْيِي وَيُمِيْتُ، وَهُوَ حَيٌّ لَا يَمُوتُ، بِيَدِهِ الْخَيْرُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرٌ</div>
 
-    None has the right to be worshipped except Allāh, alone, without partner, to Him belongs all sovereignty and praise. He gives life and causes death, and He is living and does not die. In His hand is all good and He is over all things, omnipotent.
+    None has the right to be worshiped except Allāh, alone, without partner, to Him belongs all sovereignty and praise. He gives life and causes death, and He is living and does not die. In His hand is all good and He is over all things, omnipotent.
 
     Al-Tirmidhī (#3429, 5/291), al-Hākim (1/538) and Ibn Mājah (#2235). Al-Albānī classed it as ḥasan in _Ṣaḥīḥ Ibn Mājah_ (2/21) and _Ṣaḥīḥ al-Tirmidhī_ (3/152).
 
@@ -1538,15 +1545,17 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
     Aḥmad (2/403) and Ibn Mājah (#2825, 2/943). Also see _Ṣaḥīḥ Ibn Mājah_ (2/133).
 
+<!-- TODO check translation -->
+
 212. <div lang="ar">أَسْتَوْدِعُ اللَّهَ دِيْنَكَ، وَأَمَانَتَكَ، وَخَوَاتِيْمَ عَمَلِكَ</div>
 
-    I place your religion, your faithfulness and the ends of your deeds in the trust of Allāh.
+    I place your religion, your faith and the ends of your deeds in the trust of Allāh.
 
     Aḥmad (2/7) and al-Tirmidhī (#3443, 5/499). Also see _Ṣaḥīḥ al-Tirmidhī_ (2/155).
 
 213. <div lang="ar">زَوَّدَكَ اللَّهُ التَّقْوَى، وَغَفَرَذَنْبَكَ، وَيَسَّرَ لَكَ الخَيْرَ حَيْثُمَا كُنْتَ</div>
 
-    May Allāh endow you with taqwa, forgive your sins and facilitate all good for you, wherever you be.
+    May Allāh endow you with taqwā, forgive your sins and facilitate all good for you, wherever you be.
 
     Al-Tirmidhī (#3444). Also see _Ṣaḥīḥ al-Tirmidhī_ (3/155).
 
@@ -1557,19 +1566,19 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
     (١) اللهُ أَكْبَرُ<br>
     (٢) سُبْحَانَ اللهُ
 
-    When ascending, recite (1) 'Allāh is the greatest,' and when descending, recite (2) 'How perfect is Allāh.'
+    When ascending, recite (1) “Allāh is the greatest,” and when descending, recite (2) “How perfect is Allāh.”
 
     Al-Bukhārī (#2993, 6/135).
 
 215. <div lang="ar">سَمَّعَ سَامِعٌ بِحَمْدِ اللهِ، وَحُسْنِ بَلائِهِ عَلَيْنَا،.رَبَّنَا صَاحِبْنَا، وَأَفْضِلْ عَلَيْنَا عَائِذاً باللهِ مِنَ النَّارِ</div>
 
-    May a witness, be witness to our praise of Allāh for His favours and bounties upon us. Our Lord, protect us, show favour on us and deliver us from every evil. I take refuge in Allāh from the fire.
+    May a witness be witness to our praise of Allāh for His favors and bounties upon us. Our Lord, protect us, show favor on us and deliver us from every evil. I take refuge in Allāh from the Fire.
 
     Muslim (#2718, 4/2086).
 
 216. <div lang="ar">أَعُوذُ بِكَلِمَاتِ اللّهِِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ</div>
 
-    I take refuge in Allāh’s perfect words from the evil that He has created.
+    I take refuge in Allāh's perfect words from the evil that He has created.
 
     Muslim (#2708, 4/2080).
 
@@ -1586,57 +1595,59 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
     (١) الحَمْدُ لِلَّهِ الَّذِيْ بِنِعْمَتِهِ تَتِمُّ الصَّالِحَاتُ
     (٢) الحَمْدُ لِلَّهِ عَلَى كُلِّ حَالٍ
 
-    Upon receiving good news, say: (1) 'All Praise is for Allāh by whose favour good works are accomplished.'
+    Upon receiving good news, say: (1) “All Praise is for Allāh by whose favour good works are accomplished.”
 
-    Upon receiving bad news, say: (2) 'All Praise is for Allāh in all circumstances.'
+    Upon receiving bad news, say: (2) “All Praise is for Allāh in all circumstances.”
 
-    Ibn al-Sunnī in _ʿAmal al-Yawm wa al-Laylah_ [378] and al-Hākim (1/499) and he authenticated it. Al-Albānī authenticated it in _Ṣaḥīḥ al-Jāmiʿ_ (#4640, 4/201).
+    Ibn al-Sunnī in _ʿAmal al-Yawm wa al-Laylah_ (#378) and al-Hākim (1/499) and he authenticated it. Al-Albānī authenticated it in _Ṣaḥīḥ al-Jāmiʿ_ (#4640, 4/201).
 
 219. <div lang="ar">قَالَ ﷺ: «مَنْ صَلَّ عَلَيَّ صَلاةً صَلَّ اللهُ عَلَيْهِ بِهَا عَشَراً»</div>
 
-    The Prophet \pbuh said: 'Whoever sends a prayer upon me, Allāh sends ten upon him.'
+    The Prophet \pbuh said: “Whoever sends a prayer upon me, Allāh sends ten upon him.”
 
     Muslim (#408, 1/288).
 
+<!-- TODO check translation -->
+
 220. <div lang="ar">قَالَ ﷺ: «لا تَجْعَلُوا قَبْرِيْ عِيْداً وَ صَلُّوا عَلَيَّ فَإِنَّ صَلاتَكُمْ تَبْلُغُنِي حَيْثُ كُنْتُمْ»</div>
 
-    The Prophet \pbuh said: 'Do not take my grave as a place of habitual ceremony. Send prayers upon me, for verily your prayers reach me wherever you are.'
+    The Prophet \pbuh said: “Do not take my grave as a place of habitual ceremony. Send prayers upon me, for verily your prayers reach me wherever you are.”
 
     Abū Dāwud (#2042, 2/218) and Aḥmad (2/367). Al-Albānī authenticated it in _Ṣaḥīḥ Abī Dāwud_ (2/383).
 
 221. <div lang="ar">قَالَ ﷺ: «البَخِيْلُ مَنْ ذُكِرْتُ عِنْدَهُ فَلَمْ يُصَلِّ عَلَيَّ»</div>
 
-    The Prophet \pbuh said: 'A miser is one whom when I am mentioned to him, fails to send prayers upon me.'
+    The Prophet \pbuh said: “A miser is one whom when I am mentioned to him, fails to send prayers upon me.”
 
     Al-Tirmidhī (#3546, 5/551). Also see _Ṣaḥīḥ al-Jāmiʿ_ (#2787, 3/25) and _Ṣaḥīḥ al-Tirmidhī_ (3/177).
 
 222. <div lang="ar">قَالَ ﷺ: «إنَّ لِلَّهِ مَلائِكَةً سَيَّا حِيْنَ فِي الأرْضِ، يُبَلِّغُونِي مِنْ أُمَّتِي السَّلامَ»</div>
 
-    The Prophet \pbuh: 'Allāh exalted He is has got angels scouring the earth to spread the salutations of my community.'
+    The Prophet \pbuh: “Allāh exalted is He, has got angels scouring the earth to spread the salutations of my community.”
 
     Al-Nasāʾī (3/43) and al-Hākim (2/421). Al-Albānī authenticated it in _Ṣaḥīḥ al-Nasāʾī_ (1/274).
 
 223. <div lang="ar">قَالَ ﷺ: «مَا مِنْ أحَدٍ يُسَلِّمُ عَلَيَّ، إلَّا رَدَّ اللهُ عَلَيَّ رُوْحي، حَتَّى أرُدَّ عَلَيْهِ السَّلامَ»</div>
 
-    The Prophet \pbuh said: 'Every time somebody greets me, Allāh gives me back my soul for me to answer this greeting.'
+    The Prophet \pbuh said: “Every time somebody greets me, Allāh gives me back my soul for me to answer this greeting.”
 
-    Abū Dāwud (2041). Al-Albānī declared it ḥasan in _Ṣaḥīḥ Abī Dāwud_ (1/283).
+    Abū Dāwud (#2041). Al-Albānī declared it ḥasan in _Ṣaḥīḥ Abī Dāwud_ (1/283).
 
 224. <div lang="ar">قَالَ ﷺ: «لا تَدْخُلُوا الجَنَّة حَتَّى تُؤمِنُوا، وَ لَا تُؤمِنُوا حَتَّى تَحَابُّوا، أَوَلَا أدُلُّكُمْ عَلَى شَيْءٍ إذَا فَعَلْتُمُوهُ تَحَابَبْتُمْ، أَفْشُوا السَّلامَ بَيْنَكُمْ»</div>
 
-    The Prophet \pbuh said: 'You shall not enter paradise until you believe, and you shall not believe until you love one another. Shall I not inform you of something, if you were to act upon it, you will indeed achieve mutual love for one another? Spread the Salām amongst yourselves.'
+    The Prophet \pbuh said: “You shall not enter paradise until you believe, and you shall not believe until you love one another. Shall I not inform you of something, if you were to act upon it, you will indeed achieve mutual love for one another? Spread the Salām amongst yourselves.”
 
     Muslim (#54, 1/74).
 
 225. <div lang="ar">قَالَ عمار بن ياسر(رضي الله عنه): «ثَلاثٌ مَنْ جَمَعَهُنَّ فَقَدْ جَمَعَ الإيْمَانَ: الإنْصَافُ مِنْ نَفْسِكَ، و بَذْلُ السَّلامِ لِلْعَالَمِ، و الإنْفَاقُ مِنَ الإقْتَارِ»</div>
 
-    ʿAmmār bin Yāsir said: 'Three characteristics, whoever combines them, has completed his faith: to be just, to spread greetings to all people and to spend (charitably) out of the little you have.'
+    ʿAmmār bin Yāsir said: “Three characteristics, whoever combines them, has completed his faith: to be just, to spread greetings to all people and to spend (charitably) out of the little you have.”
 
-    Al-Bukhārī [Before ḥadīth[28]](1/82).
+    Al-Bukhārī (before ḥadīth #28, 1/82).
 
 226. <div lang=ar">وَ عَنْ عَبْدِاللهِ بِنْ عَمْرٍو(رضي الله عنه): «أنَّ رَجُلاً سَأَلَ النَّبِيَّ ﷺ أيُّ الإسْلامِ خَيْرٌ؟» قَالَ: «تُطْعِمُ الطَّعَامَ، وَتَقْرَأُ السَّلامَ عَلَى مَنْ عَرَفْتَ وَ مَنْ لَمْ تَعْرِف»</div>
 
-    ʿAbd Allāh Ibn ʿAmr reported that a man asked the Prophet \pbuh: ‘Which Islam is the best?’. He \pbuh replied : 'Feed (the poor), and greet those whom you know as well as those whom you do not.’
+    ʿAbd Allāh Ibn ʿAmr reported that a man asked the Prophet \pbuh: “Which Islam is the best?” He \pbuh replied, “Feed (the poor), and greet those whom you know as well as those whom you do not.”
 
     Al-Bukhārī (#12, 1/55) and Muslim (#39, 1/65).
 
@@ -1654,13 +1665,15 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
 229. <div lang="ar">أَعُوذُ بِاللهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ</div>
 
-    If you hear the barking of dogs or the braying of asses at night, seek refuge in Allāh for they see what you do not.
+    If you hear the barking of dogs or the braying of donkeys at night, seek refuge in Allāh for they see what you do not.
 
     Abū Dāwud (#5103, 4/327) and Aḥmad (3/306). Al-Albānī authenticated it in _Ṣaḥīḥ Abī Dāwud_ (3/961).
 
+<!-- TODO check translation -->
+
 230. <div lang="ar">اللَّهُمَّ فأَيُّمَا مُؤْمِنٍ سَبَبْتُهُ؛ فَاجْعَلْ ذَلِكَ لَهُ قُرْبَةً إلَيْكَ يَوْمَ القِيَامَةِ</div>
 
-    O Allāh, to any believer whom I have insulted, let that be cause to draw him near to You on the Day of Resurrection.
+    O Allāh, to any believer whom I have insulted, let that be cause to draw him near You on the Day of Resurrection.
 
     Al-Bukhārī (#6361, 11/171) and Muslim (#2601, 4/2007).
 
