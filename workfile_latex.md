@@ -26,6 +26,8 @@ Dua 131
 Dua 139
 Dua 179
 Dua 184 (Reference)
+Dua 188
+Dua 204
 <!-- END -->
 
 # Upon Waking up
@@ -1374,11 +1376,11 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
 187. <div lang="ar">اللَّهُمَّ بَارِكْ لَنَا فِي ثَمَرِنَا، وَبَارِكْ لَنَا فِي مَدِيْنَتِنَا، وَبَارِكْ لَنَا فِي صَاعِنَا، وَبَارِكْ لَنَا فِي مُدِّنَا</div>
 
-    O Allāh, bless our fruit for us, bless our town for us, bless our saAA for us and bless our mudd for us.
+    O Allāh, bless our fruit for us, bless our town for us, bless our ṣāʿ for us and bless our mudd for us.
 
     Muslim (#1373, 2/1000).
 
-<!-- TODO double check the ollowing -->
+<!-- TODO double check the following -->
 
 188. <div lang="ar"></div>
 
@@ -1386,7 +1388,7 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
     (٢) يَرْحَمُكَ اللهُ
     (٣) يَهْدِيْكُمُ اللهُ وَيُصْلِحُ بَالَكُمْ
 
-    When one of you sneezes, say: (1) 'All praise if for Allāh,' then his brother or companion should reply: (2) 'May Allāh have mercy upon you.' and the one who sneezed replies back by saying (3) 'May Allāh guide you and rectify your condition.'
+    When one of you sneezes, say: (1) “All praise if for Allāh,” then his brother or companion should reply: (2) “May Allāh have mercy upon you.” and the one who sneezed replies by saying (3) “May Allāh guide you and rectify your condition.”
 
     Al-Bukhārī (#6224, 7/125).
 
@@ -1400,7 +1402,7 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
     May Allāh bless for you (your spouse) and bless you, and may He unite both of you in goodness.
 
-    Abū Dāwud [2130], al-Tirmidhī [1091], and Ibn Mājah [1905]. Also see _Ṣaḥīḥ Ibn Mājah_ (1/324).
+    Abū Dāwud (#2130), al-Tirmidhī (#1091), and Ibn Mājah (#1905). Also see _Ṣaḥīḥ Ibn Mājah_ (1/324).
 
 191. <div lang="ar">اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَهَا، وَخَيْرَ مَا جَبَلْتَهَا عَلَيْهِ، وَأَعُوذُ بِكَ مِنْ شَرِّهَا، وَشَرِّ مَا جَبَلْتَهَا عَلَيْهِ</div>
 
@@ -1422,21 +1424,21 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
 194. <div lang="ar">الْحَمْدُ لِلَّهِ الَّذِيْ عَافَانِي مِمَّا ابْتَلاكَ بِهِ، وَفَضَّلَنِي عَلَى كَثِيْرٍ مِمَّنْ خَلَقَ تَفْضِيْلاً</div>
 
-    All praise is for Allāh Who saved me from that which He tested you with and Who most certainly favoured me over much of His creation.
+    All praise is for Allāh Who saved me from that which He tested you with and Who most certainly favored me over much of His creation.
 
     Al-Tirmidhī (#3432, 5/493, 494). Also see _Ṣaḥīḥ al-Tirmidhī_ (3/153).
 
 195. <div lang="ar">رَبِّ اغْفِرْ لي، وَتُبْ عَلَـيَّ، إِنَّكَ أَنْتَ التَّوَّابُ الغَفُورُ</div>
 
-    O my Lord, forgive me and turn towards me (to accept my repentance). Verily You are The Oft-Returning. The Oft-Forgiving.
+    O my Lord, forgive me and turn towards me (to accept my repentance). Verily You are the Oft-Returning, the Oft-Forgiving.
 
-    Al-Tirmidhī [3432]. Also see _Ṣaḥīḥ al-Tirmidhī_ (3/153) and _Ṣaḥīḥ Ibn Mājah_ (2/321) and the wording is al-Tirmidhī's.
+    Al-Tirmidhī (#3432). Also see _Ṣaḥīḥ al-Tirmidhī_ (3/153) and _Ṣaḥīḥ Ibn Mājah_ (2/321) and the wording is al-Tirmidhī's.
 
 196. <div lang="ar">سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا أَنْتَ، أَسْتَغْفِرُكَ وَأَتُوبُ إِلَيْكَ</div>
 
-    How perfect You are O Allāh, and I praise You. I bear witness that None has the right to be worshipped except You. I seek Your forgiveness and turn to You in repentance.
+    How perfect You are O Allāh, and I praise You. I bear witness that None has the right to be worshiped except You. I seek Your forgiveness and turn to You in repentance.
 
-    Abū Dāwud [4859], al-Tirmidhī [3433], and al-Nasāʾī in _ʿAmal al-Yawm wa al-Laylah_ [397]. Also see _Ṣaḥīḥ al-Tirmidhī_ (3/153).
+    Abū Dāwud (#4859), al-Tirmidhī (#3433), and al-Nasāʾī in _ʿAmal al-Yawm wa al-Laylah_ (#397). Also see _Ṣaḥīḥ al-Tirmidhī_ (3/153).
 
 197. <div lang="ar">وَلَكَ</div>
 
@@ -1448,7 +1450,7 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
     May Allāh reward you with good.
 
-    Al-Tirmidhī [2035]. Also see _Ṣaḥīḥ al-Jāmiʿ_ [6244] and _Ṣaḥīḥ al-Tirmidhī_ (2/200).
+    Al-Tirmidhī (#2035). Also see _Ṣaḥīḥ al-Jāmiʿ_ (#6244) and _Ṣaḥīḥ al-Tirmidhī_ (2/200).
 
 199. <div lang="ar">مَنْ حَفِظَ عَشَرَ آيَاتٍ مِنْ أوُّلِ سُورَةِ الكَهْفِ، عُصِمَ مِنَ الدَّجَّالِ</div>
 
@@ -1472,7 +1474,7 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
     May Allāh bless for you, your family and wealth. Surely commendation and payment are the reward for a loan.
 
-    Al-Nasāʾī ind _ʿAmal al-Yawm wa al-Laylah_ (#372, p.\ 300) and Ibn Mājah (#2424, 2/809). Also see _Ṣaḥīḥ Ibn Mājah_ (2/55).
+    Al-Nasāʾī in _ʿAmal al-Yawm wa al-Laylah_ (#372, p.\ 300) and Ibn Mājah (#2424, 2/809). Also see _Ṣaḥīḥ Ibn Mājah_ (2/55).
 
 203. <div lang="ar">اللَّهُمَّ إِنِّي أَعُوذُبِكَ أَنْ أُشْرِكَ بِكَ وَأَنَا أَعْلَمُ، وَأَسْتَغْفِرُكَ لِمَا لَا أَعْلَمُ</div>
 
@@ -1484,7 +1486,7 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
     May Allāh bless you.
 
-    Ibn al-Sunnī (#278, p.\ 138). Also see Ibn Qayyim's _al-Wabil al-Ṣayyib_ (p.\ 304) with research by Bashīr Muḥammad ʿUyun.
+    Ibn al-Sunnī (#278, p.\ 138). Also see Ibn Qayyim's _al-Wābil al-Ṣayyib_ (p.\ 304) with research by Bashīr Muḥammad ʿUyūn.
 
 <!-- TODO COMPLETE IT double check the following -->
 
