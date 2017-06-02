@@ -3,9 +3,7 @@
 - Determing a more clear reference for different pages in a volume.
 
 <!-- Please check the following dua -->
-Dua 19
-Dua 20
-Dua 23
+Dua 20 --> This has great problems. Especially the reference.
 Dua 32
 Dua 37
 Dua 40
@@ -178,43 +176,33 @@ Dua 265 (Complete the Reference)
 
 <!-- TODO double check the following -->
 
-19. <div lang="ar"></div>
-
-    اللَّهُمَّ اجْعَلْ فِي قَلْبِي نُوْراً، وَفِي لِسَانِي نُوْراً، وَ فِي سَمْعِي نُوْراً، وَ فِي بَصَري نُوْراً، وَ مِنْ فَوقِي نُوْراً، وَمِنْ تحْتِي نُوْراً، وَعَنْ يَمِيْنِي نُوْراً، وَ عَنْ شِمَالِي  نُوْراً، وَ مِنْ أَمَامِي نُوْراً، وَ مِنْ خَلْفِي نُوراً، واجْعَلْ فِي نَفْسِي نُوراً، وَ أعْظِمْ لي نُوراً، وَ عَظِّمْ لي نُوراً، وَاجْعَلْ لي نُوراً، وَاجْعَلْنِي نُوراً، اللهم أَعْطِنِي نُوراً، وَاجْعَلْ في عَصَبِي نُوراً، وَ في لَحْمِي نُوراً، وَ في دَمِي نُوراً، وَ في شَعْرِي نُوراً، وَ في بَشَرِي نُوراً<sup><small>(١)</small></sup>.
-    [اللهم اجْعَلْ لي نُوراً في قَبْرِي...وَ نُوراً في عِظَامِي]<sup><small>(٢)</small></sup>
-    [وَ زِدْنِي نُوراً، وَ زِدْنِي نُوراً، وَ زِدْنِي نُوراً]<sup><small>(١)</small></sup>
-    [وَهَبْ لِي نُوراً عَلَى نُورٍ]<sup><small>(٢)</small></sup>.
+19. <div lang="ar">اللَّهُمَّ اجْعَلْ فِي قَلْبِي نُوْراً، وَفِي لِسَانِي نُوْراً، وَ فِي سَمْعِي نُوْراً، وَ فِي بَصَري نُوْراً، وَ مِنْ فَوقِي نُوْراً، وَمِنْ تحْتِي نُوْراً، وَعَنْ يَمِيْنِي نُوْراً، وَ عَنْ شِمَالِي  نُوْراً، وَ مِنْ أَمَامِي نُوْراً، وَ مِنْ خَلْفِي نُوراً، واجْعَلْ فِي نَفْسِي نُوراً، وَ أعْظِمْ لي نُوراً، وَ عَظِّمْ لي نُوراً، وَاجْعَلْ لي نُوراً، وَاجْعَلْنِي نُوراً، اللهم أَعْطِنِي نُوراً، وَاجْعَلْ في عَصَبِي نُوراً، وَ في لَحْمِي نُوراً، وَ في دَمِي نُوراً، وَ في شَعْرِي نُوراً، وَ في بَشَرِي نُوراً<sup>[1]</sup>. [اللهم اجْعَلْ لي نُوراً في قَبْرِي...وَ نُوراً في عِظَامِي]<sup>[2]</sup> [وَ زِدْنِي نُوراً، وَ زِدْنِي نُوراً، وَ زِدْنِي نُوراً]<sup>[1]</sup> [وَهَبْ لِي نُوراً عَلَى نُورٍ]<sup>[2]</sup>.</div>
 
     O Allāh, place within my heart light, and upon my tongue light, and within my ears light, and within my eyes light, and place behind me light and in front of me light and above me light and beneath me light. O Allāh, bestow upon me light.
 
-    (1) Al-Bukhārī (#6316, 11/116) and Muslim (#763, 1/526,529,530).  
-    (2) Al-Tirmidhī (#3419, 5/483).
+    [1] Al-Bukhārī (#6316, 11/116) and Muslim (#763, 1/526,529,530).  
+    [2] Al-Tirmidhī (#3419, 5/483).
 
 <!-- TODO double check the following – Translation of ref (5) -->
 
-20. <div lang="ar"></ar>
+20. <div lang="ar">(يَبْدَأُ بِرِجْلِهِ اليُمْنَى)<sup>[1]</sup>، ويقول: (أَعُوْذُ بِاللَّهِ الْعَظِيمِ، وَبِوَجْهِهِ الْكَرِيمِ، وَسُلْطَانِهِ الْقَدِيمِ، مِنَ الشَّيْطَانِ الرَّجِيمِ)<sup>[2]</sup>، (بِسْمِ اللَّهِ, وَالصَّلاةُ)<sup>[3]</sup>. [وَالسَّلامُ عَلَى رَسُوْلِ اللَّهِ]<sup>[4]</sup>، (اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ)<sup>[5]</sup>.</ar>
 
-    (يَبْدَأُ بِرِجْلِهِ اليُمْنَى)<sup><small>(١)</small></sup>، ويقول: (أَعُوْذُ بِاللَّهِ الْعَظِيمِ، وَبِوَجْهِهِ الْكَرِيمِ، وَسُلْطَانِهِ الْقَدِيمِ، مِنَ الشَّيْطَانِ الرَّجِيمِ)<sup><small>(٢)</small></sup>، (بِسْمِ اللَّهِ, وَالصَّلاةُ)<sup><small>(٣)</small></sup>. [وَالسَّلامُ عَلَى رَسُوْلِ اللَّهِ]<sup><small>(٤)</small></sup>، (اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ)<sup><small>(٥)</small></sup>.
+    (Enter with your right foot<sup>[1]</sup> and say:) “I take refuge with Allāh, the Supreme and with His Noble Face, and His eternal authority from the accursed devil.<sup>[2]</sup> In the name of Allāh, and prayers<sup>[3]</sup> and peace be upon the Messenger of Allāh.<sup>[4]</sup> O Allāh, open the gates of Your mercy for me.”<sup>[5]</sup>
 
-    I take refuge with Allāh, The Supreme and with His Noble Face, and His eternal authority from the accursed devil. In the name of Allāh, and prayers and peace be upon the Messenger of Allāh. O Allāh, open the gates of Your mercy for me.
-
-    (1) Al-Ḥākim (1/218) and he authenticated it with the conditions of Muslim and al-Dhahabī agreed with him, al-Bayhaqī (2/442), and al-Albānī declared it ḥasan in _Silsilah al-Ahādīth al-Ṣaḥīḥah_ (#2478, 5/624).  
-    (2) Abū Dāwud (#466). Also see _Ṣaḥīḥ al-Jāmiʿ_ (#4591).  
-    (3) Al-Nisā'i (#88) and Al-Albānī declared it ḥasan.  
-    (4) Abū Dāwud (#465, 1/126). Also see _Ṣaḥīḥ al-Jāmiʿ_ (#514, 1/528).  
-    (5) Muslim (#713, 1/494), and Ibn Mājah (#771) from the ḥadīth of Fāṭimah with the wording (<div lang="ar">اللهم اغفرلي ذنوبي، وافتح لي أبواب رحمتك</div>) and al-Albānī declared it ṣaḥīḥ due to its shawāhid; see _Ṣaḥīḥ Ibn Mājah_ (1/128-129).
+    [1] Al-Ḥākim (1/218) and he authenticated it with the conditions of Muslim and al-Dhahabī agreed with him, al-Bayhaqī (2/442), and al-Albānī declared it ḥasan in _Silsilah al-Ahādīth al-Ṣaḥīḥah_ (#2478, 5/624).  
+    [2] Abū Dāwud (#466). Also see _Ṣaḥīḥ al-Jāmiʿ_ (#4591).  
+    [3] Al-Nisā'i (#88) and Al-Albānī declared it ḥasan.  
+    [4] Abū Dāwud (#465, 1/126). Also see _Ṣaḥīḥ al-Jāmiʿ_ (#514, 1/528).  
+    [5] Muslim (#713, 1/494), and Ibn Mājah (#771) from the ḥadīth of Fāṭimah with the wording (<div lang="ar">اللهم اغفرلي ذنوبي، وافتح لي أبواب رحمتك</div>) and al-Albānī declared it ṣaḥīḥ due to its shawāhid; see _Ṣaḥīḥ Ibn Mājah_ (1/128-129).
 
 <!-- TODO double check the following -->
 
-21. <div lang="ar"></div>
+21. <div lang="ar">(يَبْدَأُ بِرِجْلِهِ الْيُسْرَى)<sup>[1]</sup> وَ يَقُولُ: (بِسْمِ اللهِ وَ الصَّلاةُ وَالسَّلامُ عَلَى رَسُولِ اللهِ، اللهم إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ، اللهم اعْصِمْنِي مِنَ الشَّيْطَانِ الرَّجِيْمِ)<sup>[2]</sup>.</div>
 
-    (يَبْدَأُ بِرِجْلِهِ الْيُسْرَى)<sup><small>(١)</small></sup> وَ يَقُولُ: (بِسْمِ اللهِ وَ الصَّلاةُ وَالسَّلامُ عَلَى رَسُولِ اللهِ، اللهم إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ، اللهم اعْصِمْنِي مِنَ الشَّيْطَانِ الرَّجِيْمِ)<sup><small>(٢)</small></sup>. 
+    (Exit with your left foot and say:)<sup>[1]</sup> “In the name of Allāh, and prayers and peace be upon the Messenger of Allāh. O Allāh, I ask You from Your favor. O Allāh, guard me from the accursed devil.”<sup>[2]</sup>
 
-    Start with your left foot and then say:  
-    “In the name of Allāh, and prayers and peace be upon the Messenger of Allāh. O Allāh, I ask You from Your favor. O Allāh, guard me from the accursed devil.”
-
-    (1) Al-Ḥākim (1/218), al-Bayhaqī (2/442) and al-Albānī declared it ḥasan in _Silsilah al-Ahādīth al-Ṣaḥīḥah_ (#2478, 5/624).  
-    (2) See takhrīj of the previous ḥadīth (duʿā #20) and the extension (<div lang="ar">اللهم اعصمني من الشيطان الرجيم</div>) is from Ibn Mājah (#773), see _Ṣaḥīḥ Ibn Mājah_ (1/129).
+    [1] Al-Ḥākim (1/218), al-Bayhaqī (2/442) and al-Albānī declared it ḥasan in _Silsilah al-Ahādīth al-Ṣaḥīḥah_ (#2478, 5/624).  
+    [2] See takhrīj of the previous ḥadīth (duʿā #20) and the extension (<div lang="ar">اللهم اعصمني من الشيطان الرجيم</div>) is from Ibn Mājah (#773), see _Ṣaḥīḥ Ibn Mājah_ (1/129).
 
 22. <div lang="ar">يَقُولُ مِثْلَ مَا يَقُولُ المُؤَذِّنُ إلَّا فِي «حَيَّ عَلَى الصَّلاةِ» وَ «حَيَّ عَلَى الفَلاحِ» فَيَقُولُ: «لَا حَولَ وَ لَا قُوَّةَ إلَّا بِاللهِ».</div>
 
@@ -222,18 +210,12 @@ Dua 265 (Complete the Reference)
 
     Al-Bukhārī (#611, 1/152) and Muslim (#383, 1/288).
 
-<!-- TODO double check the following (ANDROID) -->
+23. <div lang="ar">يَقُولُ: «وَ أَنَا أَشْهَدُ أَنْ لَا إله إلَّا اللهُ وَ حْدَهُ لَا شَرِيْكَ لَهُ، وَ أَنَّ مُحَمَّداً عَبْدُهُ وَ رَسُولُهُ، رَضِيْتُ بِاللهِ رَبًّا، وَ بِمُحَمَّدٍ رَسُولًا، وَ بِالإِسْلامِ دِيْنًا»<sup>[1]</sup> «يَقُولَ ذَلِكَ عَقِبَ تَشَهُّدِ المُؤَذِّنِ».<sup>[2]</sup></div>
 
-23. <div lang="ar"></div>
+    Say: “And I too bear witness that none has the right to be worshipped except Allāh, alone, without partner, and that Muḥammad is His slave and Messenger. I am pleased with Allāh as a Lord, and Muḥammad as a Messenger and Islam as a religion.”<sup>[1]</sup> Say this after the declaration of faith called by the muadhdhin.<sup>[2]</sup>
 
-    يَقُولُ: «وَ أَنَا أَشْهَدُ أَنْ لَا إله إلَّا اللهُ وَ حْدَهُ لَا شَرِيْكَ لَهُ، وَ أَنَّ مُحَمَّداً عَبْدُهُ وَ رَسُولُهُ، رَضِيْتُ بِاللهِ رَبًّا، وَ بِمُحَمَّدٍ رَسُولًا، وَ بِالإِسْلامِ دِيْنًا»<sup><small>(١)</small></sup> «يَقُولَ ذَلِكَ عَقِبَ تَشَهُّدِ المُؤَذِّنِ»<sup><small>(٢)</small></sup>.
-
-    Immediately following the declaration of faith called by the muadhdhin, one says:
-
-    (1) “And I too bear witness that none has the right to be worshipped except Allāh, alone, without partner, and that Muḥammad is His slave and Messenger. I am pleased with Allāh as a Lord, and Muḥammad as a Messenger and Islam as a religion.”
-
-    (1) Muslim (#386, 1/290).  
-    (2) Ibn Khuzaymah (#422, 1/220).
+    [1] Muslim (#386, 1/290).  
+    [2] Ibn Khuzaymah (#422, 1/220).
 
 24. <div lang="ar">يُصَلِّي عَلَى النَّبِي صلى الله عليه وسلم بَعْدَ فَرَاغِهِ مِنْ إِجَابَةِ المُؤَذِّنِ.</div>
 
@@ -241,13 +223,9 @@ Dua 265 (Complete the Reference)
 
     Muslim (#384, 1/288).
 
-<!-- TODO double check the following -->
+25. <div lang="ar">يَقُولُ: «اللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ ، وَالصَّلاةِ القَائِمَةِ ، آتِ مُحَمَّداً الوَسِيْلَةَ وَالفَضِيْلَةَ ، وَابْعَثْهُ مَقَاماً مَحْمُوْداً الَّذِي وَعَدْتَهُ ، [إِنَّكَ لاَ تُخْلِفُ الْمِيعَادِ]».</div>
 
-25. <div lang="ar"></div>
-
-يَقُولُ: «اللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ ، وَالصَّلاةِ القَائِمَةِ ، آتِ مُحَمَّداً الوَسِيْلَةَ وَالفَضِيْلَةَ ، وَابْعَثْهُ مَقَاماً مَحْمُوْداً الَّذِي وَعَدْتَهُ ، [إِنَّكَ لاَ تُخْلِفُ الْمِيعَادِ] »<sup><small>(١)</small></sup>.
-
-    Say: “O Allāh, Owner of this perfect call and Owner of this prayer to be performed, bestow upon Muḥammad al-Wasīlah and al-Faḍīlah and send him upon a praised platform which You have promised him. [Verily, You never fail in Your promise.]”
+    Say: “O Allāh, Owner of this perfect call and Owner of this prayer to be performed, bestow upon Muḥammad al-Wasīlah and al-Faḍīlah and send him upon a praised platform which You have promised him. (Verily, You never fail in Your promise.)”
 
     Al-Bukhārī (#614, 1/152) and what is between the brackets is from al-Bayhaqī (1/410). Shaykh ʿAbd al-ʿAzīz bin Bāz authenticated the chain of the latter in _Tuḥfah al-Akhbār_ (p.\ 38).
 
@@ -255,7 +233,7 @@ Dua 265 (Complete the Reference)
 
     One should also supplicate for himself during the time between the adhān and the iqāmah as supplication at such time is not rejected.
 
-    Al-Tirmidhī [212], Abū Dāwud [521] and Aḥmad [3/119]. Also see _Irwāʾ al-Ghalīl_ (1/262).
+    Al-Tirmidhī (#212), Abū Dāwud (#521) and Aḥmad (3/119). Also see _Irwāʾ al-Ghalīl_ (1/262).
 
 27. <div lang="ar">اللَّهُمَّ بَاعِدْ بَيْنِي وَبَيْنَ خَطَايَايَ كَمَا بَاعَدْتَ بَيْنَ الْمَشْرِقِ وَالْمَغْرِبِ، اللَّهُمَّ نَقِّنِي مِنْ خَطَايَايَ، كَمَا يُنَقَّى الثَّوْبُ الأَبْيَضُ مِنَ الدَّنَسِ، اللَّهُمَّ اغْسِلْنِي مِنْ خَطَايَايَ، بِالثَّلْجِ وَالْمَاءِ وَالْبَرَدِ.</div>
 
