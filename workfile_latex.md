@@ -38,6 +38,10 @@ Dua 230 (translation)
 Dua 231
 Dua 232 (reference) //different way
 Dua 235 (check uniformity with previous dua)
+Dua 236 (check translation at the end "allies")
+Dua 239 (Translation MISSING and references are whack)
+Dua 240 (References are whack)
+Dua 265 (Complete the Reference)
 <!-- END -->
 
 # Upon Waking up
@@ -1715,9 +1719,11 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
     (1) Abū Dāwud (#1892, 2/179), Aḥmad (3/411) and al-Baghawī in _Sharḥ al-Sunnah_ (7/128). Al-Albānī declared it ḥasan in _Ṣaḥīḥ Abī Dāwud_ (1/354).
     (2) Sūrah al-Baqarah, 2:201.
 
+<!-- TODO double check the following (translation of "allies") -->
+
 236. <div lang="ar">لَمَّا دَنَا النَّبِيُّ ﷺ مِنَ الصَّفَا قَرَأ: ﴿إنَّ الصَّفَا وَ المَرْوَةَ مِنْ شَعَائِرِ اللهِ﴾«أبْدَأ بِمَا بَدَأ اللهُ بِهِ» فَبَدأ بِالصَّفَا، فَرَقِيَ عَلَيْهِ، حَتَّى رَأَى البَيْتَ، فَاسْتَقْبَلَ القِبْلَةَ، فَوَحَّدَ اللهَ، وَ كَبَّرَهُ، وَ قَالَ: «لَا إلَهَ إلَّا اللهُ وَحْدَهُ لَا شَرِيْكَ لَهُ، لَهُ المُلْكُ وَ لَهُ الحَمْدُ، وَ هُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرٌ، لَا إلَهَ إلَّا اللهٌ وَ حْدَهُ، أنْجَزَ وَعْدَهُ، وَ نَصَرَ عَبْدَهُ، وَ هَزَمَ الأَحْزَابَ وَحْدَهُ، ثُمَّ دَعَا بَيْنَ ذَلِكَ، قَالَ مِثْلَ هَذَا ثَلَاثَ مَرَّاتٍ...، الحَدِيْثُ، وَ فِيْهِ: فَفَعَلَ عَلَى المَرْوَةِ كَمَا فَعَلَ عَلَى الصَّفَا»</div>
 
-    Indeed Safa and Marwah are from the places of worship of Allāh...None has the right to be worshipped except Allāh, Allāh is the greatest. None has the right to be worshipped except Allāh, alone, without partner. To Him belongs all sovereignty and praise and He is over all things amnipotent. None has the right to be worshipped except Allāh alone. He fulfilled His promise, aided His Servant and single-handedly defeated the allies.
+    Indeed al-Ṣafā and al-Marwah are from the places of worship of Allāh. None has the right to be worshiped except Allāh, Allāh is the greatest. None has the right to be worshiped except Allāh, alone, without partner. To Him belongs all sovereignty and praise and He is over all things omnipotent. None has the right to be worshiped except Allāh alone. He fulfilled His promise, aided His Servant and single-handedly defeated the allies.
 
     Muslim (#1218, 2/888).
 
@@ -1729,9 +1735,12 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
 238. <div lang="ar">رَكِبَ ﷺ القَصْوَاءَ حَتَّى أتَى المَشْعَرَ الحَرَامَ، فَاسْتَقْبَلَ القِبْلَةَ (فَدَعَاهُ، وَ كَبَّرَهُ، وَ هَلَّلَهُ، وَ وَحَّدَهُ) فَلَمْ يَزَلْ وَاقِفًا حَتَّى أسْفَرَ جِدّاً، فَدَفَعَ قَبْلَ أنْ تَطْلُعَ الشَّمْسُ</div>
 
-    The Prophet \pbuh rode al-Qaswa until he reached al-Mashʿar al-Ḥaram, he then faced the qiblah, supplicated to Allāh, and extoled His greatness and oneness. He stood until the sun shone but left before it rose.
+    The Prophet \pbuh rode al-Qaṣwā until he reached al-Mashʿar al-Ḥaram, he then faced the Qiblah, supplicated to Allāh, and extolled His greatness and oneness. He stood until the Sun shone but left before it rose.
 
     Muslim (#1218, 2/891).
+
+<!-- TODO Translation MISSING -->
+<!-- TODO references -->
 
 239. <div lang="ar">يُكَبِّرُ كُلَّمَا رَمَى بِحَصَاةٍ عِنْدَ الجِمَارِ الثَّلاثِ، ثُمَّ يَتَقَدَّمُ، وَ يَقِفُ يَدْعُوْ مُسْتَقْبِلَ القِبْلَةَ، رَافِعاً يَدَيْهِ بَعْدَ الجَمْرَةِ الأوْلَى وَ الثَّانِيَةِ، أمَّا جَمْرَةُ العَقَبَةِ فَيَرْمِيْهَا، وَ يُكَبِّرُ عِنْدَ كُلِّ حَصَاةٍ، وَ يَنْصَرِفُ، وَ لَا يَقِفُ عِنْدَهَا</div>
 
@@ -1757,12 +1766,12 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
     The Prophet \pbuh would prostrate in gratitude to Allāh upon receiving news which pleased him or which caused pleasure.
 
-    Abū Dāwud [2774], al-Tirmidhī [1578] and Ibn Mājah [1394]. Also see _Ṣaḥīḥ Ibn Mājah_ (1/233) and _Irwāʾ al-Ghalīl_ (2/226).
+    Abū Dāwud (#2774), al-Tirmidhī (#1578) and Ibn Mājah (#1394). Also see _Ṣaḥīḥ Ibn Mājah_ (1/233) and _Irwāʾ al-Ghalīl_ (2/226).
 
 243. <div lang="ar">بِسْمِ اللهِ (ثَلاثاً)
 أَعُوذُ بِاللهِ وَقُدْرَتِهِ مِنْ شَرِّ مَا أَجِدُ وَأُحَاذِرُ.(سَبْعَ مَرَّاتٍ)</div>
 
-    Recite 'In the name of Allāh.' (three times) followed by 'I take refuge in Allāh and within His omnipotence from the evil that I feel and am wary of.' (seven times).
+    Recite “In the name of Allāh.” (three times) followed by “I take refuge in Allāh and within His omnipotence from the evil that I feel and am wary of.” (seven times).
 
     Muslim (#2202, 4/1728).
 
@@ -1772,7 +1781,7 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
     If you see something from your brother, yourself or wealth which you find impressing, then invoke blessings for it, for the evil eye is indeed true.
 
-    Aḥmad (4/447), Ibn Mājah [3509] and Mālik (#1697--98). Al-Albānī authenticated it in _Ṣaḥīḥ al-Jāmiʿ_ (#556, 1/212). Also see research of _Zād al-Maʿād_ by Al-Arnā'ūť.
+    Aḥmad (4/447), Ibn Mājah (#3509) and Mālik (#1697--98). Al-Albānī authenticated it in _Ṣaḥīḥ al-Jāmiʿ_ (#556, 1/212). Also see research of _Zād al-Maʿād_ by al-Arnaʾūṭ.
 
 245. <div lang="ar">لَا إلَهَ إلَّا اللهُ</div>
 
@@ -1790,19 +1799,19 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
 247. <div lang="ar">أَعُوذُ بِكَلِمَاتِ اللهِ التَّامَّاتِ، الَّتِي لَا يُجَاوِزُهُنَّ بَرٌّ ولَا فَاجِرٌ مِنْ شَرِّ مَا خَلقَ، وبَرَأَ وذَرَأَ، ومِنْ شَرِّ مَا يَنْزِلُ مِنَ السَّمَاءِ، وِمنْ شَرِّ مَا يَعْرُجُ فِيْهَا، ومِنْ شَرِّ مَا ذَرَأَ فِي الأَرْضِ، ومِنْ شَرِّ مَا يَخْرُجُ مِنْهَا، وِمنْ شَرِّ فِتَنِ اللَّيْلِ والنَّهَارِ، ومِنْ شَرِّ كُلِّ طَارِقٍ إِلَّا طَارِقاً يَطْرُقُ بِخَيْرٍ يَا رَحْمَنُ</div>
 
-    I take refuge within Allāh’s perfect words which no righteous or unrighteous person can transgress, from all the evil that He has created, made and originated. (I take refuge) from the evil that descends from the sky and the evil that rises up to it. (I take refuge) from the evil that is spread on Earth and the evil that springs from her, and I take refuge from the evil of the tribulations of night and day, and the evil of one who visits at night except the one who brings good, O Merciful One.
+    I take refuge within Allāh's perfect words which no righteous or unrighteous person can transgress, from all the evil that He has created, made, and originated. (I take refuge) from the evil that descends from the sky and the evil that rises up to it. (I take refuge) from the evil that is spread on Earth and the evil that springs from her, and I take refuge from the evil of the tribulations of night and day, and the evil of one who visits at night except the one who brings good, O Merciful One.
 
-    Aḥmad (3/419) with a ṣaḥīḥ chain, Ibn al-Sunnī [637]. Al-Arnā'ūť declared its chain ṣaḥīḥ in his research of _al-Ṭaḥāwiyyah_ (p.\ 133). Also see _Majmaʿ al-Zawāʾid_ (10/127).
+    Aḥmad (3/419) with a ṣaḥīḥ chain, Ibn al-Sunnī (#637). al-Arnaʾūṭ declared its chain ṣaḥīḥ in his research of _al-Ṭaḥāwiyyah_ (p.\ 133). Also see _Majmaʿ al-Zawāʾid_ (10/127).
 
 248. <div lang="ar">قَالَ رَسُولُ اللهِ ﷺ: «وَ اللهِ إِنِّي لأسْتَغْفِرُ اللهَ وَ أ تُوبُ إلَيْهِ فِي اليَوْمِ أكثَرَ مِنْ سَبْعِيْنَ مَرَّةٍ»</div>
 
-    The Messenger of Allāh \pbuh said : 'By Allāh, I seek forgiveness and repent to Allāh, more than seventy times a day.'
+    The Messenger of Allāh \pbuh said : “By Allāh, I seek forgiveness and repent to Allāh, more than seventy times a day.”
 
     Al-Bukhārī (#6307, 11/101).
 
 249. <div lang="ar">قَالَ رَسُولُ اللهِ ﷺ: «يَا أَيُّهَا النَّاسُ تُوبُوا إلَى اللهِ، فَإِنِّي أتُوبُ إلَيْهِ مِئَةَ مَرَّةٍ»</div>
 
-    The Messenger of Allāh \pbuh said : ‘O People, Repent! Verily I repent to Allāh, a hundred times a day.'
+    The Messenger of Allāh \pbuh said : “O People, Repent! Verily I repent to Allāh, a hundred times a day.”
 
     Muslim (#2702, 4/2076).
 
@@ -1810,65 +1819,65 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
 250. <div lang="ar">قَالَ رَسُولُ اللهِ ﷺ: «مَنْ قَالَ أسْتَغْفِرُ اللهَ العَظِيْمَ الَّذِي لَا إلَهَ إلَّا هُوَ الحَيُّ القَيُّومُ وَ أتُوبُ إلَيْهِ، غَفَرَ للهُ لَهُ، وَ إنْ كَانَ فَرَّ مِنَ الزَّحْفِ»</div>
 
-    I seek Allāh’s forgiveness, besides whom, none has the right to be worshipped except He, The Ever Living, The Self-Subsisting and Supporter of all, and I turn to Him in repentance.
+    I seek Allāh's forgiveness, besides whom, none has the right to be worshiped except He, the Ever Living, the Self-Subsisting and Supporter of all, and I turn to Him in repentance.
 
-    Abū Dāwud (#1517, 2/85), al-Tirmidhī (#3577, 5/569), al-Hākim (1/511) and he authenticated it and al-Dhahabī agreed with him. Al-Albānī authenticated it, see _Ṣaḥīḥ al-Tirmidhī_ (3/182) and _al-Jāmiʿ al-Uṣūl li-Ahādīth al-Rasūl_ (4/389--390) with research by al-Arnā'ūť.
+    Abū Dāwud (#1517, 2/85), al-Tirmidhī (#3577, 5/569), al-Hākim (1/511) and he authenticated it and al-Dhahabī agreed with him. Al-Albānī authenticated it, see _Ṣaḥīḥ al-Tirmidhī_ (3/182) and _al-Jāmiʿ al-Uṣūl li-Ahādīth al-Rasūl_ (4/389--390) with research by al-Arnaʾūṭ.
 
 <!-- TODO double check the following (ANDROID) -->
 
 251. <div lang="ar">قَالَ رَسُولُ اللهِ ﷺ: «أقْرَبُ مَا يَكُونُ الرَّبُّ مِنَ العَبْدِ، فِي جَوْفِ اللَّيْلِ الآخِرِ؛ فَإنْ اسْتَطَعْتَ أنْ تَكُونَ مِمَّنْ يَذْكُرُ اللهَ فِي تِلْكَ السَّاعَةِ؛ فَكُنْ»</div>
 
-    The Messenger of Allāh \pbuh said : 'The nearest the Lord comes to His servant is in the middle of the night, so if you are able to be of those who remember Allāh at that time, then be so.'
+    The Messenger of Allāh \pbuh said : “The nearest the Lord comes to His servant is in the middle of the night, so if you are able to be of those who remember Allāh at that time, then be so.”
 
-    Al-Tirmidhī [3579], al-Nasāʾī (1/279), and al-Hākim. Also see _Ṣaḥīḥ al-Tirmidhī_ (3/183) and _al-Jāmiʿ al-Uṣūl li-Ahādīth al-Rasūl_ (4/144) with research by Arnā'ūť.
+    Al-Tirmidhī (#3579), al-Nasāʾī (1/279), and al-Hākim. Also see _Ṣaḥīḥ al-Tirmidhī_ (3/183) and _al-Jāmiʿ al-Uṣūl li-Ahādīth al-Rasūl_ (4/144) with research by al-Arnaʾūṭ.
 
 <!-- TODO double check the following (ANDROID) -->
 
 252. <div lang="ar">قَالَ رَسُولُ اللهِ ﷺ: «أقْرَبُ مَا يَكُونُ العَبْدُ مِنْ رَبِّهِ، وَ هُوَ سَاجِدٌ فَأكْثِرُوا الدُّعَاءَ»</div>
 
-    The Messenger of Allāh \pbuh said : ‘The nearest a servant is to his Lord is when he is prostrating, so supplicate much therein.'
+    The Messenger of Allāh \pbuh said : “The nearest a servant is to his Lord is when he is prostrating, so supplicate much therein.”
 
     Muslim (#482, 1/350).
 
 253. <div lang="ar">قَالَ رَسُولُ اللهِ ﷺ: «إنَّهُ لَيُغَانُ عَلَى قَلْبِي، وَ إنِّي لأسْتَغْفِرُ اللهَ فِي اليَوْمِ مِئَةَ مَرَّةٍ»</div>
 
-    The Messenger of Allāh \pbuh said: ‘Verily my heart becomes preoccupied, and verily I seek Allāh’s forgiveness a hundred times a day.'
+    The Messenger of Allāh \pbuh said: “Verily my heart becomes preoccupied, and verily I seek Allāh's forgiveness a hundred times a day.”
 
     Muslim (#2702, 4/2075). Also see _al-Jāmiʿ al-Uṣūl li-Ahādīth al-Rasūl_ (4/386).
 
 254. <div lang="ar">قَالَ رَسُولُ اللهِ ﷺ: «مَنْ قَالَ: سُبْحَانَ اللهِ وَ بِحَمْدِهِ فِي يَومٍ مِئَةَ مَرَّةٍ، حُطَّتْ خَطَايَاهُ، وَ لَو كَانَتْ مِثْلَ زَبَدِ البَحْرِ»</div>
 
-    How perfect Allāh is and I praise Him. (One Hundred times daily)
+    How perfect Allāh is and I praise Him. (One hundred times daily)
 
     Al-Bukhārī (#6405, 7/168) and Muslim (#2691, 4/2071).
 
 255. <div lang="ar">قَالَ رَسُولُ اللهِ ﷺ: «مَنْ قَالَ: لَا إلَهَ إلَّا اللهُ وَحْدَهُ لَا شَرِيْكَ لَهُ، لَهُ المُلْكُ، وَ لَهُ الحَمْدُ، وَ هُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ عَشْرَ مِرَارٍ، كَانَ كَمَنْ أعْتَقَ أرْبَعَةَ أنْفُسٍ مِنْ وَلَدِ إسْمَاعِيلَ»</div>
 
-    None has the right to be worshipped except Allāh, alone, without partner. To Him belongs all sovereignty and praise and He is over all things omnipotent. (Ten times)
+    None has the right to be worshiped except Allāh, alone, without partner. To Him belongs all sovereignty and praise and He is over all things omnipotent. (Ten times)
 
     Al-Bukhārī (7/67) and Muslim (4/2017).
 
 256. <div lang="ar">قَالَ رَسُولُ اللهِ ﷺ: «كَلِمَتَانِ خَفِيفَتَانِ عَلَى اللِّسَانِ، ثَقِيلَتَانِ فِي الِميْزَانِ، حَبِيبَتَانِ إلَى الرَّحْمَنِ: سُبْحَانَ اللهِ وَ بِحَمْدِهِ، سُبْحَانَ اللهِ العَظِيْمِ»</div>
 
-    The Messenger of Allāh \pbuh said: "There are two words (phrases), (which are) light on the tongue, heavy on the scale and beloved to The Most Gracious: 'How perfect Allāh is and I praise Him.' (and) 'How perfect Allāh is, The Supreme.'
+    The Messenger of Allāh \pbuh said: “There are two words (phrases), (which are) light on the tongue, heavy on the scale and beloved to the Most Gracious: ‘How perfect Allāh is and I praise Him.’ (and) ‘How perfect Allāh is, The Supreme.’”
 
     Al-Bukhārī (#3462, 7/168) and Muslim (#2694, 4/2072).
 
 257. <div lang="ar">قَالَ رَسُولُ اللهِ ﷺ: «لَأنْ أقُولَ: سُبْحَانَ اللهِ، وَ الحَمْدُ لِلَّهِ، وَ لَا إلَهَ إلَّا اللهُ، وَ اللهُ أكْبَرُ، أحَبُّ إلَيَّ مِمَّا طَلَعَتْ عَلَيْهِ الشَّمْسُ»</div>
 
-    The Messenger of Allāh \pbuh said : "Saying 'How perfect Allāh is, and all praise is for Allāh. None has the right to be worshipped except Allāh, and Allāh is the greatest,' is more beloved to me than everything the Sun has risen over.
+    The Messenger of Allāh \pbuh said : “Saying ‘How perfect Allāh is, and all praise is for Allāh. None has the right to be worshiped except Allāh, and Allāh is the greatest,’ is more beloved to me than everything the Sun has risen over.”
 
     Muslim (#2695, 4/2072).
 
 258. <div lang="ar">قَالَ رَسُولُ اللهِ ﷺ: «أيَعْجِزُ أحَدُكُمْ أنْ يَكْسِبَ كُلَّ يَوْمٍ ألْفَ حَسَنَةٍ» فَسَألَهُ سَائِلٌ مِنْ جُلَسَائِهِ: كَيْفَ يَكْسِبُ أحَدُنَا ألْفَ حَسَنَةٍ؟ قَالَ: «يُسَبِّحُ مِئَةَ تَسْبِيْحَةٍ، فَيُكْتَبُ لَهُ ألْفُ حَسَنَةٍ، أوْ يُحَطُّ عَنْهُ ألْفُ خَطِيْئَةٍ»</div>
 
-    How perfect Allāh is and I praise Him. (One Hundred times)
+    How perfect Allāh is and I praise Him. (One hundred times)
 
     Muslim (#2698, 4/2073).
 
 259. <div lang="ar">قَالَ رَسُولُ اللهِ ﷺ: «مَنْ قَالَ: سُبْحَانَ اللهِ العَظِيمِ وَ بِحَمْدِهِ، غُرِسَتْ لَهُ نَخْلَةٌ فِي الجَنَّةِ»</div>
 
-    Whoever says: 'How perfect Allāh is, The Supreme, and I praise Him,' a palm tree is planted for him in paradise.
+    “Whoever says: ‘How perfect Allāh is, The Supreme, and I praise Him,’ a palm tree is planted for him in paradise.”
 
     Al-Tirmidhī (#3464--3465, 5/511), al-Hākim (1/501) and he authenticated it and al-Dhahabī agreed with him. Also see _Ṣaḥīḥ al-Jāmiʿ_ (#6429, 5/531) and _Ṣaḥīḥ al-Tirmidhī_ (3/160).
 
@@ -1880,25 +1889,25 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
 261. <div lang="ar">قَالَ ﷺ: «أحَبُّ الكَلَامِ إلَى اللهِ أرْبَعٌ: سُبْحَانَ اللهِ، وَ الحَمْدُ للهِ، وَ لَا إلَهَ إلَّا اللهُ، وَ اللهُ أكْبَرُ، لَا يَضُرُّكَ بِأيِّهِنَّ بَدَأْتَ»</div>
 
-    The Prophet \pbuh said: "Four phrases are beloved to Allāh: 'How perfect Allāh is', 'All praises are for Allāh', 'None has the right to be worshipped except Allāh', and 'Allāh is the greatest.'"
+    The Prophet \pbuh said: “Four phrases are beloved to Allāh: ‘How perfect Allāh is,’ ‘All praises are for Allāh,’ ‘None has the right to be worshiped except Allāh,’ and ‘Allāh is the greatest.’”
 
     Muslim (#2137, 3/1685).
 
 262. <div lang="ar">جَاءَ أعْرَابِيٌّ إلَى رَسُولُ اللهِ ﷺ فَقَالَ: عَلِّمْنِي كَلَامًا أقُولُهُ؟ قَالَ: «قُلْ: لَا إلَهَ إلَّا اللهُ وَ حْدَهُ لَا شَرِيكَ لَهُ، اللهُ أكْبَرُ كَبِيْراً، وَ الحَمْدُ للهِ كَثِيْراً، سُبْحَانَ اللهِ رَبِّ العَالَمِيْنَ، لَا حَوْلَ وَ لَا قُوَّةَ إلَّا بِااللهِ العَزِيزِ الحَكِيمِ»، قَالَ: فَهَؤُلَاءِ لِرَبِّي فَمَا لِي؟ قَالَ: «قُلْ: اللهم اغْفِرلِي، وَارْحَمْنِي، واهْدِنِي، وَارْزُقْنِي»</div>
 
-    None has the right to be worshipped except Allāh, alone without partener. Allāh is most great and much praise is for Allāh. How perfect Allāh is, Lord of the worlds. There is no might nor power except with Allāh, The Exalted in might, The Wise. O Allāh, forgive me, have mercy upon me, guide me and grant me sustenance.
+    None has the right to be worshiped except Allāh, alone without partener. Allāh is most great and much praise is for Allāh. How perfect Allāh is, Lord of the worlds. There is no might nor power except with Allāh, The Exalted in might, The Wise. O Allāh, forgive me, have mercy upon me, guide me and grant me sustenance.
 
     Muslim (#2696, 4/2072).
 
 263. <div lang="ar">كَانَ الرَّجُلُ إذَا أَسْلَمَ عَلَّمَهُ النَّبِيُّ ﷺ الصَّلَاةَ، ثُمَّ أمَرَهُ أنْ يَدْعُوَ بِهَؤُلَاءِ الكَلِمَاتِ: «اللهم اغْفِرْلِي، وَارْحَمْنِي، وَاهْدِنِي، وِ عَافِنِي، وَارْزُقْنِي»</div>
 
-    O Allāh, forgive me, have mercy upon me, guide me, give me health and grant me sustenance.
+    O Allāh, forgive me, have mercy upon me, guide me, give me health, and grant me sustenance.
 
     Muslim (#2697, 4/2073).
 
 264. <div lang="ar">إنَّ أفْضَلَ الدُّعَاءِ: الحَمْدُ لِلَّهِ، وَ أفْضَلُ الذِّكْرِ: لَا إلَهَ إلَّا اللهُ</div>
 
-    Indeed the best du'ā (is): 'All praise is for Allāh.' and the best remembrance (is): 'None has the right to be worshipped except Allāh.'
+    Indeed the best duʿā (is): “All praise is for Allāh.” and the best remembrance (is): “None has the right to be worshiped except Allāh.”
 
     Al-Tirmidhī (#3383, 5/462), Ibn Mājah (#3800, 2/1249), and al-Hākim (1/503) and he authenticated it and al-Dhahabī agreed with him. Also see _Ṣaḥīḥ al-Jāmiʿ_ (#1104, 1/362).
 
@@ -1906,19 +1915,20 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
 265. <div lang="ar">البَاقِيَاتُ الصَّالِحَاتُ: سُبْحَانَ اللهِ، وَ الحَمْدُللهِ، وَ لَا إلَهَ إلَّا اللهُ، وَ اللهُ أكْبَرُ، وَ لَا حَوْلَ وَ لَا قُوَّةَ إلَّا بِااللهِ</div>
 
-    How perfect Allāh is, and all praise is for Allāh. None has the right to be worshipped except Allāh, and Allāh is the greatest. There is no might nor power except with Allāh.
+    How perfect Allāh is, and all praise is for Allāh. None has the right to be worshiped except Allāh, and Allāh is the greatest. There is no might nor power except with Allāh.
 
     Aḥmad (#513, 3/75) according to the order of Aḥmad Shākir and its chain is authentic. Also see _Majmaʿ al-Zawāʾid_ (1/297)...[COMPLETE THIS]
 
 266. <div lang="ar">عَنْ عَبْدِ اللهِ بْنِ عَمْروٍ قَالَ: رَأيْتُ النَّبِيَّ يَعْقِدُ التَّسْبِيْحَ بِيَمِيْنِهِ</div>
 
-    ʿAbd Allāh ibn ʿAmr said : I saw the Prophet \pbuh make tasbīh with his right hand.
+    ʿAbd Allāh ibn ʿAmr said : “I saw the Prophet \pbuh make tasbīh with his right hand.”
 
     Abū Dāwud (#1502, 2/81) and al-Tirmidhī (#3486, 5/521). Also see _Ṣaḥīḥ al-Jāmiʿ_ (#4865, 4/271).
 
 267. <div lang="ar">إذَا كَانَ جُنْحُ اللَّيْل – أوْ أمْسَيْتُم – فَكُفُّوا صِبْيَانَكُمْ؛ فَإنَّ الشَّيَاطِيْنَ تَنْتَشِرُ حِيْنَئَذٍ، فَإذَا ذَهَبَ سَاعَةٌ مِنَ اللَّيْلِ فَخَلُّوهُمْ، وَأغْلقُوا الأبْوَابَ، وَاذْكُرُوا اسْمَ اللهِ؛ فَإنَّ الشَّيْطَانَ لَا يَفْتَحُ بَابًا مُغْلَقًا، وَ أوْكُوا قِرَبَكُمْ، وَاذْكُرُوا اسْمَ اللهِ، وَ خَمِّرُوا آنِيَتَكُمْ وَاذْكُرُوا اسْمَ اللهِ، وَ لَوْ أنْ تَعْرِضُوا عَلَيْهَا شَيْئًا، وَ أطْفِئُوا مَصَابِيْحَكُمْ</div>
 
-    When night falls, restrain your children (from going out) because at such time the devils spread about. After a period of time has passed, let them be. Shut your doors and mention Allāh’s name, for verily the devil does not open a shut door, tie up your water-skins and mention Allāh’s name, cover your vessels with anything and mention Allāh’s name and put out your lamps.
+    When night falls, restrain your children (from going out) because at such time the devils spread about. After a period of time has passed, let them be. Shut your doors and mention Allāh's name, for verily the devil does not open a shut door, tie up your water-skins and mention Allāh's name, cover your vessels with anything and mention Allāh's name and put out your lamps.
 
     Al-Bukhārī (#5623, 10/88) and Muslim (#2012, 3/1595).
+
 
