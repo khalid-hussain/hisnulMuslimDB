@@ -1,17 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="hisnulWeb.xsl"?>
+
 <hisnulmuslim>
   <group>
-    <title>
-      <english>Remembrance of Allāh</english>
-    </title>
+    <title language="en">Upon Waking Up</title>
+
     <dua>
-      <arabic></arabic>
-      <translation>
-        <english></english>
+      <arabic>اَلحَمدُ لِلهِ الَّذِي أحيَانَا بَعْدَ مَا أمَاتَنَا وَ إِلَيهِ النُّشُورُ</arabic>
+
+      <translation language="en">
+        Praise is to Allāh Who gives us life after He has caused us to die and to Him is the return.
       </translation>
-      <reference>
-        <english></english>
+
+      <reference language="en">
+        Al-Bukhārī (#6312), see <em>Fatḥ al-Bārī</em> (11/113), and Muslim (#2711, 4/2083).
       </reference>
     </dua>
+
+    <dua>
+      <arabic>لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الحَمدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، سُبْحاَنَ اللهِ، وَالحَمدُ للهِ، وَلَا إِلَهَ إِلَّا اللهُ وَاللهُ أَكْبَرُ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ الْعَلِيِّ الْعَظِيمِ، رَبِّ اغْفِرْ لِي</arabic>
+      <translation language="en">There is none worthy of worship but Allāh alone, Who has no partner, His is the dominion and to Him belongs all praise, and He is able to do all things. Glory is to Allāh. Praise is to Allāh. There is none worthy of worship but Allāh. Allāh is the Most Great. There is no might and no power except by Allāh's leave, the Exalted, the Mighty. My Lord, forgive me. (Whoever says this will be forgiven, and if he supplicates to Allāh, his prayer will be answered; if he performs ablution and prays, his prayer will be accepted.)</translation>
+      <reference language="en">Al-Bukhārī (#1154), see <em>Fatḥ al-Bārī</em> (3/39). The wording is of Ibn Mājah (#3878), also see <em>Ṣaḥīḥ Ibn Mājah</em> (2/335).</reference>
+    </dua>
+    <dua>
+      <arabic>الحَمدُ لِلهِ الَّذِي عَافَانِي فِي جَسَدِي، وَرَدَّ عَلَيَّ رُوحِي، وَأَذِنَ لِي بِذِكْرِهِ</arabic>
+      <translation language="en">Praise is to Allāh Who gave strength to my body, He returned my soul to me and permitted me to remember Him.</translation>
+      <reference language="en">Al-Tirmidhī (#3401, 5/473), also see <em>Ṣaḥīḥ Al-Tirmidhī</em> (3/144).</reference>
+    </dua>
+    <dua>
+      <arabic>يقرأ سورة آل عمران ٣: ١٩٠-٢٠٠</arabic>
+      <translation language="en">Recite Sūrah Āl ʿImrān (3:190--200).</translation>
+      <reference language="en">Al-Bukhārī (#4572), see <em>Fatḥ al-Bārī</em> (8/237) and Muslim (#763, 1/530).</reference>
+    </dua>
   </group>
+  <group>
+    <title language="en">Supplication when wearing clothes</title>
+    <dua>
+      <arabic>اَلحَمدُ لِلهِ الَّذِي كَسَانِي هَذَا (الثَّوْبَ) وَرَزَقَنِيهِ مِنْ غَيْرِ حَولٍ مِنِّي وَ لَا قُوَّةٍ</arabic>
+      <translation language="en">Praise is to Allāh Who has clothed me with this (garment) and provided it for me, though I was powerless myself and incapable.</translation>
+      <reference language="en">Abū Dāwud (#4023) and the wording is his, al-Tirmidhī (#2458) and Ibn Mājah (#3285). Also see <em>Irwāʾ al-Ghalīl</em> (7/47).</reference>
+    </dua>
+  </group>
+    <group>
+      <title language="en">Supplication when wearing new clothes</title>
+      <dua>
+        <arabic>اللَّهُمَّ لَكَ الحَمدُ أَنْتَ كَسَوْتَنِيهِ، أَسْأَلُكَ مِنْ خَيْرِهِ وَخَيْرِ مَا صُنِعَ لَهُ، وَأَعُوذُ بِكَ مِنْ شَرِّهِ وَشِّرِ مَا صُنِعَ لَهُ</arabic>
+        <translation language="en">O Allāh, for You is all praise, You have clothed me with it (i.e. the garment), I ask You for the good of it and the good for which it was made, and I seek refuge with You from the evil of it and the evil for which it was made.</translation>
+        <reference language="en">Abū Dāwud (#4020) and al-Tirmidhī (#1767) and al-Baghawī. The wording is from Abū Dāwud. Also see <em>Mukhtaṣar Shamāʾil al-Tirmidhī</em> by Al-Albānī (p.\ 47).</reference>
+      </dua>
+    </group>
+    <group>
+      <title language="en">Supplication said to someone wearing new clothes</title>
+      <dua>
+        <arabic>تُبْلِي وَيُخْلِفُ اللهُ تَعَالَى</arabic>
+        <translation language="en">May you wear it out and Allāh replace it (with another).</translation>
+        <reference language="en">Abū Dāwud (#4020, 4/41). Also see <em>Ṣaḥīḥ Abī Dāwud</em> (2/760).</reference>
+      </dua>
+      <dua>
+        <arabic>إِلبَسْ جَدِيداً، وَعِشْ حَمِيداً، وَمُتْ شَهِيداً</arabic>
+        <translation language="en">Wear anew, live commendably and die a martyr.</translation>
+        <reference language="en">Ibn Mājah (#3558, 2/1178) and al-Baghawī (12/41). Also see <em>Ṣaḥīḥ Ibn Mājah</em> (2/275).</reference>
+      </dua>
+    </group>
 </hisnulmuslim>
