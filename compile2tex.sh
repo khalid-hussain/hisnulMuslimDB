@@ -1,1 +1,0 @@
-pandoc -t latex -o content.tex test.md --top-level-division=chapter
