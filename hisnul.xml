@@ -3,184 +3,655 @@
 <?xml-stylesheet type="text/xsl" href="hisnulWeb.xsl"?>
 
 <hisnulmuslim>
-  <group>
+  <group id="1">
     <title language="en">Upon Waking Up</title>
-    <dua>
+    <dua id="1">
       <arabic>اَلحَمدُ لِلهِ الَّذِي أحيَانَا بَعْدَ مَا أمَاتَنَا وَ إِلَيهِ النُّشُورُ</arabic>
 
-      <translation language="en">
-        Praise is to Allāh Who gives us life after He has caused us to die and to Him is the return.
-      </translation>
+      <translation language="en"> Praise is to Allāh Who gives us life after He has caused us to die
+        and to Him is the return. </translation>
 
-      <reference language="en">
-        Al-Bukhārī (#6312), see <em>Fatḥ al-Bārī</em> (11/113), and Muslim (#2711, 4/2083).
-      </reference>
+      <reference language="en"> Al-Bukhārī (#6312), see <em>Fatḥ al-Bārī</em> (11/113), and Muslim
+        (#2711, 4/2083). </reference>
     </dua>
-    <dua>
-      <arabic>لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الحَمدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، سُبْحاَنَ اللهِ، وَالحَمدُ للهِ، وَلَا إِلَهَ إِلَّا اللهُ وَاللهُ أَكْبَرُ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ الْعَلِيِّ الْعَظِيمِ، رَبِّ اغْفِرْ لِي</arabic>
-      <translation language="en">There is none worthy of worship but Allāh alone, Who has no partner, His is the dominion and to Him belongs all praise, and He is able to do all things. Glory is to Allāh. Praise is to Allāh. There is none worthy of worship but Allāh. Allāh is the Most Great. There is no might and no power except by Allāh's leave, the Exalted, the Mighty. My Lord, forgive me. (Whoever says this will be forgiven, and if he supplicates to Allāh, his prayer will be answered; if he performs ablution and prays, his prayer will be accepted.)</translation>
-      <reference language="en">Al-Bukhārī (#1154), see <em>Fatḥ al-Bārī</em> (3/39). The wording is of Ibn Mājah (#3878), also see <em>Ṣaḥīḥ Ibn Mājah</em> (2/335).</reference>
+    <dua id="2">
+      <arabic>لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الحَمدُ،
+        وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، سُبْحاَنَ اللهِ، وَالحَمدُ للهِ، وَلَا إِلَهَ إِلَّا
+        اللهُ وَاللهُ أَكْبَرُ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ الْعَلِيِّ الْعَظِيمِ،
+        رَبِّ اغْفِرْ لِي</arabic>
+      <translation language="en">There is none worthy of worship but Allāh alone, Who has no
+        partner, His is the dominion and to Him belongs all praise, and He is able to do all things.
+        Glory is to Allāh. Praise is to Allāh. There is none worthy of worship but Allāh. Allāh is
+        the Most Great. There is no might and no power except by Allāh's leave, the Exalted, the
+        Mighty. My Lord, forgive me. (Whoever says this will be forgiven, and if he supplicates to
+        Allāh, his prayer will be answered; if he performs ablution and prays, his prayer will be
+        accepted.)</translation>
+      <reference language="en">Al-Bukhārī (#1154), see <em>Fatḥ al-Bārī</em> (3/39). The wording is
+        of Ibn Mājah (#3878), also see <em>Ṣaḥīḥ Ibn Mājah</em> (2/335).</reference>
     </dua>
-    <dua>
-      <arabic>الحَمدُ لِلهِ الَّذِي عَافَانِي فِي جَسَدِي، وَرَدَّ عَلَيَّ رُوحِي، وَأَذِنَ لِي بِذِكْرِهِ</arabic>
-      <translation language="en">Praise is to Allāh Who gave strength to my body, He returned my soul to me and permitted me to remember Him.</translation>
-      <reference language="en">Al-Tirmidhī (#3401, 5/473), also see <em>Ṣaḥīḥ Al-Tirmidhī</em> (3/144).</reference>
+    <dua id="3">
+      <arabic>الحَمدُ لِلهِ الَّذِي عَافَانِي فِي جَسَدِي، وَرَدَّ عَلَيَّ رُوحِي، وَأَذِنَ لِي
+        بِذِكْرِهِ</arabic>
+      <translation language="en">Praise is to Allāh Who gave strength to my body, He returned my
+        soul to me and permitted me to remember Him.</translation>
+      <reference language="en">Al-Tirmidhī (#3401, 5/473), also see <em>Ṣaḥīḥ Al-Tirmidhī</em>
+        (3/144).</reference>
     </dua>
-    <dua>
+    <dua id="4">
       <arabic>يقرأ سورة آل عمران ٣: ١٩٠-٢٠٠</arabic>
       <translation language="en">Recite Sūrah Āl ʿImrān (3:190--200).</translation>
-      <reference language="en">Al-Bukhārī (#4572), see <em>Fatḥ al-Bārī</em> (8/237) and Muslim (#763, 1/530).</reference>
+      <reference language="en">Al-Bukhārī (#4572), see <em>Fatḥ al-Bārī</em> (8/237) and Muslim
+        (#763, 1/530).</reference>
     </dua>
   </group>
-  <group>
+  <group id="2">
     <title language="en">Supplication when wearing clothes</title>
-    <dua>
-      <arabic>اَلحَمدُ لِلهِ الَّذِي كَسَانِي هَذَا (الثَّوْبَ) وَرَزَقَنِيهِ مِنْ غَيْرِ حَولٍ مِنِّي وَ لَا قُوَّةٍ</arabic>
-      <translation language="en">Praise is to Allāh Who has clothed me with this (garment) and provided it for me, though I was powerless myself and incapable.</translation>
-      <reference language="en">Abū Dāwud (#4023) and the wording is his, al-Tirmidhī (#2458) and Ibn Mājah (#3285). Also see <em>Irwāʾ al-Ghalīl</em> (7/47).</reference>
+    <dua id="5">
+      <arabic>اَلحَمدُ لِلهِ الَّذِي كَسَانِي هَذَا (الثَّوْبَ) وَرَزَقَنِيهِ مِنْ غَيْرِ حَولٍ
+        مِنِّي وَ لَا قُوَّةٍ</arabic>
+      <translation language="en">Praise is to Allāh Who has clothed me with this (garment) and
+        provided it for me, though I was powerless myself and incapable.</translation>
+      <reference language="en">Abū Dāwud (#4023) and the wording is his, al-Tirmidhī (#2458) and Ibn
+        Mājah (#3285). Also see <em>Irwāʾ al-Ghalīl</em> (7/47).</reference>
     </dua>
   </group>
-    <group>
-      <title language="en">Supplication when wearing new clothes</title>
-      <dua>
-        <arabic>اللَّهُمَّ لَكَ الحَمدُ أَنْتَ كَسَوْتَنِيهِ، أَسْأَلُكَ مِنْ خَيْرِهِ وَخَيْرِ مَا صُنِعَ لَهُ، وَأَعُوذُ بِكَ مِنْ شَرِّهِ وَشِّرِ مَا صُنِعَ لَهُ</arabic>
-        <translation language="en">O Allāh, for You is all praise, You have clothed me with it (i.e. the garment), I ask You for the good of it and the good for which it was made, and I seek refuge with You from the evil of it and the evil for which it was made.</translation>
-        <reference language="en">Abū Dāwud (#4020) and al-Tirmidhī (#1767) and al-Baghawī. The wording is from Abū Dāwud. Also see <em>Mukhtaṣar Shamāʾil al-Tirmidhī</em> by Al-Albānī (p.\ 47).</reference>
-      </dua>
-    </group>
-    <group>
-      <title language="en">Supplication said to someone wearing new clothes</title>
-      <dua>
-        <arabic>تُبْلِي وَيُخْلِفُ اللهُ تَعَالَى</arabic>
-        <translation language="en">May you wear it out and Allāh replace it (with another).</translation>
-        <reference language="en">Abū Dāwud (#4020, 4/41). Also see <em>Ṣaḥīḥ Abī Dāwud</em> (2/760).</reference>
-      </dua>
-      <dua>
-        <arabic>إِلبَسْ جَدِيداً، وَعِشْ حَمِيداً، وَمُتْ شَهِيداً</arabic>
-        <translation language="en">Wear anew, live commendably and die a martyr.</translation>
-        <reference language="en">Ibn Mājah (#3558, 2/1178) and al-Baghawī (12/41). Also see <em>Ṣaḥīḥ Ibn Mājah</em> (2/275).</reference>
-      </dua>
-    </group>
-    <group>
-      <title language="en">Before Undressing</title>
-      <dua>
-        <arabic>بِسْمِ اللهِ</arabic>
-        <translation language="en">In the name of Allah.</translation>
-        <reference language="en">Al-Tirmidhī (#606, 2/505) and <em>Sahīh al-Jāmiʿ</em> (#3210, 3/203). Also see <em>Irwāʾ al-Ghalīl</em> (#50).</reference>
-      </dua>
-    </group>
-    <group>
-      <title language="en">Before entering the toilet</title>
-      <dua>
-        <arabic>(بِسْمِ اللهِ) اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبْثِ وَالْخَبَائِثِ</arabic>
-        <translation language="en">(In the name of Allāh). O Allāh, I take refuge with you from all evil and evil-doers.</translation>
-        <reference language="en">Al-Bukhārī (#142, 1/45) and Muslim (#375, 1/283). The narration with the extension "In the name of Allāh" has been collected by Saʿīd bin Manṣūr, see <em>Fatḥ al-Bārī</em> (1/244).</reference>
-      </dua>
-    </group>
-    <group>
-      <title language="en">After leaving the toilet</title>
-      <dua>
-        <arabic>غُفْرَانَكَ</arabic>
-        <translation language="en">I ask You (Allāh) for forgiveness.</translation>
-        <reference language="en">Al-Tirmidhī (#7), Abū Dāwud (#30), Ibn Mājah (#300), and al-Nasāʾī in <em>ʿAmal al-Yawm wa al-Laylah</em> (#79). Also see the <em>takhrīj</em> of <em>Zād al-Maʿād</em> (2/386).</reference>
-      </dua>
-    </group>
-  <group>
+  <group id="3">
+    <title language="en">Supplication when wearing new clothes</title>
+    <dua id="6">
+      <arabic>اللَّهُمَّ لَكَ الحَمدُ أَنْتَ كَسَوْتَنِيهِ، أَسْأَلُكَ مِنْ خَيْرِهِ وَخَيْرِ مَا
+        صُنِعَ لَهُ، وَأَعُوذُ بِكَ مِنْ شَرِّهِ وَشِّرِ مَا صُنِعَ لَهُ</arabic>
+      <translation language="en">O Allāh, for You is all praise, You have clothed me with it (i.e.
+        the garment), I ask You for the good of it and the good for which it was made, and I seek
+        refuge with You from the evil of it and the evil for which it was made.</translation>
+      <reference language="en">Abū Dāwud (#4020) and al-Tirmidhī (#1767) and al-Baghawī. The wording
+        is from Abū Dāwud. Also see <em>Mukhtaṣar Shamāʾil al-Tirmidhī</em> by Al-Albānī (p.\
+        47).</reference>
+    </dua>
+  </group>
+  <group id="4">
+    <title language="en">Supplication said to someone wearing new clothes</title>
+    <dua id="7">
+      <arabic>تُبْلِي وَيُخْلِفُ اللهُ تَعَالَى</arabic>
+      <translation language="en">May you wear it out and Allāh replace it (with
+        another).</translation>
+      <reference language="en">Abū Dāwud (#4020, 4/41). Also see <em>Ṣaḥīḥ Abī Dāwud</em>
+        (2/760).</reference>
+    </dua>
+    <dua id="8">
+      <arabic>إِلبَسْ جَدِيداً، وَعِشْ حَمِيداً، وَمُتْ شَهِيداً</arabic>
+      <translation language="en">Wear anew, live commendably and die a martyr.</translation>
+      <reference language="en">Ibn Mājah (#3558, 2/1178) and al-Baghawī (12/41). Also see <em>Ṣaḥīḥ
+          Ibn Mājah</em> (2/275).</reference>
+    </dua>
+  </group>
+  <group id="5">
+    <title language="en">Before Undressing</title>
+    <dua id="9">
+      <arabic>بِسْمِ اللهِ</arabic>
+      <translation language="en">In the name of Allah.</translation>
+      <reference language="en">Al-Tirmidhī (#606, 2/505) and <em>Sahīh al-Jāmiʿ</em> (#3210, 3/203).
+        Also see <em>Irwāʾ al-Ghalīl</em> (#50).</reference>
+    </dua>
+  </group>
+  <group id="6">
+    <title language="en">Before entering the toilet</title>
+    <dua id="10">
+      <arabic>(بِسْمِ اللهِ) اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبْثِ وَالْخَبَائِثِ</arabic>
+      <translation language="en">(In the name of Allāh). O Allāh, I take refuge with you from all
+        evil and evil-doers.</translation>
+      <reference language="en">Al-Bukhārī (#142, 1/45) and Muslim (#375, 1/283). The narration with
+        the extension "In the name of Allāh" has been collected by Saʿīd bin Manṣūr, see <em>Fatḥ
+          al-Bārī</em> (1/244).</reference>
+    </dua>
+  </group>
+  <group id="7">
+    <title language="en">After leaving the toilet</title>
+    <dua id="11">
+      <arabic>غُفْرَانَكَ</arabic>
+      <translation language="en">I ask You (Allāh) for forgiveness.</translation>
+      <reference language="en">Al-Tirmidhī (#7), Abū Dāwud (#30), Ibn Mājah (#300), and al-Nasāʾī in
+          <em>ʿAmal al-Yawm wa al-Laylah</em> (#79). Also see the <em>takhrīj</em> of <em>Zād
+          al-Maʿād</em> (2/386).</reference>
+    </dua>
+  </group>
+  <group id="8">
     <title language="en">When starting ablution (wuḍū)</title>
-    <dua>
+    <dua id="12">
       <arabic>بِسْمِ اللهِ</arabic>
       <translation language="en">In the name of Allāh.</translation>
-      <reference language="en">Abū Dāwud (#101), Ibn Mājah (#399) and Aḥmad (2/418). Also see <em>Irwāʾ al-Ghalīl</em> (1/122).</reference>
+      <reference language="en">Abū Dāwud (#101), Ibn Mājah (#399) and Aḥmad (2/418). Also see
+          <em>Irwāʾ al-Ghalīl</em> (1/122).</reference>
     </dua>
   </group>
-  <group>
+  <group id="9">
     <title language="en">Upon completing ablution (Wuḍū)</title>
-    <dua>
-      <arabic>أَشْهَدُ أَنْ لَّا إِلَهَ إِلَّا اللهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، وَأَشْهَدُ أَنَّ مُحَمَّداً عَبْدُهُ وَرَسُولُهُ</arabic>
-      <translation>I bear witness that none has the right to be worshipped except Allāh, Alone, without partner, and I bear witness that Muḥammad is His slave and Messenger.</translation>
+    <dua id="13">
+      <arabic>أَشْهَدُ أَنْ لَّا إِلَهَ إِلَّا اللهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، وَأَشْهَدُ أَنَّ
+        مُحَمَّداً عَبْدُهُ وَرَسُولُهُ</arabic>
+      <translation>I bear witness that none has the right to be worshipped except Allāh, Alone,
+        without partner, and I bear witness that Muḥammad is His slave and Messenger.</translation>
       <reference>Muslim (#234, 1/209).</reference>
     </dua>
-    <dua>
-      <arabic>اللَّهُمَّ اجْعَلْنِي مِنَ التَّوَّابِينَ، وَاجْعَلْنِي مِنَ الْمُتَطَهِّرِينَ</arabic>
-      <translation>O Allāh, make me of those who return to You often in repentance and make me of those who remain clean and pure.</translation>
+    <dua id="14">
+      <arabic>اللَّهُمَّ اجْعَلْنِي مِنَ التَّوَّابِينَ، وَاجْعَلْنِي مِنَ
+        الْمُتَطَهِّرِينَ</arabic>
+      <translation>O Allāh, make me of those who return to You often in repentance and make me of
+        those who remain clean and pure.</translation>
       <reference>Al-Tirmidhī (#55, 1/78). Also see <em>Ṣaḥīḥ al-Tirmidhī</em> (1/18).</reference>
     </dua>
-    <dua>
-      <arabic>سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لَّا إِلٰهَ إِلَّا أَنْتَ، أَسْتَغْفِرُكَ وَأَتُوبُ إِلَيكَ</arabic>
-      <translation>How perfect You are O Allāh, and I praise You, I bear witness that none has the right to be worshipped except You, I seek Your forgiveness and turn in repentance to You.</translation>
-      <reference>Al-Nasāʾī in <em>ʿAmal al-Yawm wa al-Laylah</em> (#81, p.\ 173). Also see <em>Irwāʾ al-Ghalīl</em> (3/94).</reference>
+    <dua id="15">
+      <arabic>سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لَّا إِلٰهَ إِلَّا أَنْتَ،
+        أَسْتَغْفِرُكَ وَأَتُوبُ إِلَيكَ</arabic>
+      <translation>How perfect You are O Allāh, and I praise You, I bear witness that none has the
+        right to be worshipped except You, I seek Your forgiveness and turn in repentance to
+        You.</translation>
+      <reference>Al-Nasāʾī in <em>ʿAmal al-Yawm wa al-Laylah</em> (#81, p.\ 173). Also see <em>Irwāʾ
+          al-Ghalīl</em> (3/94).</reference>
     </dua>
   </group>
-  <group>
+  <group id="10">
     <title language="en">When leaving home</title>
-    <dua>
-      <arabic>بِسْمِ اللهِ، تَوَكَّلْتُ عَلَى اللهِ، وَلاَحَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ</arabic>
-      <translation>In the name of Allāh, I place my trust in Allāh, and there is no might nor power except with Allāh.</translation>
-      <reference>Abū Dāwud (#5094, 4/325) and al-Tirmidhī (#3427, 5/490). See <em>Ṣaḥīḥ al-Tirmidhī</em> (3/151).</reference>
+    <dua id="16">
+      <arabic>بِسْمِ اللهِ، تَوَكَّلْتُ عَلَى اللهِ، وَلاَحَوْلَ وَلَا قُوَّةَ إِلَّا
+        بِاللهِ</arabic>
+      <translation>In the name of Allāh, I place my trust in Allāh, and there is no might nor power
+        except with Allāh.</translation>
+      <reference>Abū Dāwud (#5094, 4/325) and al-Tirmidhī (#3427, 5/490). See <em>Ṣaḥīḥ
+          al-Tirmidhī</em> (3/151).</reference>
     </dua>
-    <dua>
-      <arabic>اللَّهُمَّ إِنَّي أَعْوْذُ بِكَ أَنْ أَضِلَّ، أَوْ أُضِلَّ، أَوْ أَزِلَّ، أُوْ أُزَلَّ أَوْ أَظْلِمَ، أَوْ أُظْلَمَ، أَوْ أَجْهَلَ، أَوْ يُجْهَلَ عَلَيَّ</arabic>
-      <translation>O Allāh, I take refuge with You lest I should stray or be led astray, or slip or be tripped, or oppress or be oppressed, or behave foolishly or be treated foolishly.</translation>
-      <reference>Abū Dāwud (#5094), al-Tirmidhī (#3427), al-Nasāʾī (8/268) and Ibn Mājah (#3884). Also see <em>Ṣaḥīḥ al-Tirmidhī</em> (3/152) and <em>Ṣaḥīḥ Ibn Mājah</em> (2/336).</reference>
+    <dua id="17">
+      <arabic>اللَّهُمَّ إِنَّي أَعْوْذُ بِكَ أَنْ أَضِلَّ، أَوْ أُضِلَّ، أَوْ أَزِلَّ، أُوْ أُزَلَّ
+        أَوْ أَظْلِمَ، أَوْ أُظْلَمَ، أَوْ أَجْهَلَ، أَوْ يُجْهَلَ عَلَيَّ</arabic>
+      <translation>O Allāh, I take refuge with You lest I should stray or be led astray, or slip or
+        be tripped, or oppress or be oppressed, or behave foolishly or be treated
+        foolishly.</translation>
+      <reference>Abū Dāwud (#5094), al-Tirmidhī (#3427), al-Nasāʾī (8/268) and Ibn Mājah (#3884).
+        Also see <em>Ṣaḥīḥ al-Tirmidhī</em> (3/152) and <em>Ṣaḥīḥ Ibn Mājah</em>
+        (2/336).</reference>
     </dua>
   </group>
-  <group>
+  <group id="11">
     <title language="en">Upon entering home</title>
-    <dua>
-      <arabic>بِسْمِ اللَّهِ وَلَجْنَا، وَبِسْمِ اللَّهِ خَرَجْنَا، وَعَلَى اللهِ رَبَّنَا تَوَكَّلْنَا</arabic>
-      <translation>In the name of Allāh we enter and in the name of Allāh we leave, and upon our Lord we place our trust.</translation>
-      <reference>Abū Dāwud (#5096, 4/325) and Muslim (#2018). Shaykh ʿAbd al-ʿAzīz bin Bāz graded the chain of the former ḥasan in <em>Tuḥfah al-Akhyār</em> (p.\ 28).</reference>
+    <dua id="18">
+      <arabic>بِسْمِ اللَّهِ وَلَجْنَا، وَبِسْمِ اللَّهِ خَرَجْنَا، وَعَلَى اللهِ رَبَّنَا
+        تَوَكَّلْنَا</arabic>
+      <translation>In the name of Allāh we enter and in the name of Allāh we leave, and upon our
+        Lord we place our trust.</translation>
+      <reference>Abū Dāwud (#5096, 4/325) and Muslim (#2018). Shaykh ʿAbd al-ʿAzīz bin Bāz graded
+        the chain of the former ḥasan in <em>Tuḥfah al-Akhyār</em> (p.\ 28).</reference>
     </dua>
   </group>
-  <group>
+  <group id="12">
     <title language="en">Supplication when going to the Masjid</title>
-    <dua>
-      <arabic>اللَّهُمَّ اجْعَلْ فِي قَلْبِي نُوْراً، وَفِي لِسَانِي نُوْراً، وَ فِي سَمْعِي نُوْراً، وَ فِي بَصَري نُوْراً، وَ مِنْ فَوقِي نُوْراً، وَمِنْ تحْتِي نُوْراً، وَعَنْ يَمِيْنِي نُوْراً، وَ عَنْ شِمَالِي  نُوْراً، وَ مِنْ أَمَامِي نُوْراً، وَ مِنْ خَلْفِي نُوراً، واجْعَلْ فِي نَفْسِي نُوراً، وَ أعْظِمْ لي نُوراً، وَ عَظِّمْ لي نُوراً، وَاجْعَلْ لي نُوراً، وَاجْعَلْنِي نُوراً، اللهم أَعْطِنِي نُوراً، وَاجْعَلْ في عَصَبِي نُوراً، وَ في لَحْمِي نُوراً، وَ في دَمِي نُوراً، وَ في شَعْرِي نُوراً، وَ في بَشَرِي نُوراً<sup>[1]</sup>. [اللهم اجْعَلْ لي نُوراً في قَبْرِي...وَ نُوراً في عِظَامِي]<sup>[2]</sup> [وَ زِدْنِي نُوراً، وَ زِدْنِي نُوراً، وَ زِدْنِي نُوراً]<sup>[1]</sup> [وَهَبْ لِي نُوراً عَلَى نُورٍ]<sup>[2]</sup>.</arabic>
-      <translation>O Allāh, place within my heart light, and upon my tongue light, and within my ears light, and within my eyes light, and place behind me light and in front of me light and above me light and beneath me light. O Allāh, bestow upon me light.</translation>
-      <reference>[1] Al-Bukhārī (#6316, 11/116) and Muslim (#763, 1/526,529,530).  
-        [2] Al-Tirmidhī (#3419, 5/483).</reference>
+    <dua id="19">
+      <arabic>اللَّهُمَّ اجْعَلْ فِي قَلْبِي نُوْراً، وَفِي لِسَانِي نُوْراً، وَ فِي سَمْعِي
+        نُوْراً، وَ فِي بَصَري نُوْراً، وَ مِنْ فَوقِي نُوْراً، وَمِنْ تحْتِي نُوْراً، وَعَنْ
+        يَمِيْنِي نُوْراً، وَ عَنْ شِمَالِي نُوْراً، وَ مِنْ أَمَامِي نُوْراً، وَ مِنْ خَلْفِي
+        نُوراً، واجْعَلْ فِي نَفْسِي نُوراً، وَ أعْظِمْ لي نُوراً، وَ عَظِّمْ لي نُوراً، وَاجْعَلْ
+        لي نُوراً، وَاجْعَلْنِي نُوراً، اللهم أَعْطِنِي نُوراً، وَاجْعَلْ في عَصَبِي نُوراً، وَ في
+        لَحْمِي نُوراً، وَ في دَمِي نُوراً، وَ في شَعْرِي نُوراً، وَ في بَشَرِي
+        نُوراً<sup>[1]</sup>. [اللهم اجْعَلْ لي نُوراً في قَبْرِي...وَ نُوراً في
+          عِظَامِي]<sup>[2]</sup> [وَ زِدْنِي نُوراً، وَ زِدْنِي نُوراً، وَ زِدْنِي
+          نُوراً]<sup>[1]</sup> [وَهَبْ لِي نُوراً عَلَى نُورٍ]<sup>[2]</sup>.</arabic>
+      <translation>O Allāh, place within my heart light, and upon my tongue light, and within my
+        ears light, and within my eyes light, and place behind me light and in front of me light and
+        above me light and beneath me light. O Allāh, bestow upon me light.</translation>
+      <reference>[1] Al-Bukhārī (#6316, 11/116) and Muslim (#763, 1/526,529,530). [2] Al-Tirmidhī
+        (#3419, 5/483).</reference>
     </dua>
   </group>
-  <group>
+  <group id="13">
     <title language="en">Upon entering the Masjid</title>
-    <dua>
-      <arabic>(يَبْدَأُ بِرِجْلِهِ اليُمْنَى)<sup>[1]</sup>، ويقول: (أَعُوْذُ بِاللَّهِ الْعَظِيمِ، وَبِوَجْهِهِ الْكَرِيمِ، وَسُلْطَانِهِ الْقَدِيمِ، مِنَ الشَّيْطَانِ الرَّجِيمِ)<sup>[2]</sup>، (بِسْمِ اللَّهِ, وَالصَّلاةُ)<sup>[3]</sup>. [وَالسَّلامُ عَلَى رَسُوْلِ اللَّهِ]<sup>[4]</sup>، (اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ)<sup>[5]</sup>.</arabic>
-      <translation>(Enter with your right foot<sup>[1]</sup> and say:) “I take refuge with Allāh, the Supreme and with His Noble Face, and His eternal authority from the accursed devil.<sup>[2]</sup> In the name of Allāh, and prayers<sup>[3]</sup> and peace be upon the Messenger of Allāh.<sup>[4]</sup> O Allāh, open the gates of Your mercy for me.”<sup>[5]</sup></translation>
-      <reference>[1] Al-Ḥākim (1/218) and he authenticated it with the conditions of Muslim and al-Dhahabī agreed with him, al-Bayhaqī (2/442), and al-Albānī declared it ḥasan in <em>Silsilah al-Ahādīth al-Ṣaḥīḥah</em> (#2478, 5/624).  
-        [2] Abū Dāwud (#466). Also see <em>Ṣaḥīḥ al-Jāmiʿ</em> (#4591).  
-        [3] Al-Nisā'i (#88) and Al-Albānī declared it ḥasan.  
-        [4] Abū Dāwud (#465, 1/126). Also see <em>Ṣaḥīḥ al-Jāmiʿ</em> (#514, 1/528).  
-        [5] Muslim (#713, 1/494), and Ibn Mājah (#771) from the ḥadīth of Fāṭimah with the wording (<div lang="ar">اللهم اغفرلي ذنوبي، وافتح لي أبواب رحمتك</div>) and al-Albānī declared it ṣaḥīḥ due to its shawāhid; see <em>Ṣaḥīḥ Ibn Mājah</em> (1/128-129).</reference>
+    <dua id="20">
+      <arabic>(يَبْدَأُ بِرِجْلِهِ اليُمْنَى)<sup>[1]</sup>، ويقول: (أَعُوْذُ بِاللَّهِ الْعَظِيمِ،
+        وَبِوَجْهِهِ الْكَرِيمِ، وَسُلْطَانِهِ الْقَدِيمِ، مِنَ الشَّيْطَانِ
+          الرَّجِيمِ)<sup>[2]</sup>، (بِسْمِ اللَّهِ، وَالصَّلاةُ)<sup>[3]</sup>. [وَالسَّلامُ عَلَى
+        رَسُوْلِ اللَّهِ]<sup>[4]</sup>، (اللَّهُمَّ افْتَحْ لِي أَبْوَابَ
+        رَحْمَتِكَ)<sup>[5]</sup>.</arabic>
+      <translation>(Enter with your right foot<sup>[1]</sup> and say:) “I take refuge with Allāh,
+        the Supreme and with His Noble Face, and His eternal authority from the accursed
+          devil.<sup>[2]</sup> In the name of Allāh, and prayers<sup>[3]</sup> and peace be upon the
+        Messenger of Allāh.<sup>[4]</sup> O Allāh, open the gates of Your mercy for
+          me.”<sup>[5]</sup></translation>
+      <reference>[1] Al-Ḥākim (1/218) and he authenticated it with the conditions of Muslim and
+        al-Dhahabī agreed with him, al-Bayhaqī (2/442), and al-Albānī declared it ḥasan in
+          <em>Silsilah al-Ahādīth al-Ṣaḥīḥah</em> (#2478, 5/624). [2] Abū Dāwud (#466). Also see
+          <em>Ṣaḥīḥ al-Jāmiʿ</em> (#4591). [3] Al-Nisā'i (#88) and Al-Albānī declared it ḥasan. [4]
+        Abū Dāwud (#465, 1/126). Also see <em>Ṣaḥīḥ al-Jāmiʿ</em> (#514, 1/528). [5] Muslim (#713,
+        1/494), and Ibn Mājah (#771) from the ḥadīth of Fāṭimah with the wording (<div lang="ar"
+          >اللهم اغفرلي ذنوبي، وافتح لي أبواب رحمتك</div>) and al-Albānī declared it ṣaḥīḥ due to
+        its shawāhid; see <em>Ṣaḥīḥ Ibn Mājah</em> (1/128-129).</reference>
     </dua>
   </group>
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+  <group id="14">
+    <title language="en">Upon leaving the Masjid</title>
+    <dua id="21">
+      <arabic>(يَبْدَأُ بِرِجْلِهِ الْيُسْرَى)<sup>[1]</sup> وَ يَقُولُ: (بِسْمِ اللهِ وَ الصَّلاةُ
+        وَالسَّلامُ عَلَى رَسُولِ اللهِ، اللهم إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ، اللهم اعْصِمْنِي
+        مِنَ الشَّيْطَانِ الرَّجِيْمِ)<sup>[2]</sup>.</arabic>
+      <translation>(Exit with your left foot and say:)<sup>[1]</sup> “In the name of Allāh, and
+        prayers and peace be upon the Messenger of Allāh. O Allāh, I ask You from Your favor. O
+        Allāh, guard me from the accursed devil.”<sup>[2]</sup></translation>
+      <reference>[1] Al-Ḥākim (1/218), al-Bayhaqī (2/442) and al-Albānī declared it ḥasan in
+          <em>Silsilah al-Ahādīth al-Ṣaḥīḥah</em> (#2478, 5/624). [2] See takhrīj of the previous
+        ḥadīth (duʿā #20) and the extension (<span lang="ar">اللهم اعصمني من الشيطان الرجيم</span>)
+        is from Ibn Mājah (#773), see <em>Ṣaḥīḥ Ibn Mājah</em> (1/129).</reference>
+    </dua>
+  </group>
+  <group id="15">
+    <title language="en">Supplications related to the athān</title>
+    <dua id="22">
+      <arabic>يَقُولُ مِثْلَ مَا يَقُولُ المُؤَذِّنُ إلَّا فِي «حَيَّ عَلَى الصَّلاةِ» وَ «حَيَّ
+        عَلَى الفَلاحِ» فَيَقُولُ: «لَا حَولَ وَ لَا قُوَّةَ إلَّا بِاللهِ».</arabic>
+      <translation>One repeats just as the muadhdhin (one who calls to prayers) says, except when he
+        says “come to prayer” or “come to success,” one should say “There is no might nor power
+        except with Allāh.”</translation>
+      <reference>Al-Bukhārī (#611, 1/152) and Muslim (#383, 1/288).</reference>
+    </dua>
+    <dua id="23">
+      <arabic>يَقُولُ: «وَ أَنَا أَشْهَدُ أَنْ لَا إله إلَّا اللهُ وَ حْدَهُ لَا شَرِيْكَ لَهُ، وَ
+        أَنَّ مُحَمَّداً عَبْدُهُ وَ رَسُولُهُ، رَضِيْتُ بِاللهِ رَبًّا، وَ بِمُحَمَّدٍ رَسُولًا، وَ
+        بِالإِسْلامِ دِيْنًا»<sup>[1]</sup> «يَقُولَ ذَلِكَ عَقِبَ تَشَهُّدِ
+          المُؤَذِّنِ».<sup>[2]</sup></arabic>
+      <translation>Say: “And I too bear witness that none has the right to be worshipped except
+        Allāh, alone, without partner, and that Muḥammad is His slave and Messenger. I am pleased
+        with Allāh as a Lord, and Muḥammad as a Messenger and Islam as a religion.”<sup>[1]</sup>
+        Say this after the declaration of faith called by the muadhdhin.<sup>[2]</sup></translation>
+      <reference>[1] Muslim (#386, 1/290). [2] Ibn Khuzaymah (#422, 1/220).</reference>
+    </dua>
+    <dua id="24">
+      <arabic>يُصَلِّي عَلَى النَّبِي صلى الله عليه وسلم بَعْدَ فَرَاغِهِ مِنْ إِجَابَةِ
+        المُؤَذِّنِ.</arabic>
+      <translation>One should send prayers on the Prophet () after answering the call of the
+        muadhdhin.</translation>
+      <reference>Muslim (#384, 1/288).</reference>
+    </dua>
+    <dua id="25">
+      <arabic>يَقُولُ: «اللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ ، وَالصَّلاةِ القَائِمَةِ ،
+        آتِ مُحَمَّداً الوَسِيْلَةَ وَالفَضِيْلَةَ ، وَابْعَثْهُ مَقَاماً مَحْمُوْداً الَّذِي
+        وَعَدْتَهُ ، [إِنَّكَ لاَ تُخْلِفُ الْمِيعَادِ]».</arabic>
+      <translation>Say: “O Allāh, Owner of this perfect call and Owner of this prayer to be
+        performed, bestow upon Muḥammad al-Wasīlah and al-Faḍīlah and send him upon a praised
+        platform which You have promised him. (Verily, You never fail in Your
+        promise.)”</translation>
+      <reference>Al-Bukhārī (#614, 1/152) and what is between the brackets is from al-Bayhaqī
+        (1/410). Shaykh ʿAbd al-ʿAzīz bin Bāz authenticated the chain of the latter in <em>Tuḥfah
+          al-Akhbār</em> (p. 38).</reference>
+    </dua>
+    <dua id="26">
+      <arabic>يَدْعُو لِنَفْسِهِ بَيْنَ الأَذَانِ وَالإِقَامَةِ؛ فَإنَّ الدُّعَاءَ حِيْنَئذٍ لَا يُرَدُّ.</arabic>
+      <translation>One should also supplicate for himself during the time between the adhān and the iqāmah as supplication at such time is not rejected.</translation>
+      <reference>Al-Tirmidhī (#212), Abū Dāwud (#521), and Aḥmad (3/119). Also see <em>Irwāʾ al-Ghalīl</em> (1/262).</reference>
+    </dua>
+  </group>
+  <group id="16">
+    <title language="en">Supplications at the start of the Ṣalāh (prayer)</title>
+    <dua id="27"><arabic>اللَّهُمَّ بَاعِدْ بَيْنِي وَبَيْنَ خَطَايَايَ كَمَا بَاعَدْتَ بَيْنَ الْمَشْرِقِ وَالْمَغْرِبِ، اللَّهُمَّ نَقِّنِي مِنْ خَطَايَايَ، كَمَا يُنَقَّى الثَّوْبُ الأَبْيَضُ مِنَ الدَّنَسِ، اللَّهُمَّ اغْسِلْنِي مِنْ خَطَايَايَ، بِالثَّلْجِ وَالْمَاءِ وَالْبَرَدِ.</arabic><translation>O Allāh, distance me from my sins just as You have distanced the East from the West. O Allāh, purify me of my sins as a white robe is purified of filth. O Allāh cleanse me of my sins with snow, water, and ice.</translation><reference>Al-Bukhārī (#744, 1/181) and Muslim (#598, 1/419).</reference></dua>
+  </group>
+  <dua id="28"><arabic>سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، وَتَبَارَكَ اسْمُكَ، وَتَعَالَى جَدُّكَ، وَلاَ إِلَهَ غَيْرُكَ.</arabic><translation>How perfect You are O Allāh, and I praise You. Blessed be Your name, and lofty is Your position and none has the right to be worshiped except You.</translation><reference>Abū Dāwud [775,776], al-Tirmidhī [242, 432], al-Nasāʾī (2/133), and Ibn Mājah [804, 806]. Also see <em>Ṣaḥīḥ al-Tirmidhī</em> (1/77) and <em>Ṣaḥīḥ Ibn Mājah</em> (1/135).</reference></dua>
+  <dua id="29"><arabic>وَجَّهْتُ وَجْهِيَ لِلَّذِي فَطَرَ السَّمَوَاتِ وَالأَرْضَ حَنِيفاً وَمَا أَنَا مِنَ الْمُشْرِكِينَ، إِنَّ صَلاتِي، وَنُسُكِي، وَمَحْيَايَ, وَمَمَاتِي لِلَّهِ رَبِّ الْعَالَمِينَ، لاَ شَرِيكَ لَهُ، وَبِذَلِكَ أُمِرْتُ وَأَنَا مِنَ الْمُسْلِمِينَ. اللَّهُمَّ أَنْتَ الْمَلِكُ لاَ إِلَهَ إِلاَّ أَنْتَ، أَنْتَ رَبِّي، وَأَنَا عَبْدُكَ، ظَلَمْتُ نَفْسِي، وَاعْتَرَفْتُ بِذَنْبِي فَاغْفِرْ لِي ذُنُوبِي جَمِيعاً إِنَّهُ لاَ يَغْفِرُ الذُّنُوبَ إِلاَّ أَنْتَ، وَاهْدِنِي لأَحْسَنِ الأَخْلاقِ لا يَهْدِي لأَحْسَنِهَا إلاَّ أَنْتَ، وَاصْرِفْ عَنِّي سَيِّئَهَا لاَ يَصْرِفُ عَنِّي سَيِّئَهَا إِلاَّ أَنْتَ، لَبَّيْكَ وَسَعْدَيْكَ، وَالْخَيْرُ كُلُّهُ بِيَدَيْكَ، وَالشَّرُّ لَيْسَ إِلَيْكَ، أَنَا بِكَ وَإِلَيْكَ، تَبَارَكْتَ وَتَعَالَيْتَ، أَسْتَغْفِرُكَ وَأَتُوْبُ إِلَيْكَ.</arabic><translation>I have turned my face sincerely towards He who has brought forth the heavens and the earth and I am not of those who associate (others with Allāh). Indeed my prayer, my sacrifice, my life, and my death are for Allāh, Lord of the Worlds, no partner has He, with this I am commanded and I am of the Muslims. O Allāh, You are the Sovereign, none has the right to be worshipped except You. You are my Lord and I am Your servant, I have wronged my own soul and have acknowledged my sin, so forgive me all my sins for no one forgives sins except You. Guide me to the best of characters for none can guide to it other than You, and deliver me from the worst of characters for none can deliever me from it other than You. Here I am, in answer to Your call, happy to serve You. All good is within Your hands and evil does not stem from You. I exist by Your will and will return to You. Blessed and High are You, I seek Your forgiveness and repent unto You.</translation<reference>Muslim (#771, 1/534).</reference>></dua>
+  <dua id="30"><arabic>اللهم رَبَّ جِبرَائِيْلَ، وَ مِيكَائيْلَ، وَإسْرَافيْلَ، فَاطِرَ السَّمَوَاتِ وَ الأرْضِ، عَالِمَ الغَيْبِ وَ الشَّهَادَةِ، أنْتَ تَحْكُمُ بَيْنَ عِبَادِكَ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ، اهْدِنِي لِمَا اخْتُلِفَ فِيهِ مِنَ الحَقِّ بِإذْنِكَ، إنَّكَ تَهْدِي مَنْ تَشَاءُ إلَى صِرَاطٍ مُسْتَقِيمٍ.</arabic><translation>O Allāh, Lord of Jibrāʾīl, Mīkāʾīl, and Isrāfīl (Great angels), Creator of the heavens and the Earth, Knower of the seen and the unseen. You are the arbitrator between Your servants in that which they have disputed. Guide me to the truth by Your leave, in that which they have differed, for verily You guide whom You will to a straight path.</translation><reference>Muslim (#770, 1/534).</reference></dua>
+  <dua id="31"><arabic>اللهُ أكْبَرُ كَبِيراً، اللهُ أكْبَرُ كَبِيراً، اللهُ أكْبَرُ كَبِيراً، وَ الحَمْدُلِلَّهِ كَثِيراً، وَالحَمْدُلِلَّهِ كَثِيراً، وَالحَمْدُلِلَّهِ كَثِيراً، وَ سُبْحَانَ اللهِ بُكْرَةً وَأصِيلاً (ثَلاثًا) أعُوذ بِا اللهِ مِنَ الشَّيْطَانِ: مِنْ نَفْحِهِ وَ نَفْثِهِ، وَ هَمْزِهِ.</arabic><translation>Allāh is Most Great, Allāh is Most Great, Allāh is Most Great, much praise is for Allāh, much praise is for Allāh, much praise is for Allāh, and I declare the perfection of Allāh in the early morning and in the late afternoon. (Three times) I take refuge with Allāh from the devil, from his pride, his poetry and his madness.</translation><reference>Abū Dāwud (#764, 1/203), Ibn Mājah (#807, 1/265), Aḥmad (#4/85), and Muslim (#601, 1/420) with extension from: (<div lang="ar">مِنْ نَفْحِهِ</div>).</reference></dua>
+  <dua id="32"><arabic>اللّٰهُمَّ لَكَ الحَمْدُ، أَنْتَ نُورُ السَّمَوَاتِ والأرْضِ وَ مَنْ فِيهِنَّ، وَ لَكَ الحَمْدُ، أَنْتَ قَيِّمُ السَّمَوَاتِ وَالأرْضِ وَ مَنْ فِيهِنَّ، [وَ لَكَ الحَمْدُ، أَنْتَ رَبُّ السَّمَوَاتِ وَالأرْضِ وَ مَنْ فِيهِنَّ]، [وَ لَكَ الحَمْدُ، لَكَ مُلْكُ السَّمَوَاتِ وَالأرْضِ وَ مَنْ فِيهِنَّ][وَ لَكَ الحَمْدُ، أَنْتَ مَلِكُ السَّمَوَاتِ وَالأرْضِ][وَ لَكَ الحَمْدُ][أَنْتَ الحَقُّ، وَ وَعْدُكَ الحَقُّ، وَ قَولُكَ الحَقُّ، وَ لِقَاؤُكَ الحَقُّ، وَالجَنَّةُ حَقٌّ، وَالنَّارُ حَقٌّ، وَالنَّبِيُّونَ حَقٌّ، وَ مُحَمَّدٌ ﷺ حَقٌّ، وَالسَّاعَةُ حَقٌّ][اللّٰهُمَّ لَكَ أسْلَمْتُ، وَ عَلَيْكَ تَوَكَّلْتُ، وَ بِكَ آمَنْتُ، وَ إلَيْكَ أنَبْتُ، وَ بِكَ خَاصَمْتُ، وَ إلَيْكَ حَاكَمْتُ. فَاغْفِرْ لِي مَا قَدَّمْتُ، و أخَّرْتُ، وَ مَا أسْرَرْتُ، وَ مَا أعْلَنْتُ][أَنْتَ المُقَدِّمُ، وَ أَنْتَ المُؤَخِّرُ لَا إلٰهَ إلَّا أَنْتَ][أَنْتَ إلٰهِي لَا إلٰهَ إلَّا أَنْتَ].</arabic><translation>The Prophet () would say (as an opening supplication in prayer) when arising from sleep to perform prayers during the night:  
+    "O Allāh, to You belongs all praise, You are the Light of the heavens and the Earth and all that is within them. To You belongs all praise, You are the Sustainer of the heavens and the Earth and all that is within them. To You belongs all praise. You are Lord of the heavens and the Earth and all that is within them. To You belongs all praise and the kingdom of the heavens and the Earth and all that is within them. To You belongs all praise, You are the King of the heavens and the Earth and to You belongs all praise. You are The Truth, Your promise is true, Your Word is true, and the Day in which we will encounter You is true, the Garden of Paradise is true and the Fire is true, and the Prophets are true, Muḥammad () is true and the Final Hour is true. O Allāh, unto You I have submitted, and upon You I have relied, and in You I have believed, and to You I have turned in repentance, and over You I have disputed, and to You I have turned for judgment. So forgive me for what has come to pass of my sins and what will come to pass, and what I have hidden and what I have made public. You are al-Muqaddim and al-Muʾakhkhir. None has the right to be worshipped except You, You are my Deity, none has the right to be worshipped except You."</translation><reference>Al-Bukhārī (3/3), (11/116), and (#1120, 13/371, 423, 465), and Muslim (#769, 1/532) in a summarised form.</reference></dua>
+  <group id="17">
+    <title language="en">While bowing in Ṣalāh (Rukūʿ)</title>
+  </group>
+  <group id="18">
+    <title language="en">Upon rising from Rukūʿ</title>
+  </group>
+  <group id="19">
+    <title language="en">Supplications while in Sujūd (prostation in Ṣalāh)xmk</title>
+  </group>
+  <group id="20">
+    <title language="en">Supplications between sajdatayn (two prostrations)</title>
+  </group>
+  <group id="21">
+    <title language="en">Supplication for Sajdah (prostration) due to recitation of Qurʾān</title>
+  </group>
+  <group id="22">
+    <title language="en">Dua of Tashahhud</title>
+  </group>
+  <group id="23">
+    <title language="en">Dua for the Prophet () after the Tashahhud</title>
+  </group>
+  <group id="24">
+    <title language="en">Supplication to be said after the last Tashahhud and before the
+      Taslīm</title>
+  </group>
+  <group id="25">
+    <title language="en">Remembrance after the Taslīm</title>
+  </group>
+  <group id="26">
+    <title language="en">Supplication for seeking guidance in forming a decision or choosing the
+      proper course, etc... (al-Istikhārah)</title>
+  </group>
+  <group id="27">
+    <title language="en">Remembrance said in the morning and evening</title>
+  </group>
+  <group id="28">
+    <title language="en">Remembrance before sleeping</title>
+  </group>
+  <group id="29">
+    <title language="en">Supplication when turning over during the night</title>
+  </group>
+  <group id="30">
+    <title language="en">Upon experiencing unrest, fear, apprehensiveness, and the like during
+      sleep</title>
+  </group>
+  <group id="31">
+    <title language="en">Upon seeing a bad dream</title>
+  </group>
+  <group id="32">
+    <title language="en">Duʿā Qunūt al-Witr</title>
+  </group>
+  <group id="33">
+    <title language="en">Remembrance immediately after the Taslīm of the Witr Ṣalāh</title>
+  </group>
+  <group id="34">
+    <title language="en">Supplication for anxiety and sorrow</title>
+  </group>
+  <group id="35">
+    <title language="en">Supplication for one in distress</title>
+  </group>
+  <group id="36">
+    <title language="en">Upon encountering an enemy or those of authority</title>
+  </group>
+  <group id="37">
+    <title language="en">For fear of the oppression of rulers</title>
+  </group>
+  <group id="38">
+    <title language="en">Against enemies</title>
+  </group>
+  <group id="39">
+    <title language="en">When afraid of a group of people</title>
+  </group>
+  <group id="40">
+    <title language="en">Supplication for one afflicted with doubt in his faith</title>
+  </group>
+  <group id="41">
+    <title language="en">Settling a debt</title>
+  </group>
+  <group id="42">
+    <title language="en">Supplication for one afflicted by whispering in prayer or
+      recitation</title>
+  </group>
+  <group id="43">
+    <title language="en">Supplication for one whose affairs have become difficult</title>
+  </group>
+  <group id="44">
+    <title language="en">Upon committing a sin</title>
+  </group>
+  <group id="45">
+    <title language="en">Supplications for expelling the devil and his whisperings</title>
+  </group>
+  <group id="46">
+    <title language="en">Supplication when stricken with a mishap or overtaken by an affair</title>
+  </group>
+  <group id="47">
+    <title language="en">Congratulations on the occasion of a birth</title>
+  </group>
+  <group id="48">
+    <title language="en">Placing children under Allah's protection</title>
+  </group>
+  <group id="49">
+    <title language="en">When visiting the sick</title>
+  </group>
+  <group id="50">
+    <title language="en">Excellence of visiting the sick</title>
+  </group>
+  <group id="51">
+    <title language="en">Supplication of the sick who have renounced all hope of life</title>
+  </group>
+  <group id="52">
+    <title language="en">Instruction for one nearing death</title>
+  </group>
+  <group id="53">
+    <title language="en">Supplication for one afflicted by a calamity</title>
+  </group>
+  <group id="54">
+    <title language="en">When closing the eyes of the deceased</title>
+  </group>
+  <group id="55">
+    <title language="en">Supplication for the deceased at the funeral prayer</title>
+  </group>
+  <group id="56">
+    <title language="en">Supplication for the deceased child at the funeral prayer</title>
+  </group>
+  <group id="57">
+    <title language="en">Condolence</title>
+  </group>
+  <group id="58">
+    <title language="en">Placing the deceased in the grave</title>
+  </group>
+  <group id="59">
+    <title language="en">After burying the deceased</title>
+  </group>
+  <group id="60">
+    <title language="en">Visiting the graves</title>
+  </group>
+  <group id="61">
+    <title language="en">Supplication said during a wind storm</title>
+  </group>
+  <group id="62">
+    <title language="en">Supplication upon hearing thunder</title>
+  </group>
+  <group id="63">
+    <title language="en">Supplication for rain</title>
+  </group>
+  <group id="64">
+    <title language="en">Supplication when it's raining</title>
+  </group>
+  <group id="65">
+    <title language="en">Supplication after rain</title>
+  </group>
+  <group id="66">
+    <title language="en">Asking for skies</title>
+  </group>
+  <group id="67">
+    <title language="en">Upon sighting the crescent moon</title>
+  </group>
+  <group id="68">
+    <title language="en">Upon breaking fast</title>
+  </group>
+  <group id="69">
+    <title language="en">Supplication before eating</title>
+  </group>
+  <group id="70">
+    <title language="en">Upon completion of a meal</title>
+  </group>
+  <group id="71">
+    <title language="en">Supplication of the guest for the host</title>
+  </group>
+  <group id="72">
+    <title language="en">Supplication said to one offering a drink or to one who intended to do
+      that</title>
+  </group>
+  <group id="73">
+    <title language="en">Supplication said when breaking fast in someone's home</title>
+  </group>
+  <group id="74">
+    <title language="en">Supplication said by one fasting when presented with food and does not
+      break his fast</title>
+  </group>
+  <group id="75">
+    <title language="en">If insulted while fasting</title>
+  </group>
+  <group id="76">
+    <title language="en">Supplication said upon seeing the early or premature fruit</title>
+  </group>
+  <group id="77">
+    <title language="en">Supplication said upon sneezing</title>
+  </group>
+  <group id="78">
+    <title language="en">What to say to a kāfir who praises Allāh after sneezing</title>
+  </group>
+  <group id="79">
+    <title language="en">Supplication said to the newlywed</title>
+  </group>
+  <group id="80">
+    <title language="en">The groom's supplication on the wedding night or when buying an
+      animal</title>
+  </group>
+  <group id="81">
+    <title language="en">Supplication before sexual intercourse</title>
+  </group>
+  <group id="82">
+    <title language="en">When angry</title>
+  </group>
+  <group id="83">
+    <title language="en">Supplication said upon seeing someone in trial or tribulation</title>
+  </group>
+  <group id="84">
+    <title language="en">Remembrance said at a sitting, gathering, etc...</title>
+  </group>
+  <group id="85">
+    <title language="en">Supplication for the expiation of sins said at the conclusion of a sitting,
+      gathering, etc...</title>
+  </group>
+  <group id="86">
+    <title language="en">Replying to a supplication of forgiveness</title>
+  </group>
+  <group id="87">
+    <title language="en">Supplication said to one who does you a favor</title>
+  </group>
+  <group id="88">
+    <title language="en">Protection from the Dajjāl</title>
+  </group>
+  <group id="89">
+    <title language="en">Supplication said to one who pronounces their love for you for Allāh's
+      sake</title>
+  </group>
+  <group id="90">
+    <title language="en">Supplication said to one who has offered you some of his wealth</title>
+  </group>
+  <group id="91">
+    <title language="en">Supplication said to the debtor when his debt is settled</title>
+  </group>
+  <group id="92">
+    <title language="en">Supplication for fear of Shirk</title>
+  </group>
+  <group id="93">
+    <title language="en">Returning a supplication after having bestowed a gift or charity upon
+      someone</title>
+  </group>
+  <group id="94">
+    <title language="en">Forbiddance of ascribing things to omens</title>
+  </group>
+  <group id="95">
+    <title language="en">Supplication said when mounting an animal or any means of transport</title>
+  </group>
+  <group id="96">
+    <title language="en">Supplication for travel</title>
+  </group>
+  <group id="97">
+    <title language="en">Supplication upon entering a town, village, etc...</title>
+  </group>
+  <group id="98">
+    <title language="en">When entering a market</title>
+  </group>
+  <group id="99">
+    <title language="en">Supplication for when the mounted animal or means of transport
+      stumbles</title>
+  </group>
+  <group id="100">
+    <title language="en">Supplication of the traveler for the resident</title>
+  </group>
+  <group id="101">
+    <title language="en">Supplication of the resident for the traveler</title>
+  </group>
+  <group id="102">
+    <title language="en">Remembrance while ascending and descending</title>
+  </group>
+  <group id="103">
+    <title language="en">Prayer of the traveler as dawn approaches</title>
+  </group>
+  <group id="104">
+    <title language="en">Stopping or lodging somewhere</title>
+  </group>
+  <group id="105">
+    <title language="en">When returning from travel</title>
+  </group>
+  <group id="106">
+    <title language="en">Supplication after receiving good or bad news</title>
+  </group>
+  <group id="107">
+    <title language="en">Excellence of sending prayers upon the Prophet ()</title>
+  </group>
+  <group id="108">
+    <title language="en">Excellence of spreading the Islamic greeting</title>
+  </group>
+  <group id="109">
+    <title language="en">How to reply to the Salām of a Kāfir</title>
+  </group>
+  <group id="110">
+    <title language="en">Supplication after hearing a rooster crow or a donkey bray</title>
+  </group>
+  <group id="111">
+    <title language="en">Supplication upon hearing the barking of dogs at night</title>
+  </group>
+  <group id="112">
+    <title language="en">Supplication said for one you have insulted</title>
+  </group>
+  <group id="113">
+    <title language="en">The etiquette of praising a fellow Muslim</title>
+  </group>
+  <group id="114">
+    <title language="en">For the one who has been praised</title>
+  </group>
+  <group id="115">
+    <title language="en">The Talbiyah for the one doing Ḥajj or ʿUmrah</title>
+  </group>
+  <group id="116">
+    <title language="en">The Takbīr when passing the Black Stone</title>
+  </group>
+  <group id="117">
+    <title language="en">Between the Yemenī corner and the Black Stone</title>
+  </group>
+  <group id="118">
+    <title language="en">When at Mount Safa and Mount Marwa</title>
+  </group>
+  <group id="119">
+    <title language="en">On the day of ʿArafah</title>
+  </group>
+  <group id="120">
+    <title language="en">At the Sacred Site (al-Mashar al-Ḥaram) [CHECK #238]</title>
+  </group>
+  <group id="121">
+    <title language="en">Supplication for throwing a pebble at the Jamarāt</title>
+  </group>
+  <group id="122">
+    <title language="en">What to say at times of amazement and delight</title>
+  </group>
+  <group id="123">
+    <title language="en">What to do upon receiving pleasant news</title>
+  </group>
+  <group id="124">
+    <title language="en">What to say and do when feeling some pain in the body</title>
+  </group>
+  <group id="125">
+    <title language="en">What do say when in fear of inflicting something or someone with evil
+      eye</title>
+  </group>
+  <group id="126">
+    <title language="en">What to say when startled</title>
+  </group>
+  <group id="127">
+    <title language="en">When slaughtering or offering a sacrifice</title>
+  </group>
+  <group id="128">
+    <title language="en">What is said to ward off deception of the obstinate Shayṭāns</title>
+  </group>
+  <group id="129">
+    <title language="en">Seeking forgiveness and repentance</title>
+  </group>
+  <group id="130">
+    <title language="en">Excellence of al-Tasbih, al-Tahmid, al-Tahlil, and al-Takbīr</title>
+  </group>
+  <group id="131">
+    <title language="en">How the Prophet () made Tasbīh [#266 ʿAmr/More detail, maybe?]</title>
+  </group>
+  <group id="132">
+    <title language="en">General and beneficial rules</title>
+  </group>
 </hisnulmuslim>
