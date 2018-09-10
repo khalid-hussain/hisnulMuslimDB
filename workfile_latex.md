@@ -3,6 +3,7 @@
 - Determing a more clear reference for different pages in a volume.
 
 <!-- Please check the following dua -->
+Dua 17 --> Check the Arabic
 Dua 20 --> This has great problems. Especially the reference.
 Dua 32
 Dua 37
@@ -183,6 +184,8 @@ Dua 265 (Complete the Reference)
     [1] Al-Bukhārī (#6316, 11/116) and Muslim (#763, 1/526,529,530).  
     [2] Al-Tirmidhī (#3419, 5/483).
 
+# Upon entering the Masjid
+
 <!-- TODO double check the following – Translation of ref (5) -->
 
 20. <div lang="ar">(يَبْدَأُ بِرِجْلِهِ اليُمْنَى)<sup>[1]</sup>، ويقول: (أَعُوْذُ بِاللَّهِ الْعَظِيمِ، وَبِوَجْهِهِ الْكَرِيمِ، وَسُلْطَانِهِ الْقَدِيمِ، مِنَ الشَّيْطَانِ الرَّجِيمِ)<sup>[2]</sup>، (بِسْمِ اللَّهِ, وَالصَّلاةُ)<sup>[3]</sup>. [وَالسَّلامُ عَلَى رَسُوْلِ اللَّهِ]<sup>[4]</sup>، (اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ)<sup>[5]</sup>.</ar>
@@ -195,14 +198,18 @@ Dua 265 (Complete the Reference)
     [4] Abū Dāwud (#465, 1/126). Also see _Ṣaḥīḥ al-Jāmiʿ_ (#514, 1/528).  
     [5] Muslim (#713, 1/494), and Ibn Mājah (#771) from the ḥadīth of Fāṭimah with the wording (<div lang="ar">اللهم اغفرلي ذنوبي، وافتح لي أبواب رحمتك</div>) and al-Albānī declared it ṣaḥīḥ due to its shawāhid; see _Ṣaḥīḥ Ibn Mājah_ (1/128-129).
 
+# Upon leaving the masjid
+
 <!-- TODO double check the following -->
 
 21. <div lang="ar">(يَبْدَأُ بِرِجْلِهِ الْيُسْرَى)<sup>[1]</sup> وَ يَقُولُ: (بِسْمِ اللهِ وَ الصَّلاةُ وَالسَّلامُ عَلَى رَسُولِ اللهِ، اللهم إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ، اللهم اعْصِمْنِي مِنَ الشَّيْطَانِ الرَّجِيْمِ)<sup>[2]</sup>.</div>
 
     (Exit with your left foot and say:)<sup>[1]</sup> “In the name of Allāh, and prayers and peace be upon the Messenger of Allāh. O Allāh, I ask You from Your favor. O Allāh, guard me from the accursed devil.”<sup>[2]</sup>
 
-    [1] Al-Ḥākim (1/218), al-Bayhaqī (2/442) and al-Albānī declared it ḥasan in _Silsilah al-Ahādīth al-Ṣaḥīḥah_ (#2478, 5/624).  
+    [1] Al-Ḥākim (1/218), al-Bayhaqī (2/442) and al-Albānī declared it ḥasan in _Silsilah al-Ahādīth al-Ṣaḥīḥah_ (#2478, 5/624).
     [2] See takhrīj of the previous ḥadīth (duʿā #20) and the extension (<div lang="ar">اللهم اعصمني من الشيطان الرجيم</div>) is from Ibn Mājah (#773), see _Ṣaḥīḥ Ibn Mājah_ (1/129).
+
+# Upon hearing the athān
 
 22. <div lang="ar">يَقُولُ مِثْلَ مَا يَقُولُ المُؤَذِّنُ إلَّا فِي «حَيَّ عَلَى الصَّلاةِ» وَ «حَيَّ عَلَى الفَلاحِ» فَيَقُولُ: «لَا حَولَ وَ لَا قُوَّةَ إلَّا بِاللهِ».</div>
 
@@ -219,7 +226,7 @@ Dua 265 (Complete the Reference)
 
 24. <div lang="ar">يُصَلِّي عَلَى النَّبِي صلى الله عليه وسلم بَعْدَ فَرَاغِهِ مِنْ إِجَابَةِ المُؤَذِّنِ.</div>
 
-    One should send prayers on the Prophet \pbuh after answering the call of the muadhdhin.
+    One should send prayers on the Prophet () after answering the call of the muadhdhin.
 
     Muslim (#384, 1/288).
 
@@ -234,6 +241,8 @@ Dua 265 (Complete the Reference)
     One should also supplicate for himself during the time between the adhān and the iqāmah as supplication at such time is not rejected.
 
     Al-Tirmidhī (#212), Abū Dāwud (#521) and Aḥmad (3/119). Also see _Irwāʾ al-Ghalīl_ (1/262).
+
+# Supplications at the start of the Ṣalāh (prayer)
 
 27. <div lang="ar">اللَّهُمَّ بَاعِدْ بَيْنِي وَبَيْنَ خَطَايَايَ كَمَا بَاعَدْتَ بَيْنَ الْمَشْرِقِ وَالْمَغْرِبِ، اللَّهُمَّ نَقِّنِي مِنْ خَطَايَايَ، كَمَا يُنَقَّى الثَّوْبُ الأَبْيَضُ مِنَ الدَّنَسِ، اللَّهُمَّ اغْسِلْنِي مِنْ خَطَايَايَ، بِالثَّلْجِ وَالْمَاءِ وَالْبَرَدِ.</div>
 
@@ -269,12 +278,14 @@ Dua 265 (Complete the Reference)
 
 32. <div lang="ar">اللّٰهُمَّ لَكَ الحَمْدُ، أَنْتَ نُورُ السَّمَوَاتِ والأرْضِ وَ مَنْ فِيهِنَّ، وَ لَكَ الحَمْدُ، أَنْتَ قَيِّمُ السَّمَوَاتِ وَالأرْضِ وَ مَنْ فِيهِنَّ، [وَ لَكَ الحَمْدُ، أَنْتَ رَبُّ السَّمَوَاتِ وَالأرْضِ وَ مَنْ فِيهِنَّ]، [وَ لَكَ الحَمْدُ، لَكَ مُلْكُ السَّمَوَاتِ وَالأرْضِ وَ مَنْ فِيهِنَّ][وَ لَكَ الحَمْدُ، أَنْتَ مَلِكُ السَّمَوَاتِ وَالأرْضِ][وَ لَكَ الحَمْدُ][أَنْتَ الحَقُّ، وَ وَعْدُكَ الحَقُّ، وَ قَولُكَ الحَقُّ، وَ لِقَاؤُكَ الحَقُّ، وَالجَنَّةُ حَقٌّ، وَالنَّارُ حَقٌّ، وَالنَّبِيُّونَ حَقٌّ، وَ مُحَمَّدٌ ﷺ حَقٌّ، وَالسَّاعَةُ حَقٌّ][اللّٰهُمَّ لَكَ أسْلَمْتُ، وَ عَلَيْكَ تَوَكَّلْتُ، وَ بِكَ آمَنْتُ، وَ إلَيْكَ أنَبْتُ، وَ بِكَ خَاصَمْتُ، وَ إلَيْكَ حَاكَمْتُ. فَاغْفِرْ لِي مَا قَدَّمْتُ، و أخَّرْتُ، وَ مَا أسْرَرْتُ، وَ مَا أعْلَنْتُ][أَنْتَ المُقَدِّمُ، وَ أَنْتَ المُؤَخِّرُ لَا إلٰهَ إلَّا أَنْتَ][أَنْتَ إلٰهِي لَا إلٰهَ إلَّا أَنْتَ].</div>
 
-    The Prophet \pbuh would say (as an opening supplication in prayer) when arising from sleep to perform prayers during the night:  
-    "O Allāh, to You belongs all praise, You are the Light of the heavens and the Earth and all that is within them. To You belongs all praise, You are the Sustainer of the heavens and the Earth and all that is within them. To You belongs all praise. You are Lord of the heavens and the Earth and all that is within them. To You belongs all praise and the kingdom of the heavens and the Earth and all that is within them. To You belongs all praise, You are the King of the heavens and the Earth and to You belongs all praise. You are The Truth, Your promise is true, Your Word is true, and the Day in which we will encounter You is true, the Garden of Paradise is true and the Fire is true, and the Prophets are true, Muḥammad \pbuh is true and the Final Hour is true. O Allāh, unto You I have submitted, and upon You I have relied, and in You I have believed, and to You I have turned in repentance, and over You I have disputed, and to You I have turned for judgment. So forgive me for what has come to pass of my sins and what will come to pass, and what I have hidden and what I have made public. You are al-Muqaddim and al-Muʾakhkhir. None has the right to be worshipped except You, You are my Deity, none has the right to be worshipped except You."
+    The Prophet () would say (as an opening supplication in prayer) when arising from sleep to perform prayers during the night:  
+    "O Allāh, to You belongs all praise, You are the Light of the heavens and the Earth and all that is within them. To You belongs all praise, You are the Sustainer of the heavens and the Earth and all that is within them. To You belongs all praise. You are Lord of the heavens and the Earth and all that is within them. To You belongs all praise and the kingdom of the heavens and the Earth and all that is within them. To You belongs all praise, You are the King of the heavens and the Earth and to You belongs all praise. You are The Truth, Your promise is true, Your Word is true, and the Day in which we will encounter You is true, the Garden of Paradise is true and the Fire is true, and the Prophets are true, Muḥammad () is true and the Final Hour is true. O Allāh, unto You I have submitted, and upon You I have relied, and in You I have believed, and to You I have turned in repentance, and over You I have disputed, and to You I have turned for judgment. So forgive me for what has come to pass of my sins and what will come to pass, and what I have hidden and what I have made public. You are al-Muqaddim and al-Muʾakhkhir. None has the right to be worshipped except You, You are my Deity, none has the right to be worshipped except You."
 
     Al-Bukhārī (3/3), (11/116), and (#1120, 13/371, 423, 465), and Muslim (#769, 1/532) in a summarised form.
 
 <!-- TODO double check the reference for Ahmad -->
+
+# While bowing in Ṣalāh (Rukūʿ)
 
 33. <div lang="ar">سُبْحَانَ رَبَّيَ الْعَظِيمِ (ثلاثا)</div>
 
@@ -308,6 +319,8 @@ Dua 265 (Complete the Reference)
 
     Abū Dāwud (#873, 1/230), al-Nasāʾī (2/191) and Aḥmad (6/24).
 
+# Upon rising from Rukūʿ
+
 38. <div lang="ar">سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ.</div>
 
     May Allāh answer he who praises Him.
@@ -327,6 +340,8 @@ Dua 265 (Complete the Reference)
     The heavens and the earth and all between them abound with Your praises, and all that You will abounds with Your praises. O Possessor of praise and majesty, the truest thing a slave has said (of You) and we are all Your slaves. O Allāh, none can prevent what You have willed to bestow and none can bestow what You have willed to prevent, and no wealth or majesty can benefit anyone, as from You is all wealth and majesty.
 
     Muslim (#477, 1/346).
+
+# Supplications while in Sujūd (prostation in Ṣalāh)
 
 41. <div lang="ar">سُبْحَانَ رَبَّيَ الأَعْلَى (ثلاثا)</div>
 
@@ -364,6 +379,8 @@ Dua 265 (Complete the Reference)
 
     Muslim (#483, 1/350).
 
+# Supplications between sajdatayn (two prostrations)
+
 47. <div lang="ar">اللَّهُمَّ إِنِّي أَعُوْذُ بِرِضَاكَ مِنْ سَخَطِكَ، وَبِمُعَافَاتِكَ مِنْ عُقُوبَتِكَ، وَأَعُوْذُ بِكَ مِنْكَ، لاَ أُحْصِي ثَنَاءً عَلَيْكَ، أَنْتَ كَمَا أَثْنَيْتَ عَلَى نَفْسِكَ</div>
 
     O Allāh, I take refuge within Your pleasure from Your displeasure and within Your pardon from Your punishment, and I take refuge in You from You. I cannot enumerate Your praise. You are as You have praised Yourself.
@@ -375,6 +392,8 @@ Dua 265 (Complete the Reference)
     My Lord forgive me, My Lord forgive me.
 
     Abū Dāwud (#874, 1/231). Also see _Ṣaḥīḥ Ibn Mājah_ (1/148).
+
+# Supplication for Sajdah (prostration) due to recitation of Qurʾān
 
 49. <div lang="ar">اللَّهُمَّ اغْفِرْ لِي، وَارْحَمْنِي، وَاهْدِنِي، وَاجْبُرْنِي، وَعَافِنِي، وَارْزُقْنِي، وَارْفَعْنِي</div>
 
@@ -388,6 +407,8 @@ Dua 265 (Complete the Reference)
 
     Al-Tirmidhī (#580, 2/474), Aḥmad (6/30) and al-Hākim declated it authentic and al-Dhahabī agreed with him (1/220). The extension is from Ṣūrah al-Muʾminūn.
 
+# Duʿā of Tashahhud
+
 51. <div lang="ar">اللَّهُمَّ اكْتُبْ لِي بِهَا عِنْدَكَ أَجْراً، وَضَعْ عَنِّي بِهَا وِزْراً، وَاجْعَلْهَا لِي عِنْدَكَ ذُخْراً، وَتَقَبَّلَهَا مِنِّي كَمَا تَقَبَّلْتَهَا مِنْ عَبْدِكَ دَاوُدَ</div>
 
     O Allāh, record for me a reward for this (prostration), and remove from me a sin. Save it for me and accept it from me just as You had accepted it from Your servant Dāwud.
@@ -400,6 +421,8 @@ Dua 265 (Complete the Reference)
 
     Al-Bukhārī (#831, 2/311) and Muslim (#402, 1/301).
 
+# Dua for the Prophet () after the Tashahhud
+
 53. <div lang="ar">اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ، اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ</div>
 
     O Allāh, send prayers upon Muḥammad and the followers of Muḥammad, just as You sent prayers upon Ibrāhim and upon the followers of Ibrāhim. Verily, You are full of praise and majesty. O Allāh, send blessings upon Muḥammad and upon the family of Muḥammad, just as You sent blessings upon Ibrāhim and upon the family of Ibrāhim. Verily, You are full of praise and majesty.
@@ -411,6 +434,8 @@ Dua 265 (Complete the Reference)
     O Allāh, send prayers upon Muḥammad and upon the wives and descendants of Muḥammad, just as You sent prayers upon the family of Ibrāhim, and send blessings upon Muḥammad and upon the wives and descendants of Muḥammad, just as You sent blessings upon the family of Ibrāhim. Verily, You are full of praise and majesty.
 
     Al-Bukhārī (#3369, 2/407) and Muslim (#407, 1/306).
+
+# Invocations after the final Tashahhud and before ending the prayer
 
 55. <div lang="ar">اللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنْ عَذَابِ الْقَبْرِ، وَمِنْ عَذَابِ جَهَنَّمَ، وَمِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ، وَمِنْ شَرِّ فِتْنَةِ الْمَسِيحِ الدَّجَّالِ</div>
 
@@ -546,7 +571,7 @@ Abū Dāwud (#1523, 2/86) and al-Nasāʾī (3/68). Also see _Ṣaḥīḥ al-Tir
 73. <div lang="ar">اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْماً نَافِعاً وَرِزْقاً طَيِّباً، وَعَمَلاً مُتَقَبَّلاً (بعد السلام من صلاة الفجر)</div>
 
     O Allāh, I ask You for knowledge which is beneficial and sustenance which is good, and deeds which are acceptable (To be said after giving salām for the Fajr prayer).
- 
+
     Ibn Mājah (#925). Also see _Ṣaḥīḥ Ibn Mājah_ (1/152) and _Majmūʿ al-Zawāʾid_ (#95, 10/111).
 
 <!-- TODO double check the following -->
@@ -895,6 +920,8 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
     Abū Dāwud (#1427), al-Tirmidhī (#3561), al-Nasāʾī (1/252), Ibn Mājah (#1179), and Aḥmad (1/96, 118, 150). Also see _Ṣaḥīḥ al-Tirmidhī_ (3/180), _Ṣaḥīḥ Ibn Mājah_ (1/194) and _Irwāʾ al-Ghalīl_ (2/175).
 
+<!-- The translation for Dua 118 is incomplete -->
+
 118. <div lang="ar">اللَّهُمَّ إِيَّاكَ نَعْبُدُ، وَلَكَ نُصَلِّي وَنَسْجُدُ، وَإِلَيْكَ نَسْعَى وَنَحْفِدُ، نَرْجُو رَحْمَتَكَ، وَنَخْشَى عَذَابَكَ، إِنَّ عَذَابَكَ بِالكَافِرِيْنَ ملْحَقٌ، اللَّهُمَّ إِنَّا نَسْتَعِيْنُكَ، وَنَسْتَغْفِرُكَ، وَنُثْنِي عَلَيْكَ الخَيْرَ، وَلَا نَكْفُرُكَ، وَنُؤْمِنُ بِكَ، وَنَخْضَعُ لَكَ، وَنَخْلَعُ مَنْ يَكْفُرُكَ</div>
 
     O Allāh, it is You we worship, and unto You we pray and prostrate, and towards You we hasten and You we serve. We hope for Your mercy and fear Your punishment, verily Your punishment will fall upon the disbelievers. O Allāh, we seek Your aid and ask Your pardon, we praise You with all good and do not disbelieve in You. We believe in You and submit unto You, and we disown and reject those who disbelieve in You.
@@ -1050,7 +1077,7 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
     O Allāh, there is no ease except in that which You have made easy, and You make the difficulty, if You wish, easy.
 
-    Ibn Ḥibbān in his _Ṣaḥīḥ_ (#2427), Mawārid and Ibn al-Sunnī (#351). Ibn Ḥajar said: “This ḥadīth is ṣaḥīḥ.” ʿAbd al-Qādir al-Arnaʾūṭ also declared it ṣaḥīḥ in his takrīj of Imām al-Nawawī's _al-Athkār_ (p.\ 106). 
+    Ibn Ḥibbān in his _Ṣaḥīḥ_ (#2427), Mawārid and Ibn al-Sunnī (#351). Ibn Ḥajar said: “This ḥadīth is ṣaḥīḥ.” ʿAbd al-Qādir al-Arnaʾūṭ also declared it ṣaḥīḥ in his takrīj of Imām al-Nawawī's _al-Athkār_ (p.\ 106).
 
 <!-- TODO double check the following (ANDROID) -->
 
@@ -1376,7 +1403,7 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
 
 188. <div lang="ar"></div>
 
-    (١) الْحَمْدُ للهِ 
+    (١) الْحَمْدُ للهِ
     (٢) يَرْحَمُكَ اللهُ
     (٣) يَهْدِيْكُمُ اللهُ وَيُصْلِحُ بَالَكُمْ
 
@@ -1908,5 +1935,3 @@ On the authority of Jābir ibn ʿAbd Allāh, who said: “The Prophet \pbuh woul
     When night falls, restrain your children (from going out) because at such time the devils spread about. After a period of time has passed, let them be. Shut your doors and mention Allāh's name, for verily the devil does not open a shut door, tie up your water-skins and mention Allāh's name, cover your vessels with anything and mention Allāh's name and put out your lamps.
 
     Al-Bukhārī (#5623, 10/88) and Muslim (#2012, 3/1595).
-
-

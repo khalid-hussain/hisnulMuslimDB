@@ -15,10 +15,7 @@
         (#2711, 4/2083). </reference>
     </dua>
     <dua id="2">
-      <arabic>لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الحَمدُ،
-        وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، سُبْحاَنَ اللهِ، وَالحَمدُ للهِ، وَلَا إِلَهَ إِلَّا
-        اللهُ وَاللهُ أَكْبَرُ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ الْعَلِيِّ الْعَظِيمِ،
-        رَبِّ اغْفِرْ لِي</arabic>
+      <arabic>لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الحَمدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، سُبْحَانَ اللهِ، وَالحَمدُ للهِ، وَلَا إِلَهَ إِلَّا اللهُ وَاللهُ أَكْبَرُ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ الْعَلِيِّ الْعَظِيمِ، رَبِّ اغْفِرْ لِي</arabic>
       <translation language="en">There is none worthy of worship but Allāh alone, Who has no
         partner, His is the dominion and to Him belongs all praise, and He is able to do all things.
         Glory is to Allāh. Praise is to Allāh. There is none worthy of worship but Allāh. Allāh is
@@ -30,8 +27,7 @@
         of Ibn Mājah (#3878), also see <em>Ṣaḥīḥ Ibn Mājah</em> (2/335).</reference>
     </dua>
     <dua id="3">
-      <arabic>الحَمدُ لِلهِ الَّذِي عَافَانِي فِي جَسَدِي، وَرَدَّ عَلَيَّ رُوحِي، وَأَذِنَ لِي
-        بِذِكْرِهِ</arabic>
+      <arabic>الحَمدُ للهِ الَّذِي عَافَانِي فِي جَسَدِي، وَرَدَّ عَلَيَّ رُوحِي، وَأَذِنَ لِي بِذِكْرِهِ</arabic>
       <translation language="en">Praise is to Allāh Who gave strength to my body, He returned my
         soul to me and permitted me to remember Him.</translation>
       <reference language="en">Al-Tirmidhī (#3401, 5/473), also see <em>Ṣaḥīḥ Al-Tirmidhī</em>
@@ -47,8 +43,7 @@
   <group id="2">
     <title language="en">Supplication when wearing clothes</title>
     <dua id="5">
-      <arabic>اَلحَمدُ لِلهِ الَّذِي كَسَانِي هَذَا (الثَّوْبَ) وَرَزَقَنِيهِ مِنْ غَيْرِ حَولٍ
-        مِنِّي وَ لَا قُوَّةٍ</arabic>
+      <arabic>اَلحَمدُ للهِ الَّذِي كَسَانِي هَذَا (الثَّوْبَ) وَرَزَقَنِيهِ مِنْ غَيْرِ حَولٍ مِنِّي وَلَا قُوَّةٍ</arabic>
       <translation language="en">Praise is to Allāh Who has clothed me with this (garment) and
         provided it for me, though I was powerless myself and incapable.</translation>
       <reference language="en">Abū Dāwud (#4023) and the wording is his, al-Tirmidhī (#2458) and Ibn
@@ -541,11 +536,36 @@
     </dua>
   </group>
   <group id="23">
-    <title language="en">Dua for the Prophet () after the Tashahhud</title>
+    <title language="en">Duʿā for the Prophet ﷺ after the Tashahhud</title>
+    <dua id="52">
+      <arabic>اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ، اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ</arabic>
+      <translation>O Allāh, send prayers upon Muḥammad and the followers of Muḥammad, just as You sent prayers upon Ibrāhim and upon the followers of Ibrāhim. Verily, You are full of praise and majesty. O Allāh, send blessings upon Muḥammad and upon the family of Muḥammad, just as You sent blessings upon Ibrāhim and upon the family of Ibrāhim. Verily, You are full of praise and majesty.</translation>
+      <reference>Al-Bukhārī (#337, 6/408).</reference>
+    </dua>
+    <dua id="53">
+      <arabic>اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى أَزْوَاجِهِ وَذُرِّيَّتِهِ كَمَا صَلَّيْتَ عَلَى آلِ إِبْرَاهِيمَ، وَبَارِكْ عَلَى مُحَمَّدٍ، وَ عَلَى أَزْوَاجِهِ وَذُرِّيَّتِهِ كَمَا بَارَكْتَ عَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ</arabic>
+      <translation>O Allāh, send prayers upon Muḥammad and upon the wives and descendants of Muḥammad, just as You sent prayers upon the family of Ibrāhim, and send blessings upon Muḥammad and upon the wives and descendants of Muḥammad, just as You sent blessings upon the family of Ibrāhim. Verily, You are full of praise and majesty.</translation>
+      <reference>Al-Bukhārī (#3369, 2/407) and Muslim (#407, 1/306).</reference>
+    </dua>
   </group>
   <group id="24">
     <title language="en">Supplication to be said after the last Tashahhud and before the
       Taslīm</title>
+    <dua id="54">
+      <arabic></arabic>
+      <translation></translation>
+      <reference></reference>
+    </dua>
+    <dua id="55"></dua>
+    <dua id="56"></dua>
+    <dua id="57"></dua>
+    <dua id="58"></dua>
+    <dua id="59"></dua>
+    <dua id="60"></dua>
+    <dua id="61"></dua>
+    <dua id="62"></dua>
+    <dua id="63"></dua>
+    <dua id="64"></dua>
   </group>
   <group id="25">
     <title language="en">Remembrance after the Taslīm</title>
