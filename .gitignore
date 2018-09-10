@@ -97,3 +97,7 @@ _pdf/*.toc
 _pdf/*.pdf
 _pdf/*.ent
 _pdf/content.tex
+
+# Unncessary files
+bulma-test.html
+package-lock.json
