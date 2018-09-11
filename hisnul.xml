@@ -257,7 +257,7 @@
     <dua id="24">
       <arabic>يُصَلِّي عَلَى النَّبِي صلى الله عليه وسلم بَعْدَ فَرَاغِهِ مِنْ إِجَابَةِ
         المُؤَذِّنِ.</arabic>
-      <translation>One should send prayers on the Prophet () after answering the call of the
+      <translation>One should send prayers on the Prophet ﷺ after answering the call of the
         muadhdhin.</translation>
       <reference>Muslim (#384, 1/288).</reference>
     </dua>
@@ -294,7 +294,7 @@
         of my sins with snow, water, and ice.</translation>
       <reference>Al-Bukhārī (#744, 1/181) and Muslim (#598, 1/419).</reference>
     </dua>
-  </group>
+  
   <dua id="28">
     <arabic>سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، وَتَبَارَكَ اسْمُكَ، وَتَعَالَى جَدُّكَ، وَلاَ
       إِلَهَ غَيْرُكَ.</arabic>
@@ -377,6 +377,7 @@
     <reference>Al-Bukhārī (3/3), (11/116), and (#1120, 13/371, 423, 465), and Muslim (#769, 1/532)
       in a summarised form.</reference>
   </dua>
+  </group>
   <group id="17">
     <title language="en">While bowing in Ṣalāh (Rukūʿ)</title>
     <dua id="33">
@@ -454,13 +455,8 @@
         me.</translation>
       <reference>Al-Bukhārī (#794, 1/99) and Muslim (#484, 1/350).</reference>
     </dua>
+    
     <dua id="43">
-      <arabic>سُبُّوحٌ، قُدُّوسٌ، رَبُّ المَلائِكَةِ وَالرُّوحِ</arabic>
-      <translation>Perfect and Holy (He is), Lord of the angels and the Rūḥ (i.e.
-        Jibrāʾīl).</translation>
-      <reference>Muslim (1/533).</reference>
-    </dua>
-    <dua id="44">
       <arabic>اللَّهُمَّ لَكَ سَجَدْتُ، وَبِكَ آمَنْتُ، وَلَكَ أَسْلَمْتُ، سَجَدَ وَجْهِي لِلَّذِي
         خَلَقَهُ، وَصَوَّرَهَ، وَشَقَّ سَمْعَهُ وَبَصَرَهُ، تَبَارَكَ اللَّهُ أَحْسَنُ
         الخَالِقِينَ</arabic>
@@ -470,24 +466,21 @@
         creators.</translation>
       <reference>Muslim (771, 1/534).</reference>
     </dua>
-    <dua id="45">
+    <dua id="44">
       <arabic>سُبْحَانَ ذِي الْجَبَرُوتِ، وَالْمَلَكُوتِ، وَالكِبْرِيَاءِ، وَالْعَظَمَةِ</arabic>
       <translation>How perfect He is, The Possessor of total power, sovereignty, magnificence and
         grandeur.</translation>
       <reference>Abū Dāwud (#873, 1/230), Aḥmad (6/24), and al-Nasāʾī (2/191). Al-Albānī
         authenticated it in <em>Ṣaḥīḥ Abī Dāwud</em> (1/166).</reference>
     </dua>
-    <dua id="46">
+    <dua id="45">
       <arabic>اللًّهُمَّ اغْفِرْ لِي ذَنْبِي كُلَّهُ، دِقَّهُ وَجِلَّهُ، وَأَوَّلَهُ وَآخِرَهُ،
         وَعَلانِيَتَهُ وَسِرَّهُ</arabic>
       <translation>O Allāh, forgive me all of my sins, the small and great of them, the first and
         last of them, and the apparent and hidden of them.</translation>
       <reference>Muslim (#483, 1/350).</reference>
     </dua>
-  </group>
-  <group id="20">
-    <title language="en">Supplications between sajdatayn (two prostrations)</title>
-    <dua id="47">
+    <dua id="46">
       <arabic>اللَّهُمَّ إِنِّي أَعُوْذُ بِرِضَاكَ مِنْ سَخَطِكَ، وَبِمُعَافَاتِكَ مِنْ عُقُوبَتِكَ،
         وَأَعُوْذُ بِكَ مِنْكَ، لاَ أُحْصِي ثَنَاءً عَلَيْكَ، أَنْتَ كَمَا أَثْنَيْتَ عَلَى
         نَفْسِكَ</arabic>
@@ -496,23 +489,28 @@
         praise. You are as You have praised Yourself.</translation>
       <reference>Muslim (#486, 1/352).</reference>
     </dua>
-    <dua id="48">
+  </group>
+  <group id="20">
+    <title language="en">Supplications between sajdatayn (two prostrations)</title>
+    
+    <dua id="47">
       <arabic>رَبِّ اغْفِرْ لِي، رَبِّ اغْفِرْ لِي</arabic>
       <translation>My Lord forgive me, My Lord forgive me.</translation>
       <reference>Abū Dāwud (#874, 1/231). Also see <em>Ṣaḥīḥ Ibn Mājah</em> (1/148).</reference>
     </dua>
-  </group>
-  <group id="21">
-    <title language="en">Supplication for Sajdah (prostration) due to recitation of Qurʾān</title>
-    <dua id="49">
+    <dua id="48">
       <arabic>اللَّهُمَّ اغْفِرْ لِي، وَارْحَمْنِي، وَاهْدِنِي، وَاجْبُرْنِي، وَعَافِنِي،
         وَارْزُقْنِي، وَارْفَعْنِي</arabic>
       <translation>O Allāh, forgive me, have mercy upon me, guide me, enrich me, give me health,
         grant me sustenance and raise my rank.</translation>
       <reference>Abū Dāwud (#850), al-Tirmidhī (#284), Ibn Mājah (#898). Also see <em>Ṣaḥīḥ
-          al-Tirmidhī</em> (1/90), and <em>Ṣaḥīḥ Ibn Mājah</em> (1/148).</reference>
+        al-Tirmidhī</em> (1/90), and <em>Ṣaḥīḥ Ibn Mājah</em> (1/148).</reference>
     </dua>
-    <dua id="50">
+  </group>
+  <group id="21">
+    <title language="en">Supplication for Sajdah (prostration) due to recitation of Qurʾān</title>
+    
+    <dua id="49">
       <arabic>سَجَدَ وَجْهِي لِلَّذِي خَلَقَهُ، وَشَقَّ سَمْعَهُ وَبَصَرَهُ، بِحَوْلِهِ وَقُوَّتِهِ
         (فَتَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ)</arabic>
       <translation>My face fell prostrate before He who created it and brought forth its faculties
@@ -521,10 +519,7 @@
       <reference>Al-Tirmidhī (#580, 2/474), Aḥmad (6/30) and al-Hākim declated it authentic and
         al-Dhahabī agreed with him (1/220). The extension is from Ṣūrah al-Muʾminūn.</reference>
     </dua>
-  </group>
-  <group id="22">
-    <title language="en">Duʿā of Tashahhud</title>
-    <dua id="51">
+    <dua id="50">
       <arabic>اللَّهُمَّ اكْتُبْ لِي بِهَا عِنْدَكَ أَجْراً، وَضَعْ عَنِّي بِهَا وِزْراً،
         وَاجْعَلْهَا لِي عِنْدَكَ ذُخْراً، وَتَقَبَّلَهَا مِنِّي كَمَا تَقَبَّلْتَهَا مِنْ عَبْدِكَ
         دَاوُدَ</arabic>
@@ -533,6 +528,14 @@
         Dāwud.</translation>
       <reference>Al-Tirmidhī (#579, 2/473) and al-Hākim declared it ṣaḥīḥ and al-Dhahabī agreed with
         him (1/219).</reference>
+    </dua>
+  </group>
+  <group id="22">
+    <title language="en">Duʿā of Tashahhud</title>
+    <dua id="51">
+      <arabic>التَّحِيَّاتُ لِلَّهِ، وَالصَّلَوَاتُ، وَالطَّيِّبَاتُ، السَّلامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، السَّلامُ عَلَيْنَا وَعَلَى عِبَادِ اللهِ الصَّالِحِينَ،. أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ، وَأَشْهَدُ أَنَّ مُحَمَّداً عَبْدُهُ وَرَسُولُهُ</arabic>
+      <translation>Al-Tahiyyāt is for Allāh. All acts of worship and good deeds are for Him. Peace and the mercy and blessings of Allāh be upon you O Prophet. Peace be upon us and all of Allāh's righteous servants. I bear witness that none has the right to be worshipped except Allāh and I bear witness that Muḥammad is His slave and Messenger.</translation>
+      <reference>Al-Bukhārī (#831, 2/311) and Muslim (#402, 1/301).</reference>
     </dua>
   </group>
   <group id="23">
@@ -552,20 +555,60 @@
     <title language="en">Supplication to be said after the last Tashahhud and before the
       Taslīm</title>
     <dua id="54">
-      <arabic></arabic>
-      <translation></translation>
-      <reference></reference>
+      <arabic>اللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنْ عَذَابِ الْقَبْرِ، وَمِنْ عَذَابِ جَهَنَّمَ، وَمِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ، وَمِنْ شَرِّ فِتْنَةِ الْمَسِيحِ الدَّجَّالِ</arabic>
+      <translation>O Allāh, I take refuge in You from the punishment of the grave, from the torment of the Fire, from the trials and tribulations of life and death, and from the evil affliction of al-Masīḥ al-Dajjāl.</translation>
+      <reference>Al-Bukhārī (2/102) and Muslim (1/412).</reference>
     </dua>
-    <dua id="55"></dua>
-    <dua id="56"></dua>
-    <dua id="57"></dua>
-    <dua id="58"></dua>
-    <dua id="59"></dua>
-    <dua id="60"></dua>
-    <dua id="61"></dua>
-    <dua id="62"></dua>
-    <dua id="63"></dua>
-    <dua id="64"></dua>
+    <dua id="55">
+      <arabic>اللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنْ عَذَابِ الْقَبْرِ، وأَعُوْذُ بِكَ مِنْ فِتْنَةِ الْمَسِيحِ الدَّجَّالِ، وَأَعُوْذُ بِكَ مِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ، اللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الْمَأْثَمِ وَالْمَغْرَمِ</arabic>
+      <translation>O Allāh, I take refuge in You from the punishment of the grave, and I take refuge in You from the temptation and trial of al-Masīḥ al-Dajjāl, and I take refuge in You from the trials and tribulations of life and death. O Allāh, I take refuge in You from sin and debt.</translation>
+      <reference>Al-Bukhārī (#832, 2/102) and Muslim (#589, 1/412). The wording is from Muslim.</reference>
+    </dua>
+    <dua id="56">
+      <arabic>اللَّهُمَّ إِنِّي ظَلَمْتُ نَفْسِي ظُلْماً كَثِيراً، وَلَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ، فَاغْفِرْ لِي مَغْفِرةً مِنْ عِنْدِكَ، وَارْحَمْني، إِنَّكَ أَنْتَ الْغَفُورُ الرَّحِيمُ</arabic>
+      <translation>O Allāh, I have indeed oppressed my soul excessively and none can forgive sin except You, so forgive me a forgiveness from Yourself and have mercy upon me. Surely, You are The Most-Forgiving, The Most-Merciful.</translation>
+      <reference>Al-Bukhārī (#7387, 8/168) and Muslim (#2705, 4/2078).</reference>
+    </dua>
+    <dua id="57">
+      <arabic>للَّهُمَّ اغْفِرْ لِي مَا قَدَّمْتُ، وَمَا أَخَّرْتُ، وَمَا أَسْرَرْتُ، وَمَا أَعْلَنْتُ، وَمَا أَسْرَفْتُ، وَمَا أَنْتَ أَعْلَمُ بِهِ مِنِّي، أَنْتَ الْمُقَدِّمُ، وَأَنْتَ الْمُؤَخِّرُ لَا إِلَهَ إِلَّا أَنْتَ</arabic>
+      <translation>O Allāh, forgive me for those sins which have come to pass as well as those which shall come to pass, and those I have committed in secret as well as those I have made public, and where I have exceeded all bounds as well as those things about which You are more knowledgeable. You are al-Muqaddim and al-Muʾakhkhir. None has the right to be worshiped except You.</translation>
+      <reference>Muslim (#771, 1/534).</reference>
+    </dua>
+    <dua id="58">
+      <arabic>اللَّهُمَّ أَعِنِّي عَلَى ذِكْرِكَ، وَشُكْرِكَ، وَحُسْنِ عِبَادَتِكَ</arabic>
+      <translation>O Allāh, help me to remember You, to thank You, and to worship You in the best of manners.</translation>
+      <reference>Abū Dāwud (#1522, 2/86) and al-Nasāʾī (3/53). Al-Albānī authenticated it in <em>Ṣaḥīḥ Abī Dāwud</em> (1/284).</reference>
+    </dua>
+    <dua id="59">
+      <arabic>اللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ البُخْلِ، وَأَعُوذُبِكَ مِنَ الْجُبْنِ، وَأَعُوْذُ بِكَ مِنْ أَنْ أُرَدَّ إِلَى أَرْذَلِ الْعُمُرِ، وَأَعُوْذُ بِكَ مِنْ فِتْنَةِ الدُّنْيَا، وَأعُوذُبِكَ مِنْ عَذَابِ الْقَبْرِ</arabic>
+      <translation>O Allāh, I take refuge in You from miserliness and cowardice, I take refuge in You lest I be returned to the worst of lives. And I take refuge in You from the trails and tribulations of this life and the punishment of the grave.</translation>
+      <reference>Al-Bukhārī (#2822, 6/35).</reference>
+    </dua>
+    <dua id="60">
+      <arabic>اللَّهُمَّ إِنِّي أَسْأَلُكَ الْجَنَّةَ، وَأَعُوْذُ بِكَ مِنْ النَّارِ</arabic>
+      <translation>O Allāh, I ask You to grant me Paradise and I take refuge in You from the Fire.</translation>
+      <reference>Abū Dāwud (#792) and Ibn Mājah, see <em>Ṣaḥīḥ Ibn Mājah</em> (2/328).</reference>
+    </dua>
+    <dua id="61">
+      <arabic>اللَّهُمَّ بِعِلْمِكَ الْغَيْبَ وَقُدْرَتِكَ عَلَى الْخَلْقِ؛ أَحْيِنِي مَا عَلِمْتَ الْحَيَاةَ خَيْراً لِي، وَتَوَفَّنِي إِذَا عَلِمْتَ الْوَفَاةَ خَيْراً لِي، اللَّهُمَّ إِنِّي أَسْأَلُكَ خَشْيَتَكَ فِي الْغَيْبِ وَالشَّهَادَةِ، وَأَسْأَلُكَ كَلِمَةَ الْحَقِّ فِي الرِّضَا وَالْغَضَبِ، وَأَسْأَلُكَ الْقَصْدَ فِي الْغِنَى وَالْفَقْرِ، وَأَسْأَلُكَ نَعِيماً لاَ يَنْفَدُ، وَأَسْأَلُكَ قُرَّةَ عَيْنٍ لاَ تَنْقَطِعُ، وَأَسْأَلُكَ الرَّضَا بَعْدَ الْقَضَاءِ، وَأَسْأَلُكَ بَرْدَ الْعَيْشِ بَعْدَ الْمَوْتِ، وَأَسْأَلُكَ لَذَّةَ النَّظَرِ إِلَى وَجْهِكَ، وَالشَّوْقَ إِلَى لِقَائِكَ فِي غَيْرِ ضَرَّاءَ مُضِرَّةٍ، وَلَا فِتْنَةٍ مُضِلَّةٍ، اللَّهُمَّ زَيَّنَّا بِزِينَةِ الإِيمَانِ، وَاجْعَلْنَا هُدَاةً مُهْتَدِينَ</arabic>
+      <translation>O Allāh, by Your knowledge of the unseen and Your power over creation, keep me alive so long as You know such life to be good for me and take me if You know death to be better for me. O Allāh, make me fearful of You whether in secret or in public and I ask You to make me true in speech, in times of pleasure and anger. I ask you to make me moderate in times of wealth and poverty and I ask You for everlasting bliss and joy which will never cease. I ask You to make me pleased with what You have decreed and for an easy life after death. I ask You for the sweetness of looking upon Your Face and a longing to encounter You in a manner which does not entail a calamity which will bring about harm nr a trial which will cause deviation. O Allāh, beautify us with the adornment of faith and make us of those who guide and are rightly guided.</translation>
+      <reference>Al-Nasāʾī (#55, 4/54) and Aḥmad (4/364). Al-Albānī authenticated it in <em>Ṣaḥīḥ Al-Nasāʾī</em> (1/281).</reference>
+    </dua>
+    <dua id="62">
+      <arabic>اللَّهُمَّ إِنِّي أَسْأَلُكَ يَا اللَّهُ بِأَنَّكَ الْوَاحِدُ الأَحَدُ الصَّمَدُ، الَّذِي لَمْ يَلِدْ وَلَمْ يُولَدْ، وَلَمْ يَكُنْ لَهُ كُفُواً أَحَدٌ، أَنْ تَغْفِرَ لِي ذُنُوبِي، إِنَّكَ أَنْتَ الْغَفُورُ الرَّحِيمُ</arabic>
+      <translation>O Allāh, I ask You O Allāh—as You are The One, The Only, al-Ṣamad, The One who begets not, nor was He begotten and there is none like unto Him—that You forgive me my sins for verily You are The Oft-Forgiving, Most-Merciful.</translation>
+      <reference>Al-Nasāʾī (3/52) and Aḥmad (4/238). Al-Albānī authenticated it in <em>Ṣaḥīḥ al-Nasāʾī</em> (1/280).</reference>
+    </dua>
+    <dua id="63">
+      <arabic>اللَّهُمَّ إِنِّي أَسأَلُكَ بِأَنَّ لَكَ الْحَمْدُ، لَا إِلَهَ إِلَّا أَنْتَ، وَحْدَكَ لَا شَرِيكَ لَكَ، الْمَنَّانُ، يَا بَدِيْعَ السَّمَوَاتِ وَالأَرْضِ، يَاذَا الْجَلالِ وَالإكْرَامِ، يَاحَيُّ يَاقَيُّومُ، إِنِّي أَسْأَلُكَ الْجَنَّةَ، وَأَعُوْذُ بِكَ مِنَ النَّارِ</arabic>
+      <translation>O Allāh, I ask You as unto You is all praise, none has the right to be worshiped except You, alone, without partner. You are the Benefactor. O Originator of the heavens and the earth, O possessor of majesty and honor, O Ever Living, O Self-Subsisting and Supporter of all, verily I ask You for Paradise and I take refuge with You from the Fire.</translation>
+      <reference>Abū Dāwud (#1495), al-Nasāʾī (3/52), Ibn Mājah (#3858) and al-Tirmidhī (#3544). Also see <em>Ṣaḥīḥ Ibn Mājah</em> (2/329).</reference>
+    </dua>
+    <dua id="64">
+      <arabic>اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَنِّي أَشْهَدُ أَنَّكَ أَنْتَ اللَّهُ لَا إِلَهَ إِلَّا أَنْتَ، الأَحَدُ الصَّمَدُ الَّذِي لَمْ يَلِدْ وَلَمْ يُولَدْ، وَلَمْ يَكُنْ لَهُ كُفُواً أَحَدٌ</arabic>
+      <translation>O Allāh, I ask You, as I bear witness that You are Allāh, none has the right to be worshiped except You, The One, al-Ṣamad Who begets not nor was He begotten and there is none like unto Him.</translation>
+      <reference>Abū Dāwud (#1493, 2/62), al-Tirmidhī (#3475, 5/515), Ibn Mājah (#3857, 2/1267) and Aḥmad (5/360). Also see <em>Ṣaḥīḥ Ibn Mājah</em> (2/329) and <em>Ṣaḥīḥ al-Tirmidhī</em> (3/163).</reference>
+    </dua>
   </group>
   <group id="25">
     <title language="en">Remembrance after the Taslīm</title>
